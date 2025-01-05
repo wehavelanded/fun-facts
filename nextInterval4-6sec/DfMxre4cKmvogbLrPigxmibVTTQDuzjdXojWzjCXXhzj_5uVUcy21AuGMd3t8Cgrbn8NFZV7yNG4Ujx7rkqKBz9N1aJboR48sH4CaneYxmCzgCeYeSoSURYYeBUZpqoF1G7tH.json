@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "5uVUcy21AuGMd3t8Cgrbn8NFZV7yNG4Ujx7rkqKBz9N1aJboR48sH4CaneYxmCzgCeYeSoSURYYeBUZpqoF1G7tH",
+    "mint": "9QPQDkYKxLj7duLV7tXLVs7zSFxd3RdZH8d69uM3pump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735702030,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311111437,
+    "readable_time": "2025-01-01T03:27:10.000Z",
+    "action": "Buy",
+    "token": "DOGE",
+    "price": "$411.66",
+    "volume": "27.3M",
+    "pricePerToken": "$0.0₄15052",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/5uVUcy21AuGMd3t8Cgrbn8NFZV7yNG4Ujx7rkqKBz9N1aJboR48sH4CaneYxmCzgCeYeSoSURYYeBUZpqoF1G7tH",
+    "trans_Time": "2025-01-01 03:27:10",
+    "tokens_involved": [
+      "9QPQDkYKxLj7duLV7tXLVs7zSFxd3RdZH8d69uM3pump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "5pBDcR9j8vsFFmrUrRyKRdUNnkkv4GJ3XZMbXyMLWiagZpyVN1Q7LaEYtfVGvJ419w3w4tEgGLwKAN2qP39PzkPq",
+    "mint": "9QPQDkYKxLj7duLV7tXLVs7zSFxd3RdZH8d69uM3pump",
+    "sol_amount": 240820083,
+    "token_amount": 2026753891105,
+    "is_buy": true,
+    "user": "EYo3AKWYp59uCa1ufw5Ti7rSS7bcichosKkjpUdt5Uk6",
+    "timestamp": 1735702036,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311111453,
+    "readable_time": "2025-01-01T03:27:16.000Z"
+  }
+}

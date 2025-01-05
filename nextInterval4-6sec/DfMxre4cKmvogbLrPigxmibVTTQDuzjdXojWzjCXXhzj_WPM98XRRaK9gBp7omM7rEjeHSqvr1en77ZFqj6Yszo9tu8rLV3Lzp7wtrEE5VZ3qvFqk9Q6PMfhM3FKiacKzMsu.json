@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "WPM98XRRaK9gBp7omM7rEjeHSqvr1en77ZFqj6Yszo9tu8rLV3Lzp7wtrEE5VZ3qvFqk9Q6PMfhM3FKiacKzMsu",
+    "mint": "FXhw4LLjVeC9qaK9o1xDgPWBdvpBaLi32qNMzS7oemw3",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735702027,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311111430,
+    "readable_time": "2025-01-01T03:27:07.000Z",
+    "action": "Buy",
+    "token": "COOKED",
+    "price": "$411.66",
+    "volume": "64.6M",
+    "pricePerToken": "$0.0₅63717",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/WPM98XRRaK9gBp7omM7rEjeHSqvr1en77ZFqj6Yszo9tu8rLV3Lzp7wtrEE5VZ3qvFqk9Q6PMfhM3FKiacKzMsu",
+    "trans_Time": "2025-01-01 03:27:07",
+    "tokens_involved": [
+      "FXhw4LLjVeC9qaK9o1xDgPWBdvpBaLi32qNMzS7oemw3"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "hAMVBabbMNyNCWJAV6dt85AXd6epmCe9tiNgXCFTb9RxrWJFAb2xUa98cHhvW9cUKMkv5gPufN4jLqi2pGdBudR",
+    "mint": "FXhw4LLjVeC9qaK9o1xDgPWBdvpBaLi32qNMzS7oemw3",
+    "sol_amount": 840564573,
+    "token_amount": 7017208465023,
+    "is_buy": false,
+    "user": "2YqTcTMDFD2vvVHcc8Wd61zwLiWaDZvAKrzXFW1adZ3K",
+    "timestamp": 1735702032,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311111442,
+    "readable_time": "2025-01-01T03:27:12.000Z"
+  }
+}

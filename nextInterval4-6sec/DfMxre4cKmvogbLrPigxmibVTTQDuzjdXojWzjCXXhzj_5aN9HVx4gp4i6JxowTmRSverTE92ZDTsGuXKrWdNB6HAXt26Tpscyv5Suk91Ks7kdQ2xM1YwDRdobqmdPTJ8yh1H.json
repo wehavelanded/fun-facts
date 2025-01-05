@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "5aN9HVx4gp4i6JxowTmRSverTE92ZDTsGuXKrWdNB6HAXt26Tpscyv5Suk91Ks7kdQ2xM1YwDRdobqmdPTJ8yh1H",
+    "mint": "ChEcPHSHMgFnKFhFwG4GTrzt69dKTerNSBEicUUNpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735847435,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311466949,
+    "readable_time": "2025-01-02T19:50:35.000Z",
+    "action": "Buy",
+    "token": "Ethel",
+    "price": "$446.12",
+    "volume": "65.5M",
+    "pricePerToken": "$0.0₅68083",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/5aN9HVx4gp4i6JxowTmRSverTE92ZDTsGuXKrWdNB6HAXt26Tpscyv5Suk91Ks7kdQ2xM1YwDRdobqmdPTJ8yh1H",
+    "trans_Time": "2025-01-02 19:50:35",
+    "tokens_involved": [
+      "ChEcPHSHMgFnKFhFwG4GTrzt69dKTerNSBEicUUNpump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "96P8aaP9DBcoaVp5uuD9BHBCFvxyPXJ6JMZLZ8PEaCJasksCu6Qk7hT5xkzjge9Y2T4mSS5qPuBrrKkEb8iVFN5",
+    "mint": "ChEcPHSHMgFnKFhFwG4GTrzt69dKTerNSBEicUUNpump",
+    "sol_amount": 994680686,
+    "token_amount": 9537617954759,
+    "is_buy": true,
+    "user": "6QDET6FDBrDvTKJuh2sQ16wGdkeQQZJ288thVkYyMahL",
+    "timestamp": 1735847440,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311466963,
+    "readable_time": "2025-01-02T19:50:40.000Z"
+  }
+}

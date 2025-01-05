@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "5t3v8tF7QSM63fuYDQA1ZYZf5xCHQY2XuEW9WKF1g7k55GXG2F36wd5RZd1Gt9osFDGzDn4DMd9YH5m5KQBdiQPj",
+    "mint": "CefUWhPNfAWnhNKv4wemtGpjDFTHWG5ZyjC51Yqppump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735952328,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311721115,
+    "readable_time": "2025-01-04T00:58:48.000Z",
+    "action": "Buy",
+    "token": "OBSCURA",
+    "price": "$467.71",
+    "volume": "59.6M",
+    "pricePerToken": "$0.0₅78523",
+    "change": "--",
+    "updatedAgo": "18h ago",
+    "transactionLink": "https://solscan.io/tx/5t3v8tF7QSM63fuYDQA1ZYZf5xCHQY2XuEW9WKF1g7k55GXG2F36wd5RZd1Gt9osFDGzDn4DMd9YH5m5KQBdiQPj",
+    "trans_Time": "2025-01-04 00:58:48",
+    "tokens_involved": [
+      "CefUWhPNfAWnhNKv4wemtGpjDFTHWG5ZyjC51Yqppump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "3Y4asKgLDEMAvX8gSX3aQ94mMcs2kGHzcorGzN7XYESv6TSk39iAvGoMQN6ih6KqA2w3LZfYdjMHUqRfY86fxypc",
+    "mint": "CefUWhPNfAWnhNKv4wemtGpjDFTHWG5ZyjC51Yqppump",
+    "sol_amount": 112475947,
+    "token_amount": 2276800870787,
+    "is_buy": true,
+    "user": "AxFuiWwxtL33yeMY896YP3eiRq3Lweuyu1gezZRc8NPc",
+    "timestamp": 1735952333,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311721127,
+    "readable_time": "2025-01-04T00:58:53.000Z"
+  }
+}

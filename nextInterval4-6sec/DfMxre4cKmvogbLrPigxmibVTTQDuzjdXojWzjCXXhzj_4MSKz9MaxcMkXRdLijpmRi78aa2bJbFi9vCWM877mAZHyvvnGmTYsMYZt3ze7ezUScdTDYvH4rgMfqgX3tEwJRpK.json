@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "4MSKz9MaxcMkXRdLijpmRi78aa2bJbFi9vCWM877mAZHyvvnGmTYsMYZt3ze7ezUScdTDYvH4rgMfqgX3tEwJRpK",
+    "mint": "9djrKJbtDENv4xHXXqdtdoCodn7N7qjEHHs21snmfLMD",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735424522,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310434612,
+    "readable_time": "2024-12-28T22:22:02.000Z",
+    "action": "Buy",
+    "token": "MARC",
+    "price": "$419.69",
+    "volume": "56.5M",
+    "pricePerToken": "$0.0₅74328",
+    "change": "--",
+    "updatedAgo": "6d ago",
+    "transactionLink": "https://solscan.io/tx/4MSKz9MaxcMkXRdLijpmRi78aa2bJbFi9vCWM877mAZHyvvnGmTYsMYZt3ze7ezUScdTDYvH4rgMfqgX3tEwJRpK",
+    "trans_Time": "2024-12-28 22:22:02",
+    "tokens_involved": [
+      "9djrKJbtDENv4xHXXqdtdoCodn7N7qjEHHs21snmfLMD"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "4CaoX72qENsGsqnCMBMYM4U5EcD9MQzxf8MtVvhmbGFyA841y4BbugAcRweVTWcG5zfGXsgFwjrHTDKhbmtPkz5c",
+    "mint": "9djrKJbtDENv4xHXXqdtdoCodn7N7qjEHHs21snmfLMD",
+    "sol_amount": 514371962,
+    "token_amount": 5628859568063,
+    "is_buy": false,
+    "user": "4gPZyZSepi7iciRm1aoSVYJsdPcBZkMQP2ckzMy9QxQp",
+    "timestamp": 1735424527,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310434624,
+    "readable_time": "2024-12-28T22:22:07.000Z"
+  }
+}

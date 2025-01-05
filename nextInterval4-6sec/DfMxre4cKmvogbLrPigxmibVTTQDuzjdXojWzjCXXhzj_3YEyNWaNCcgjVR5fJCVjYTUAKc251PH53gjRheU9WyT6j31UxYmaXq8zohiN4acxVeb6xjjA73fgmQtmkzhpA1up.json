@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "3YEyNWaNCcgjVR5fJCVjYTUAKc251PH53gjRheU9WyT6j31UxYmaXq8zohiN4acxVeb6xjjA73fgmQtmkzhpA1up",
+    "mint": "81v9GMcuXx43df25RJ8XiEdVkHywZU6dKKDMqy9Lpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735967966,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311759010,
+    "readable_time": "2025-01-04T05:19:26.000Z",
+    "action": "Buy",
+    "token": "CHIDORI",
+    "price": "$637.84",
+    "volume": "64.9M",
+    "pricePerToken": "$0.0₅98211",
+    "change": "--",
+    "updatedAgo": "13h ago",
+    "transactionLink": "https://solscan.io/tx/3YEyNWaNCcgjVR5fJCVjYTUAKc251PH53gjRheU9WyT6j31UxYmaXq8zohiN4acxVeb6xjjA73fgmQtmkzhpA1up",
+    "trans_Time": "2025-01-04 05:19:26",
+    "tokens_involved": [
+      "81v9GMcuXx43df25RJ8XiEdVkHywZU6dKKDMqy9Lpump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "4ge3CDh5bpPLQHCYHNCJPA4JjRTB9aM5zWnvUjZUtbvJX9t5duz6pwLg8V5bRL9Wp3eQqWdaGouV6JtvDbTy8cN9",
+    "mint": "81v9GMcuXx43df25RJ8XiEdVkHywZU6dKKDMqy9Lpump",
+    "sol_amount": 218764021,
+    "token_amount": 1736362118622,
+    "is_buy": true,
+    "user": "73kdnypwetuKDcv8sGF79S3akn5A5nsgBsGc9FMxQc6o",
+    "timestamp": 1735967971,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311759020,
+    "readable_time": "2025-01-04T05:19:31.000Z"
+  }
+}

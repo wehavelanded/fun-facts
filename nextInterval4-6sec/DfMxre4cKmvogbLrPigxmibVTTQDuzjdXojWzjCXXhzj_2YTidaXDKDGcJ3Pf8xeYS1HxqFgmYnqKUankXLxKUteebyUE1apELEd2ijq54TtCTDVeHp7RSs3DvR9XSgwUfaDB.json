@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "2YTidaXDKDGcJ3Pf8xeYS1HxqFgmYnqKUankXLxKUteebyUE1apELEd2ijq54TtCTDVeHp7RSs3DvR9XSgwUfaDB",
+    "mint": "8wVysgbxezi7zz3ft3rJHvkd5TmKqtf5wFrUAXHrpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735754778,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311240754,
+    "readable_time": "2025-01-01T18:06:18.000Z",
+    "action": "Buy",
+    "token": "GlobalFog",
+    "price": "$410.13",
+    "volume": "67.8M",
+    "pricePerToken": "$0.0₅60449",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/2YTidaXDKDGcJ3Pf8xeYS1HxqFgmYnqKUankXLxKUteebyUE1apELEd2ijq54TtCTDVeHp7RSs3DvR9XSgwUfaDB",
+    "trans_Time": "2025-01-01 18:06:18",
+    "tokens_involved": [
+      "8wVysgbxezi7zz3ft3rJHvkd5TmKqtf5wFrUAXHrpump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "UiKcM7pZVrq85DBdQjPPZ88x5XZE97fzJ3RnyhP4MmSNx4QCfBBR6N2oQJBU4dVh39bm9n2PYGfXYgDE7AaZcLa",
+    "mint": "8wVysgbxezi7zz3ft3rJHvkd5TmKqtf5wFrUAXHrpump",
+    "sol_amount": 99308683,
+    "token_amount": 3141478367563,
+    "is_buy": true,
+    "user": "Ajg8EiK6aVhcMpTuBrFyEdjDGLBvJE96oZBNfrLLdZYo",
+    "timestamp": 1735754783,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311240766,
+    "readable_time": "2025-01-01T18:06:23.000Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "4fHtRrzQzWwmf1HGKZY7Q4BxaBJsCccZwiaxGheDMQEZuGuPotVmzshb9RNP9b4mWKYbzDyNy2P7XARd8v9ZsYKG",
+    "mint": "Adb4uQjcJAhjFzBDnqJkrSxB6zNxoYcze8uAQWA2pump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735938516,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311687703,
+    "readable_time": "2025-01-03T21:08:36.000Z",
+    "action": "Buy",
+    "token": "PLURYS",
+    "price": "$212.29",
+    "volume": "7.2M",
+    "pricePerToken": "$0.0₄29572",
+    "change": "--",
+    "updatedAgo": "22h ago",
+    "transactionLink": "https://solscan.io/tx/4fHtRrzQzWwmf1HGKZY7Q4BxaBJsCccZwiaxGheDMQEZuGuPotVmzshb9RNP9b4mWKYbzDyNy2P7XARd8v9ZsYKG",
+    "trans_Time": "2025-01-03 21:08:36",
+    "tokens_involved": [
+      "Adb4uQjcJAhjFzBDnqJkrSxB6zNxoYcze8uAQWA2pump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "3UUbJcauQvikPxgpi7Qp3g479Zf7tDKFHsgE6LUG55KEXmqqZ9BbCbUSQpzFt5GATMXFbtZcuYzzXHJ22Ej4TCKi",
+    "mint": "Adb4uQjcJAhjFzBDnqJkrSxB6zNxoYcze8uAQWA2pump",
+    "sol_amount": 980198019,
+    "token_amount": 3945938534989,
+    "is_buy": true,
+    "user": "Hq5JiZfK3irLYYe2KQNr6Lid62VtyvJZM2VY3HVZEF4Y",
+    "timestamp": 1735938521,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311687715,
+    "readable_time": "2025-01-03T21:08:41.000Z"
+  }
+}

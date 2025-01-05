@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "2cbjKYNAP8KKa4TfgBYNcgiG9EpWhFpw7m1tBHV2eXjhCqSQeo1ybErcc191ZZoZgibzzWZj7QQZuPcLsgTbdrVJ",
+    "mint": "92khhnH81NtWwMX4nQybHEZpznKh6SSCH9aNXuSPpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735673434,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311041926,
+    "readable_time": "2024-12-31T19:30:34.000Z",
+    "action": "Buy",
+    "token": "ventus",
+    "price": "$419.6",
+    "volume": "30.8M",
+    "pricePerToken": "$0.0₄13635",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/2cbjKYNAP8KKa4TfgBYNcgiG9EpWhFpw7m1tBHV2eXjhCqSQeo1ybErcc191ZZoZgibzzWZj7QQZuPcLsgTbdrVJ",
+    "trans_Time": "2024-12-31 19:30:34",
+    "tokens_involved": [
+      "92khhnH81NtWwMX4nQybHEZpznKh6SSCH9aNXuSPpump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "2aWYqZGyTrShv7JdWCnXDvVKh6sgkMGqiuK9oDmYnWmch4bfLMh8t4YYRX27dEidMz4bNK253ArPSGWbycyhRmpj",
+    "mint": "92khhnH81NtWwMX4nQybHEZpznKh6SSCH9aNXuSPpump",
+    "sol_amount": 38203859,
+    "token_amount": 195755948535,
+    "is_buy": false,
+    "user": "zerowfY91rbHy5bqcMToo2HaHMYFPB6UhZdTQw3av7C",
+    "timestamp": 1735673439,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311041939,
+    "readable_time": "2024-12-31T19:30:39.000Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "pnfT99w5dXjhuMHHLVFah9BxrfgPTcR9ZcdjgGcCsHfvWPm4pGvKCYYdow3cCiKLrE3hjTyit1H1nYqM9Whv5en",
+    "mint": "9R11gVxok72oqPMVqpSu3FSobQ4DU8Q9ZJnoFC3Zpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735926241,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311657959,
+    "readable_time": "2025-01-03T17:44:01.000Z",
+    "action": "Buy",
+    "token": "ride it",
+    "price": "$512.23",
+    "volume": "67.5M",
+    "pricePerToken": "$0.0₅75841",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/pnfT99w5dXjhuMHHLVFah9BxrfgPTcR9ZcdjgGcCsHfvWPm4pGvKCYYdow3cCiKLrE3hjTyit1H1nYqM9Whv5en",
+    "trans_Time": "2025-01-03 17:44:01",
+    "tokens_involved": [
+      "9R11gVxok72oqPMVqpSu3FSobQ4DU8Q9ZJnoFC3Zpump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "2SifrCtQYeNiCrcn6FLhbVPySsWPLX7r8NZqzV8V4xLuDNRq28mgC1pG1hCGsfKDs21rEEB94aMmjFT9FpCy8Gjq",
+    "mint": "9R11gVxok72oqPMVqpSu3FSobQ4DU8Q9ZJnoFC3Zpump",
+    "sol_amount": 183069937,
+    "token_amount": 2699308308012,
+    "is_buy": true,
+    "user": "GWE1zN6LWi9tMZoQztj1evvLcKTokB3F58y6Hg9HP6fb",
+    "timestamp": 1735926246,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311657969,
+    "readable_time": "2025-01-03T17:44:06.000Z"
+  }
+}

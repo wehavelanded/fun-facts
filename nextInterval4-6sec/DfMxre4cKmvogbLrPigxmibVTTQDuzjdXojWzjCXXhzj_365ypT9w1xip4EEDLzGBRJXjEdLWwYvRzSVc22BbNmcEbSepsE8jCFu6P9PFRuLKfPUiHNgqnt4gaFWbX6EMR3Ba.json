@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "365ypT9w1xip4EEDLzGBRJXjEdLWwYvRzSVc22BbNmcEbSepsE8jCFu6P9PFRuLKfPUiHNgqnt4gaFWbX6EMR3Ba",
+    "mint": "FcJ56XABSdLiWYqCGAQxCmiChw7BY1KGSywAPNuUpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735769349,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311276341,
+    "readable_time": "2025-01-01T22:09:09.000Z",
+    "action": "Buy",
+    "token": "FLICK",
+    "price": "$474.91",
+    "volume": "58.6M",
+    "pricePerToken": "$0.0₅8111",
+    "change": "--",
+    "updatedAgo": "2d ago",
+    "transactionLink": "https://solscan.io/tx/365ypT9w1xip4EEDLzGBRJXjEdLWwYvRzSVc22BbNmcEbSepsE8jCFu6P9PFRuLKfPUiHNgqnt4gaFWbX6EMR3Ba",
+    "trans_Time": "2025-01-01 22:09:09",
+    "tokens_involved": [
+      "FcJ56XABSdLiWYqCGAQxCmiChw7BY1KGSywAPNuUpump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "5MyWb6mCp4aAPBFsCVbc8znX4rBNBSU2E7TUR4aBALv31v5Uiqqo4n9U97h5PSg59Nr3BXp3CaXqcJFCmnF5Kq6S",
+    "mint": "FcJ56XABSdLiWYqCGAQxCmiChw7BY1KGSywAPNuUpump",
+    "sol_amount": 21732984,
+    "token_amount": 231529254975,
+    "is_buy": true,
+    "user": "AAQwuveisTgoUeW61Vpg5GXoMGvG1kfL1NNsurRwHNJC",
+    "timestamp": 1735769354,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311276352,
+    "readable_time": "2025-01-01T22:09:14.000Z"
+  }
+}

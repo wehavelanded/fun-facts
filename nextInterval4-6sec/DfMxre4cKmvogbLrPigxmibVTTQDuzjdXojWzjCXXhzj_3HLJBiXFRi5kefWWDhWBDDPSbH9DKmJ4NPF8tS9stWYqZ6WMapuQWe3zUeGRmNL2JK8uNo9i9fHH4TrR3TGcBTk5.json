@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "3HLJBiXFRi5kefWWDhWBDDPSbH9DKmJ4NPF8tS9stWYqZ6WMapuQWe3zUeGRmNL2JK8uNo9i9fHH4TrR3TGcBTk5",
+    "mint": "F6qjkz7DxWRVGW66p5KibFb3meJFtSardm4Jb4gq88oX",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735769007,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311275492,
+    "readable_time": "2025-01-01T22:03:27.000Z",
+    "action": "Buy",
+    "token": "AXN",
+    "price": "$419.58",
+    "volume": "64.2M",
+    "pricePerToken": "$0.0₅65307",
+    "change": "--",
+    "updatedAgo": "2d ago",
+    "transactionLink": "https://solscan.io/tx/3HLJBiXFRi5kefWWDhWBDDPSbH9DKmJ4NPF8tS9stWYqZ6WMapuQWe3zUeGRmNL2JK8uNo9i9fHH4TrR3TGcBTk5",
+    "trans_Time": "2025-01-01 22:03:27",
+    "tokens_involved": [
+      "F6qjkz7DxWRVGW66p5KibFb3meJFtSardm4Jb4gq88oX"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "52oZu6gV7RjVWXEMUHRHW7bkb4unCyffnVa9t13mRqAZ9Cnoy72h6Tc57Yah9hAJEvZwcRWFLKARn7uVHZonRNyU",
+    "mint": "F6qjkz7DxWRVGW66p5KibFb3meJFtSardm4Jb4gq88oX",
+    "sol_amount": 90127889,
+    "token_amount": 1337186126313,
+    "is_buy": false,
+    "user": "GvzuxFVDmzdhZTC55GeBiNpKU7aWhzwzicq2FZLhFKNF",
+    "timestamp": 1735769012,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311275504,
+    "readable_time": "2025-01-01T22:03:32.000Z"
+  }
+}

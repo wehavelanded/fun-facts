@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "5yTMWHdRTLq7f6qqLCj15Z1PEAr3hjgnUr7jQDy6z2Bk5VrmwP8CXvvuaHv7ZvNoFVVGKYtNG24gHTebtQEu8LfG",
+    "mint": "GMbsketpvERnBxU2MNcRovC4K8LbD4exBSPRR7uQPSDM",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735937417,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311685024,
+    "readable_time": "2025-01-03T20:50:17.000Z",
+    "action": "Buy",
+    "token": "TE𝕏AS",
+    "price": "$211.85",
+    "volume": "8.7M",
+    "pricePerToken": "$0.0₄24381",
+    "change": "--",
+    "updatedAgo": "22h ago",
+    "transactionLink": "https://solscan.io/tx/5yTMWHdRTLq7f6qqLCj15Z1PEAr3hjgnUr7jQDy6z2Bk5VrmwP8CXvvuaHv7ZvNoFVVGKYtNG24gHTebtQEu8LfG",
+    "trans_Time": "2025-01-03 20:50:17",
+    "tokens_involved": [
+      "GMbsketpvERnBxU2MNcRovC4K8LbD4exBSPRR7uQPSDM"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "4Ki3gqHbw41L4i1Z2YaEA1VjNNVft3tKv6fwk1hWLLQjPNW3ZAG2LmTyRADPcZTE9gxggdeuafu5sG5kgx8xozD8",
+    "mint": "GMbsketpvERnBxU2MNcRovC4K8LbD4exBSPRR7uQPSDM",
+    "sol_amount": 71190621,
+    "token_amount": 789724340601,
+    "is_buy": true,
+    "user": "FAiWC4JfbmbdDws4Axwt6txaAYxkGFpNFqf2HzVWgJbJ",
+    "timestamp": 1735937423,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311685038,
+    "readable_time": "2025-01-03T20:50:23.000Z"
+  }
+}

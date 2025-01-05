@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "5SX9gjPXRzgG32Q6M3F4YwqQKimPGLmr9Esd7zMh7J6BtbWuv6q4JcG3LA7M8Nuiv3HjPt2QdvbNW53Azj9oTpBv",
+    "mint": "AMJb5Gmebza9ftr9TeuAs3w3CyKZv5A6Z9EDomxXpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735192794,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 309868237,
+    "readable_time": "2024-12-26T05:59:54.000Z",
+    "action": "Buy",
+    "token": "SOLLY",
+    "price": "$419.79",
+    "volume": "16.7M",
+    "pricePerToken": "$0.0₄2512",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/5SX9gjPXRzgG32Q6M3F4YwqQKimPGLmr9Esd7zMh7J6BtbWuv6q4JcG3LA7M8Nuiv3HjPt2QdvbNW53Azj9oTpBv",
+    "trans_Time": "2024-12-26 05:59:54",
+    "tokens_involved": [
+      "AMJb5Gmebza9ftr9TeuAs3w3CyKZv5A6Z9EDomxXpump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "299QGSQtAXb6N225ABj6Qw7a8U2kqjWtZqB5ZUpSovzBKBvWBmLJFNVk3RTB8qnQDvg8iu2ybuZQArdVQjwG4ueo",
+    "mint": "AMJb5Gmebza9ftr9TeuAs3w3CyKZv5A6Z9EDomxXpump",
+    "sol_amount": 75200245,
+    "token_amount": 330039846310,
+    "is_buy": true,
+    "user": "AtqdK4RJ4YzgvtLa1kWC7WXvYuZvc56By5Uf2w4Eogta",
+    "timestamp": 1735192799,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 309868251,
+    "readable_time": "2024-12-26T05:59:59.000Z"
+  }
+}

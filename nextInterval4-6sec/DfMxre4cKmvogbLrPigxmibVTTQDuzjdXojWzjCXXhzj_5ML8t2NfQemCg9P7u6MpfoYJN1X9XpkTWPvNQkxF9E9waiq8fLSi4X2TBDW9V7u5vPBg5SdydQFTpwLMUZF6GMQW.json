@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "5ML8t2NfQemCg9P7u6MpfoYJN1X9XpkTWPvNQkxF9E9waiq8fLSi4X2TBDW9V7u5vPBg5SdydQFTpwLMUZF6GMQW",
+    "mint": "CFZZWbKmPHS8iFKnsimbZrkpeneYfDouB2ZFYZkWpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735865065,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311509409,
+    "readable_time": "2025-01-03T00:44:25.000Z",
+    "action": "Buy",
+    "token": "CUMCOIN",
+    "price": "$446.73",
+    "volume": "61.7M",
+    "pricePerToken": "$0.0₅72399",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/5ML8t2NfQemCg9P7u6MpfoYJN1X9XpkTWPvNQkxF9E9waiq8fLSi4X2TBDW9V7u5vPBg5SdydQFTpwLMUZF6GMQW",
+    "trans_Time": "2025-01-03 00:44:25",
+    "tokens_involved": [
+      "CFZZWbKmPHS8iFKnsimbZrkpeneYfDouB2ZFYZkWpump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "54rehoGnR1RFA6vHvX6aWywPxBy7qFXxRakAVJhxrYgun7zSXsZa3CX6fg9Tmx46fVnASnJ4apRaiKoQnkTMbF5J",
+    "mint": "CFZZWbKmPHS8iFKnsimbZrkpeneYfDouB2ZFYZkWpump",
+    "sol_amount": 991146310,
+    "token_amount": 15699312561293,
+    "is_buy": true,
+    "user": "2pFhgKDBz8RzCkhfN8fvzxErUEccsvYXM3R25FS4j1Km",
+    "timestamp": 1735865070,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311509424,
+    "readable_time": "2025-01-03T00:44:30.000Z"
+  }
+}

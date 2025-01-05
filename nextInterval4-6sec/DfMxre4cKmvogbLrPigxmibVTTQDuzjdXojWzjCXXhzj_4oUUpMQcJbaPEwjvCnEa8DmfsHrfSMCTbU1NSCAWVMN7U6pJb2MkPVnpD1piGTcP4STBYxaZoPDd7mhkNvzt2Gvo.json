@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "4oUUpMQcJbaPEwjvCnEa8DmfsHrfSMCTbU1NSCAWVMN7U6pJb2MkPVnpD1piGTcP4STBYxaZoPDd7mhkNvzt2Gvo",
+    "mint": "8fRNbMPFfqXd88J4EZqriZQpNyg5GQasPHQoEypcpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735594598,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310849117,
+    "readable_time": "2024-12-30T21:36:38.000Z",
+    "action": "Buy",
+    "token": "kyu",
+    "price": "$945.65",
+    "volume": "48.1M",
+    "pricePerToken": "$0.0₄19652",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/4oUUpMQcJbaPEwjvCnEa8DmfsHrfSMCTbU1NSCAWVMN7U6pJb2MkPVnpD1piGTcP4STBYxaZoPDd7mhkNvzt2Gvo",
+    "trans_Time": "2024-12-30 21:36:38",
+    "tokens_involved": [
+      "8fRNbMPFfqXd88J4EZqriZQpNyg5GQasPHQoEypcpump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "49zjWqHv9T8sHftR1K55rr2NjuveNynoNeoQmVswRqDXqiLVhXtsZyBp5mLqNgSi7rcm2Y9s8vsb7EYrNcHyyFCN",
+    "mint": "8fRNbMPFfqXd88J4EZqriZQpNyg5GQasPHQoEypcpump",
+    "sol_amount": 59717732,
+    "token_amount": 283855244221,
+    "is_buy": true,
+    "user": "Ccc8paDXQHiywEtbDJfnNLyL2JEqFtrcLJLAG2Cd76uK",
+    "timestamp": 1735594603,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310849128,
+    "readable_time": "2024-12-30T21:36:43.000Z"
+  }
+}

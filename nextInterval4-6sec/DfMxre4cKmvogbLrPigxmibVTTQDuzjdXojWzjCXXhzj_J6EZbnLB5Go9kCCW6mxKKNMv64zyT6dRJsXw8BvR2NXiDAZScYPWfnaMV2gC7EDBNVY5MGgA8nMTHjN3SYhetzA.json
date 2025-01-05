@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "J6EZbnLB5Go9kCCW6mxKKNMv64zyT6dRJsXw8BvR2NXiDAZScYPWfnaMV2gC7EDBNVY5MGgA8nMTHjN3SYhetzA",
+    "mint": "9pV8mRskNbZGmBp7XHw9Njn6YjNPQ8w6yDhGmxKNpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735592439,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310843867,
+    "readable_time": "2024-12-30T21:00:39.000Z",
+    "action": "Buy",
+    "token": "KAGENT",
+    "price": "$955.15",
+    "volume": "31M",
+    "pricePerToken": "$0.0₄308",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/J6EZbnLB5Go9kCCW6mxKKNMv64zyT6dRJsXw8BvR2NXiDAZScYPWfnaMV2gC7EDBNVY5MGgA8nMTHjN3SYhetzA",
+    "trans_Time": "2024-12-30 21:00:39",
+    "tokens_involved": [
+      "9pV8mRskNbZGmBp7XHw9Njn6YjNPQ8w6yDhGmxKNpump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "JhfLUcEYZiPdcHAgXYp9qHFrAnfxWu45sh47h8XYpP6APS6AqY7JFvs8h6G7hwWJosQSUDFNp3r8JHjApLXnUYj",
+    "mint": "9pV8mRskNbZGmBp7XHw9Njn6YjNPQ8w6yDhGmxKNpump",
+    "sol_amount": 17647200,
+    "token_amount": 43014202589,
+    "is_buy": true,
+    "user": "mCY88CLpTwdGLiAiJmYUsGSEdshhMXe7nur2B8wMnz3",
+    "timestamp": 1735592444,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310843878,
+    "readable_time": "2024-12-30T21:00:44.000Z"
+  }
+}

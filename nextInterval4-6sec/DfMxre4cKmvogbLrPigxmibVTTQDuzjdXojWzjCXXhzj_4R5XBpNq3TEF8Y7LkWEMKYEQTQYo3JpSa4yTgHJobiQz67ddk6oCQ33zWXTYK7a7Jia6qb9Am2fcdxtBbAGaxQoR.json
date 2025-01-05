@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "4R5XBpNq3TEF8Y7LkWEMKYEQTQYo3JpSa4yTgHJobiQz67ddk6oCQ33zWXTYK7a7Jia6qb9Am2fcdxtBbAGaxQoR",
+    "mint": "38gGKMmBQjALHUVB8BP1Hx6Hnpzr1kg4yjiLo9KYpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735585517,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310826987,
+    "readable_time": "2024-12-30T19:05:17.000Z",
+    "action": "Buy",
+    "token": "Baby Smurf",
+    "price": "$573.36",
+    "volume": "84.7M",
+    "pricePerToken": "$0.0₅67725",
+    "change": "--",
+    "updatedAgo": "5d ago",
+    "transactionLink": "https://solscan.io/tx/4R5XBpNq3TEF8Y7LkWEMKYEQTQYo3JpSa4yTgHJobiQz67ddk6oCQ33zWXTYK7a7Jia6qb9Am2fcdxtBbAGaxQoR",
+    "trans_Time": "2024-12-30 19:05:17",
+    "tokens_involved": [
+      "38gGKMmBQjALHUVB8BP1Hx6Hnpzr1kg4yjiLo9KYpump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "2U8p8v3HprUjSRMhijWUXJ456SnfCpuutpsdshYcJkhyfLosjsJ9tS1cXbESJKeC81GthF7YcswvDbJcJqjhdFd6",
+    "mint": "38gGKMmBQjALHUVB8BP1Hx6Hnpzr1kg4yjiLo9KYpump",
+    "sol_amount": 748271202,
+    "token_amount": 7787348397231,
+    "is_buy": false,
+    "user": "4m3bxXR7uKn2TDJjXg9GyweokooZVQZWKQ6do8UvEap3",
+    "timestamp": 1735585522,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310827001,
+    "readable_time": "2024-12-30T19:05:22.000Z"
+  }
+}

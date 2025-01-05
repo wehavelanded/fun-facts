@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "4UqiA8uVx2K7VAxj6BtULe8aBXhrCVpiJQHfcVwXcb5qseNnFTZvRmJmo9BvJJ7FsXG1m8u7dBsZxxVC64PM2fa",
+    "mint": "76SuKj2LvB72cLvWEZFYYkheLC69S9K8cUi1XEsMoCVq",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735865292,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311509956,
+    "readable_time": "2025-01-03T00:48:12.000Z",
+    "action": "Buy",
+    "token": "DRAKE",
+    "price": "$447.31",
+    "volume": "51.2M",
+    "pricePerToken": "$0.0₅87433",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/4UqiA8uVx2K7VAxj6BtULe8aBXhrCVpiJQHfcVwXcb5qseNnFTZvRmJmo9BvJJ7FsXG1m8u7dBsZxxVC64PM2fa",
+    "trans_Time": "2025-01-03 00:48:12",
+    "tokens_involved": [
+      "76SuKj2LvB72cLvWEZFYYkheLC69S9K8cUi1XEsMoCVq"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "3tzurYxh2zHxtoLH45KrszTBWtvY1DUJNVUy7M7yTKXs1Dt3sreZJmqqHToEun34zQYYXFtKucqSEGNohnYwLQpm",
+    "mint": "76SuKj2LvB72cLvWEZFYYkheLC69S9K8cUi1XEsMoCVq",
+    "sol_amount": 100000001,
+    "token_amount": 1161631536388,
+    "is_buy": true,
+    "user": "2sxKUhJeKZQqMKyQsaBc7EF91m3amj2buzwegf8oBbr8",
+    "timestamp": 1735865298,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311509971,
+    "readable_time": "2025-01-03T00:48:18.000Z"
+  }
+}

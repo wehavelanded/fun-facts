@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "ZrmwxpYU5hD8aK6QdtmZgZiusXy3vdbc8DN3MovzT2LMdZN2dEZphZFqVnqaaQ5XY2iY5YyMA1VJEaJNLRuzSTw",
+    "mint": "7CzNqw8UPfzUJ5h94dR9TxNDtZSPsZGq7pNNygjXpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735530415,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310691980,
+    "readable_time": "2024-12-30T03:46:55.000Z",
+    "action": "Buy",
+    "token": "AGENT",
+    "price": "$413.24",
+    "volume": "61M",
+    "pricePerToken": "$0.0₅67742",
+    "change": "--",
+    "updatedAgo": "5d ago",
+    "transactionLink": "https://solscan.io/tx/ZrmwxpYU5hD8aK6QdtmZgZiusXy3vdbc8DN3MovzT2LMdZN2dEZphZFqVnqaaQ5XY2iY5YyMA1VJEaJNLRuzSTw",
+    "trans_Time": "2024-12-30 03:46:55",
+    "tokens_involved": [
+      "7CzNqw8UPfzUJ5h94dR9TxNDtZSPsZGq7pNNygjXpump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "59VftF7FP9vmSQgLGKjoLN4qnQkNkvb2xKozRaKFUhPWy4sUB1mNoihMArETgKJHXCJUtcn9Yaw6b1NVKcKNcKtk",
+    "mint": "7CzNqw8UPfzUJ5h94dR9TxNDtZSPsZGq7pNNygjXpump",
+    "sol_amount": 48500841,
+    "token_amount": 320925499605,
+    "is_buy": true,
+    "user": "2KKWpfMmaZ8mU3xKuCDqxPRuf86X77b2uSMvpNAscQPZ",
+    "timestamp": 1735530420,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310691993,
+    "readable_time": "2024-12-30T03:47:00.000Z"
+  }
+}

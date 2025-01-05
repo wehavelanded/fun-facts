@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "2Mnj1LqZW9Vs8HTekvAxVkceDaUAHN7gS75cNoSxpsa873b76fNwTgcXs1jhPWNEY1u7KGboxUAZZeQgHNinG3y4",
+    "mint": "FhgN3Dkt2Tnb7mciweyhJSzASnhJbw1EEa3gUYPLpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735796925,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311343737,
+    "readable_time": "2025-01-02T05:48:45.000Z",
+    "action": "Buy",
+    "token": "imSatoshi",
+    "price": "$602.59",
+    "volume": "51.4M",
+    "pricePerToken": "$0.0₄11715",
+    "change": "--",
+    "updatedAgo": "2d ago",
+    "transactionLink": "https://solscan.io/tx/2Mnj1LqZW9Vs8HTekvAxVkceDaUAHN7gS75cNoSxpsa873b76fNwTgcXs1jhPWNEY1u7KGboxUAZZeQgHNinG3y4",
+    "trans_Time": "2025-01-02 05:48:45",
+    "tokens_involved": [
+      "FhgN3Dkt2Tnb7mciweyhJSzASnhJbw1EEa3gUYPLpump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "4CuvYXc47Bz1sfTfKkaR2CPf1uP1AKD68zp2wLk7sTkcFKU1zwZuMaibjcAwQbJMdAuPM2sHJKYdWsYicGmyVbCb",
+    "mint": "FhgN3Dkt2Tnb7mciweyhJSzASnhJbw1EEa3gUYPLpump",
+    "sol_amount": 38563546,
+    "token_amount": 328482368523,
+    "is_buy": true,
+    "user": "EtSJpQ2BDwXjpeKbGnpFytTnVLPaaf2rntS3sDtwaX7W",
+    "timestamp": 1735796930,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311343748,
+    "readable_time": "2025-01-02T05:48:50.000Z"
+  }
+}

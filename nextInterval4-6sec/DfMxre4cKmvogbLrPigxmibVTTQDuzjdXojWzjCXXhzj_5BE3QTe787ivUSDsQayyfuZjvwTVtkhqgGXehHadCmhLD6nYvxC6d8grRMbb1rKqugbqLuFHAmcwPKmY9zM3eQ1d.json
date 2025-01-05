@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "5BE3QTe787ivUSDsQayyfuZjvwTVtkhqgGXehHadCmhLD6nYvxC6d8grRMbb1rKqugbqLuFHAmcwPKmY9zM3eQ1d",
+    "mint": "5zwt95dBJJ96UACKPwU45ShcPFWWERXqfNWGZm69pump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735971474,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311767593,
+    "readable_time": "2025-01-04T06:17:54.000Z",
+    "action": "Buy",
+    "token": "MDC",
+    "price": "$468.4",
+    "volume": "64.6M",
+    "pricePerToken": "$0.0₅72522",
+    "change": "--",
+    "updatedAgo": "12h ago",
+    "transactionLink": "https://solscan.io/tx/5BE3QTe787ivUSDsQayyfuZjvwTVtkhqgGXehHadCmhLD6nYvxC6d8grRMbb1rKqugbqLuFHAmcwPKmY9zM3eQ1d",
+    "trans_Time": "2025-01-04 06:17:54",
+    "tokens_involved": [
+      "5zwt95dBJJ96UACKPwU45ShcPFWWERXqfNWGZm69pump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "4r6cNE8eLyrrCWViTTC9XDVJjZrVU9BVQUtDaZFcHDCoybJXkwQEaMc8pcAy3ehSDyZJXQAXVBfq44Ns1zMHuotW",
+    "mint": "5zwt95dBJJ96UACKPwU45ShcPFWWERXqfNWGZm69pump",
+    "sol_amount": 80764871,
+    "token_amount": 763416650507,
+    "is_buy": false,
+    "user": "AgdzczdfZwv8dN7HgqHMF2CBkhYNsbrsf3ht8eTpKDM7",
+    "timestamp": 1735971479,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311767605,
+    "readable_time": "2025-01-04T06:17:59.000Z"
+  }
+}

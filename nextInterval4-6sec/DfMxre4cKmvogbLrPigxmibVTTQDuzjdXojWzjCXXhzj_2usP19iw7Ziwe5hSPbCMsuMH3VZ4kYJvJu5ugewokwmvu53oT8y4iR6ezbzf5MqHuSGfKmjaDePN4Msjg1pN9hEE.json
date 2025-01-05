@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "2usP19iw7Ziwe5hSPbCMsuMH3VZ4kYJvJu5ugewokwmvu53oT8y4iR6ezbzf5MqHuSGfKmjaDePN4Msjg1pN9hEE",
+    "mint": "28aCpsofrkxPfUYNVkvmu8e9qTxJyoyHuySdT1H5pump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735506012,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310632783,
+    "readable_time": "2024-12-29T21:00:12.000Z",
+    "action": "Buy",
+    "token": "Economises",
+    "price": "$414.4",
+    "volume": "60.9M",
+    "pricePerToken": "$0.0₅68054",
+    "change": "--",
+    "updatedAgo": "5d ago",
+    "transactionLink": "https://solscan.io/tx/2usP19iw7Ziwe5hSPbCMsuMH3VZ4kYJvJu5ugewokwmvu53oT8y4iR6ezbzf5MqHuSGfKmjaDePN4Msjg1pN9hEE",
+    "trans_Time": "2024-12-29 21:00:12",
+    "tokens_involved": [
+      "28aCpsofrkxPfUYNVkvmu8e9qTxJyoyHuySdT1H5pump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "BvCVE6QapuEdVS2PiMT657HJTybaG8mFcfuEEEQoQ5xtF3F4d57a82jY6jNexY3EH5w7xxSbhTPqo6FpE4nmLqk",
+    "mint": "28aCpsofrkxPfUYNVkvmu8e9qTxJyoyHuySdT1H5pump",
+    "sol_amount": 83842986,
+    "token_amount": 716538596044,
+    "is_buy": true,
+    "user": "GVGjEHB9cKzABhHLKb796CqquJdaJs9PaUcpkb9f3h5X",
+    "timestamp": 1735506017,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310632793,
+    "readable_time": "2024-12-29T21:00:17.000Z"
+  }
+}

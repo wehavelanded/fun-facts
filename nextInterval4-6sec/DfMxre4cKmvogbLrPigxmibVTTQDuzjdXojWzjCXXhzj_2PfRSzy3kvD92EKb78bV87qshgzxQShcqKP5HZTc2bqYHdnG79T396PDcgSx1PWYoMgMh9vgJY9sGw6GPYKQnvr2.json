@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "2PfRSzy3kvD92EKb78bV87qshgzxQShcqKP5HZTc2bqYHdnG79T396PDcgSx1PWYoMgMh9vgJY9sGw6GPYKQnvr2",
+    "mint": "FckMmcptZZXHyafWVinEx13hVmLi1DbTKMUTsjjbpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735747362,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311222698,
+    "readable_time": "2025-01-01T16:02:42.000Z",
+    "action": "Buy",
+    "token": "RDIAZ",
+    "price": "$412.78",
+    "volume": "70.8M",
+    "pricePerToken": "$0.0₅58293",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/2PfRSzy3kvD92EKb78bV87qshgzxQShcqKP5HZTc2bqYHdnG79T396PDcgSx1PWYoMgMh9vgJY9sGw6GPYKQnvr2",
+    "trans_Time": "2025-01-01 16:02:42",
+    "tokens_involved": [
+      "FckMmcptZZXHyafWVinEx13hVmLi1DbTKMUTsjjbpump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "2HdKgm3FQSRp3BZPaWJHBWmtP792bKcZpuwMKEbFYKcdJ4TrRDAZChuXLw7RQgsX19QjnrNfKx5jKVT6TrAzSv6Q",
+    "mint": "FckMmcptZZXHyafWVinEx13hVmLi1DbTKMUTsjjbpump",
+    "sol_amount": 64501360,
+    "token_amount": 785157016763,
+    "is_buy": true,
+    "user": "EWuj1V5jL9Aaig7W87PZCR1h2voWzhizKV9QHzZhXJSd",
+    "timestamp": 1735747367,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311222708,
+    "readable_time": "2025-01-01T16:02:47.000Z"
+  }
+}

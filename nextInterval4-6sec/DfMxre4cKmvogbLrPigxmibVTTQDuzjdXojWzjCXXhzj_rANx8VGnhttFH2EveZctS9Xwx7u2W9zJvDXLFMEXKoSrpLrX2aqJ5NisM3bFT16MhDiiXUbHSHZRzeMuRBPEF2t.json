@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "rANx8VGnhttFH2EveZctS9Xwx7u2W9zJvDXLFMEXKoSrpLrX2aqJ5NisM3bFT16MhDiiXUbHSHZRzeMuRBPEF2t",
+    "mint": "EhRybaPSHMNQmnc9kLuVAE4DndZewRgKNdSuPpqPpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735503136,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310625805,
+    "readable_time": "2024-12-29T20:12:16.000Z",
+    "action": "Buy",
+    "token": "SFS",
+    "price": "$414.42",
+    "volume": "52.6M",
+    "pricePerToken": "$0.0₅78842",
+    "change": "--",
+    "updatedAgo": "5d ago",
+    "transactionLink": "https://solscan.io/tx/rANx8VGnhttFH2EveZctS9Xwx7u2W9zJvDXLFMEXKoSrpLrX2aqJ5NisM3bFT16MhDiiXUbHSHZRzeMuRBPEF2t",
+    "trans_Time": "2024-12-29 20:12:16",
+    "tokens_involved": [
+      "EhRybaPSHMNQmnc9kLuVAE4DndZewRgKNdSuPpqPpump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "1hAo63gxVRvPga3n9v7pkyCvn6Dh5KQKw6btMBphoEK6Q14rsZrBEpMo6ma5FaX9jp7wbG9MZkWBPgX8C8LwqcW",
+    "mint": "EhRybaPSHMNQmnc9kLuVAE4DndZewRgKNdSuPpqPpump",
+    "sol_amount": 2134521450,
+    "token_amount": 17032202527693,
+    "is_buy": true,
+    "user": "8VD9zyvM3PabEFAKvwLwr2V45cjhyDVz3sqQAnEeZSzW",
+    "timestamp": 1735503141,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310625818,
+    "readable_time": "2024-12-29T20:12:21.000Z"
+  }
+}

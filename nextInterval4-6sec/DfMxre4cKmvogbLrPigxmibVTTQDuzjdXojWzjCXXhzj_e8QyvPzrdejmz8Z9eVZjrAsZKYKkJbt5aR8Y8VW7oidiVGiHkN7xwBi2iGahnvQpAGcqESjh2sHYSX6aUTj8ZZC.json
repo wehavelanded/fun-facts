@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "e8QyvPzrdejmz8Z9eVZjrAsZKYKkJbt5aR8Y8VW7oidiVGiHkN7xwBi2iGahnvQpAGcqESjh2sHYSX6aUTj8ZZC",
+    "mint": "12sTM611oZ4SA8YCxLFD6xfCWFAFNs4EywJrWyWrpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735628522,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310932171,
+    "readable_time": "2024-12-31T07:02:02.000Z",
+    "action": "Buy",
+    "token": "kekius",
+    "price": "$408.84",
+    "volume": "56.7M",
+    "pricePerToken": "$0.0₅72106",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/e8QyvPzrdejmz8Z9eVZjrAsZKYKkJbt5aR8Y8VW7oidiVGiHkN7xwBi2iGahnvQpAGcqESjh2sHYSX6aUTj8ZZC",
+    "trans_Time": "2024-12-31 07:02:02",
+    "tokens_involved": [
+      "12sTM611oZ4SA8YCxLFD6xfCWFAFNs4EywJrWyWrpump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "4viDhiN8VGgEtRCPbLLSTudFd19hrTJMcimJPRTCcYHLWBXumFL5BrCJ2U2xn6uYHUYGhvkWGgHnyqYT4xM9iwWo",
+    "mint": "12sTM611oZ4SA8YCxLFD6xfCWFAFNs4EywJrWyWrpump",
+    "sol_amount": 116330554,
+    "token_amount": 2328420165299,
+    "is_buy": false,
+    "user": "CwdTGQENNud7Rmkww2ihajHAgLvvawU2VwqfeCskHBgS",
+    "timestamp": 1735628527,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310932183,
+    "readable_time": "2024-12-31T07:02:07.000Z"
+  }
+}

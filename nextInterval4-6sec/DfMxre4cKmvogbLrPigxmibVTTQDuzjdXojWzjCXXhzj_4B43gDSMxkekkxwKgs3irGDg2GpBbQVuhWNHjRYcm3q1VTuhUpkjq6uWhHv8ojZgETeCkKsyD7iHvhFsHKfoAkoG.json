@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "4B43gDSMxkekkxwKgs3irGDg2GpBbQVuhWNHjRYcm3q1VTuhUpkjq6uWhHv8ojZgETeCkKsyD7iHvhFsHKfoAkoG",
+    "mint": "Knu5QwK6f959xH4v3CudQAgN96JivrmG2TdWYWspump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735936561,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311682935,
+    "readable_time": "2025-01-03T20:36:01.000Z",
+    "action": "Buy",
+    "token": "MDOGE",
+    "price": "$169.71",
+    "volume": "10.6M",
+    "pricePerToken": "$0.0₄15967",
+    "change": "--",
+    "updatedAgo": "22h ago",
+    "transactionLink": "https://solscan.io/tx/4B43gDSMxkekkxwKgs3irGDg2GpBbQVuhWNHjRYcm3q1VTuhUpkjq6uWhHv8ojZgETeCkKsyD7iHvhFsHKfoAkoG",
+    "trans_Time": "2025-01-03 20:36:01",
+    "tokens_involved": [
+      "Knu5QwK6f959xH4v3CudQAgN96JivrmG2TdWYWspump"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "4SyLyxBnQzaEWiobLdvbgEPdTvDxMa35gbAMkdPcuYXcSra3s8E9gYbRXHH9zWLZrGNYrrayLej3gX34jdcmbeNf",
+    "mint": "Knu5QwK6f959xH4v3CudQAgN96JivrmG2TdWYWspump",
+    "sol_amount": 276221732,
+    "token_amount": 1375388840855,
+    "is_buy": true,
+    "user": "6x7ZadVJszKWErQe8s87pNBQkQA6dws6v2eXmTdE2uQp",
+    "timestamp": 1735936566,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311682946,
+    "readable_time": "2025-01-03T20:36:06.000Z"
+  }
+}

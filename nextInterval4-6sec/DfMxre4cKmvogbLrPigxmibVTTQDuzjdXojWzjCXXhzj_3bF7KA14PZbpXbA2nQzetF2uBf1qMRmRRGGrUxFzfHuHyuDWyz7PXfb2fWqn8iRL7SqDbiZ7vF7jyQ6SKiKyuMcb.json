@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "3bF7KA14PZbpXbA2nQzetF2uBf1qMRmRRGGrUxFzfHuHyuDWyz7PXfb2fWqn8iRL7SqDbiZ7vF7jyQ6SKiKyuMcb",
+    "mint": "t8rQQ8xa1eXJRNqLPKfiq5FAEQ9C1ms7RaUqg3PdAsh",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735584143,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310823606,
+    "readable_time": "2024-12-30T18:42:23.000Z",
+    "action": "Buy",
+    "token": "lmm",
+    "price": "$418.56",
+    "volume": "56.5M",
+    "pricePerToken": "$0.0₅74125",
+    "change": "--",
+    "updatedAgo": "5d ago",
+    "transactionLink": "https://solscan.io/tx/3bF7KA14PZbpXbA2nQzetF2uBf1qMRmRRGGrUxFzfHuHyuDWyz7PXfb2fWqn8iRL7SqDbiZ7vF7jyQ6SKiKyuMcb",
+    "trans_Time": "2024-12-30 18:42:23",
+    "tokens_involved": [
+      "t8rQQ8xa1eXJRNqLPKfiq5FAEQ9C1ms7RaUqg3PdAsh"
+    ]
+  },
+  "trade_in_range": {
+    "signature": "2tDmE2HParLHGjHLFGbFRUcoFdGDyeug5wACNvCmsuF1mkq9SXvAuEou3jFzBXu3cYDD75eEQBsEwfJUpxfB4PSs",
+    "mint": "t8rQQ8xa1eXJRNqLPKfiq5FAEQ9C1ms7RaUqg3PdAsh",
+    "sol_amount": 41657992,
+    "token_amount": 750424502867,
+    "is_buy": true,
+    "user": "C1LHhzEZUtpGJ1VCzFZoaoNZtz276FFNqxQMWpgcyiNN",
+    "timestamp": 1735584148,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310823619,
+    "readable_time": "2024-12-30T18:42:28.000Z"
+  }
+}
