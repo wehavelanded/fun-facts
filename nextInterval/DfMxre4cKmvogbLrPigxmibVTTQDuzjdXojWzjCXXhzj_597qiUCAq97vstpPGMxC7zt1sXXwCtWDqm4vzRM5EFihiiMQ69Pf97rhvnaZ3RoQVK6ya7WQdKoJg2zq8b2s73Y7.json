@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "597qiUCAq97vstpPGMxC7zt1sXXwCtWDqm4vzRM5EFihiiMQ69Pf97rhvnaZ3RoQVK6ya7WQdKoJg2zq8b2s73Y7",
+    "mint": "4kxhkZEBmjK7AY3mNCfUTu9PbCg5ZYsBfeV9dt7Epump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735244898,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 309994226,
+    "readable_time": "2024-12-26T20:28:18.000Z",
+    "action": "Buy",
+    "token": "cachorrito",
+    "price": "$460.79",
+    "volume": "55.4M",
+    "pricePerToken": "$0.0₅83176",
+    "change": "--",
+    "updatedAgo": "8d ago",
+    "transactionLink": "https://solscan.io/tx/597qiUCAq97vstpPGMxC7zt1sXXwCtWDqm4vzRM5EFihiiMQ69Pf97rhvnaZ3RoQVK6ya7WQdKoJg2zq8b2s73Y7",
+    "trans_Time": "2024-12-26 20:28:18",
+    "tokens_involved": [
+      "4kxhkZEBmjK7AY3mNCfUTu9PbCg5ZYsBfeV9dt7Epump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "znpaJz4jCVsEXKFGm9uy2MxnfHG8YXmuReDwxCeWkFUCWTRZpzvNBKyN2NQ6XLwUHmDrquCs4NTVq4gnCxv1Xg7",
+    "mint": "4kxhkZEBmjK7AY3mNCfUTu9PbCg5ZYsBfeV9dt7Epump",
+    "sol_amount": 1348837934,
+    "token_amount": 4929755782075,
+    "is_buy": true,
+    "user": "DMDArLbvZBxqXBuBpDoD85u5PZ8tztaFx3mg5SMbSk4g",
+    "timestamp": 1735244899,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 309994229,
+    "readable_time": "2024-12-26T20:28:19.000Z"
+  }
+}

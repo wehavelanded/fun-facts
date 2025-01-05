@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "28MK4C8sGtvMPLcYtvjcGbA9NWojk9pCAVp3SheVbf9nFXVQGKdBPa3qn874SBYr33uKBEm9Z1mQSuY1FRJUmr5L",
+    "mint": "GXQFTBkhfQYWNgVK14MznYcVWRWQJ82tBjRKGsLPp8DB",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735881700,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311549656,
+    "readable_time": "2025-01-03T05:21:40.000Z",
+    "action": "Buy",
+    "token": "MAWA",
+    "price": "$449.6",
+    "volume": "56.5M",
+    "pricePerToken": "$0.0₅79621",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/28MK4C8sGtvMPLcYtvjcGbA9NWojk9pCAVp3SheVbf9nFXVQGKdBPa3qn874SBYr33uKBEm9Z1mQSuY1FRJUmr5L",
+    "trans_Time": "2025-01-03 05:21:40",
+    "tokens_involved": [
+      "GXQFTBkhfQYWNgVK14MznYcVWRWQJ82tBjRKGsLPp8DB"
+    ]
+  },
+  "closest_trade": {
+    "signature": "578juUYpX3LgVznAya2nmeR5gsb764nYmQQVkWbQePVzV9mzjA9zLG4vRhrXEjPyLf2uWx7fcJyU4PZ8fqNQaCSS",
+    "mint": "GXQFTBkhfQYWNgVK14MznYcVWRWQJ82tBjRKGsLPp8DB",
+    "sol_amount": 27575214,
+    "token_amount": 232798778396,
+    "is_buy": true,
+    "user": "CPsJyhdikPZQeAQFg4LynF4xS9Ugeuu1UkndykK679RY",
+    "timestamp": 1735881701,
+    "tx_index": 1,
+    "username": "olol",
+    "profile_image": null,
+    "slot": 311549660,
+    "readable_time": "2025-01-03T05:21:41.000Z"
+  }
+}

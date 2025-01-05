@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "51VrcsnRyKjvGN1EyxfgGC7KTifq2YGMZNt3mPBrawsnwo1ppmGs8YJMnQbp2ymQzzb6ETh7veEo2LnRed9RFgV7",
+    "mint": "9wV8khtragNBGLrKQ5M6uQ3JxqWgE9wmrduqCMB7pump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735176837,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 309829731,
+    "readable_time": "2024-12-26T01:33:57.000Z",
+    "action": "Buy",
+    "token": "POU",
+    "price": "$963.88",
+    "volume": "46.3M",
+    "pricePerToken": "$0.0₄20817",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/51VrcsnRyKjvGN1EyxfgGC7KTifq2YGMZNt3mPBrawsnwo1ppmGs8YJMnQbp2ymQzzb6ETh7veEo2LnRed9RFgV7",
+    "trans_Time": "2024-12-26 01:33:57",
+    "tokens_involved": [
+      "9wV8khtragNBGLrKQ5M6uQ3JxqWgE9wmrduqCMB7pump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "5qDWgZWjSzY61d1kJbMUZS2NxSYJLv4zf47gYivMDwUNVSVeoVgZWgbBerQFDvY3BmCmEbqKZA1UkiF4aZGtokpT",
+    "mint": "9wV8khtragNBGLrKQ5M6uQ3JxqWgE9wmrduqCMB7pump",
+    "sol_amount": 3000000000,
+    "token_amount": 9766321951004,
+    "is_buy": true,
+    "user": "EGJhrjiC5xnatN1shjatsckw9GNBWC6dadGV4fizYK7p",
+    "timestamp": 1735176838,
+    "tx_index": 1,
+    "username": "EGJhrj",
+    "profile_image": null,
+    "slot": 309829732,
+    "readable_time": "2024-12-26T01:33:58.000Z"
+  }
+}

@@ -1,0 +1,2097 @@
+[
+  {
+    "action": "Buy",
+    "token": "MDC",
+    "price": "$468.4",
+    "volume": "64.6M",
+    "pricePerToken": "$0.0₅72522",
+    "change": "--",
+    "updatedAgo": "12h ago",
+    "transactionLink": "https://solscan.io/tx/5BE3QTe787ivUSDsQayyfuZjvwTVtkhqgGXehHadCmhLD6nYvxC6d8grRMbb1rKqugbqLuFHAmcwPKmY9zM3eQ1d",
+    "trans_Time": "2025-01-04 06:17:54",
+    "tokens_involved": [
+      "5zwt95dBJJ96UACKPwU45ShcPFWWERXqfNWGZm69pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "WhyNot",
+    "price": "$468.74",
+    "volume": "67.5M",
+    "pricePerToken": "$0.0₅69407",
+    "change": "--",
+    "updatedAgo": "13h ago",
+    "transactionLink": "https://solscan.io/tx/AYUH8XSq43zovQ2GqSyoCm86ei1sfiwmoVNrejoE8xqwWGAR7uEZetFogTHEony6gfPY76g7cRPqK3rGqmcR3NL",
+    "trans_Time": "2025-01-04 06:06:28",
+    "tokens_involved": [
+      "2HRgfccZdQ9ZZs3FXQg1a1wihy51rpMMyf91wkyYpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "CHIDORI",
+    "price": "$637.84",
+    "volume": "64.9M",
+    "pricePerToken": "$0.0₅98211",
+    "change": "--",
+    "updatedAgo": "13h ago",
+    "transactionLink": "https://solscan.io/tx/3YEyNWaNCcgjVR5fJCVjYTUAKc251PH53gjRheU9WyT6j31UxYmaXq8zohiN4acxVeb6xjjA73fgmQtmkzhpA1up",
+    "trans_Time": "2025-01-04 05:19:26",
+    "tokens_involved": [
+      "81v9GMcuXx43df25RJ8XiEdVkHywZU6dKKDMqy9Lpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "SHANICE",
+    "price": "$467.49",
+    "volume": "61.9M",
+    "pricePerToken": "$0.0₅75578",
+    "change": "--",
+    "updatedAgo": "13h ago",
+    "transactionLink": "https://solscan.io/tx/2ocZBA3cs2xuMLAnZXaNYdTEbVGGjGd5xdfUk628zdU3AE3JKbUtSfcShyADgiWUfbxKx3fUv3vbB4Ue7XRir2AV",
+    "trans_Time": "2025-01-04 05:18:09",
+    "tokens_involved": [
+      "F451yuVAGGg6VyJXUG1feUzztbCaTcYz5LDgo9LKpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "GIGATITS",
+    "price": "$214.46",
+    "volume": "1.9M",
+    "pricePerToken": "$0.00012",
+    "change": "--",
+    "updatedAgo": "14h ago",
+    "transactionLink": "https://solscan.io/tx/xt4ckgWWUoEYNAdJCMrMti3xmyXiGFihc6hgJ7XpnZbAWr8k5uDovpZRVPETP8SkZvA3MPLaQorFoHNntQ6qBhW",
+    "trans_Time": "2025-01-04 04:55:23",
+    "tokens_involved": [
+      "So11111111111111111111111111111111111111112",
+      "BvxvFD4ZfDkfjTq8QJy1WKye3QHuB1bWKxofYaz2pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "ag2",
+    "price": "$1,061.41",
+    "volume": "70.5M",
+    "pricePerToken": "$0.0₄15056",
+    "change": "--",
+    "updatedAgo": "14h ago",
+    "transactionLink": "https://solscan.io/tx/3uSgKFrraWa1sz6Wkqvo1zeQB3i3qd8FLwbtVcHTHwPWQcppwfT9JXjy7tJYZLT6BfmCLaFhpSmykLjomnZddi65",
+    "trans_Time": "2025-01-04 04:53:15",
+    "tokens_involved": [
+      "4MfNzTYjE2JBkk1wrAxPGjeoaf4KpDnCnmTQmzz4pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "GIGATITS",
+    "price": "$214.14",
+    "volume": "1.2M",
+    "pricePerToken": "$0.00018",
+    "change": "--",
+    "updatedAgo": "14h ago",
+    "transactionLink": "https://solscan.io/tx/44w53YK6JpRptR4ThTsA1FWcJUFEFzxoKVvFwPrGvmL1eip7xDeRT7XGQUnbKzka29Sr8k4G67iPZn3PmX6mWt9Z",
+    "trans_Time": "2025-01-04 04:48:46",
+    "tokens_involved": [
+      "So11111111111111111111111111111111111111112",
+      "BvxvFD4ZfDkfjTq8QJy1WKye3QHuB1bWKxofYaz2pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "GIGATITS",
+    "price": "$1,271.92",
+    "volume": "24.5M",
+    "pricePerToken": "$0.0₄51923",
+    "change": "--",
+    "updatedAgo": "14h ago",
+    "transactionLink": "https://solscan.io/tx/2tFRYrEJgM6RYPtgu4dWZD3gzGUf8rdiiD5xPVBc4WSqBDb69mFFXA3PMwAqyKSaNEhf489r41rud4Lj5Rxhpk4K",
+    "trans_Time": "2025-01-04 04:46:15",
+    "tokens_involved": [
+      "BvxvFD4ZfDkfjTq8QJy1WKye3QHuB1bWKxofYaz2pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "FHP",
+    "price": "$214.63",
+    "volume": "3.7M",
+    "pricePerToken": "$0.0₄57241",
+    "change": "--",
+    "updatedAgo": "15h ago",
+    "transactionLink": "https://solscan.io/tx/2hpv5Z7qd5X6M31xqMLZaNmCM6GPFGzzCnsxJzmwi5N5aG26CSy1N9zPnU76feWzT7DzUpPPHEGhaUuqRCqWiBp5",
+    "trans_Time": "2025-01-04 03:55:56",
+    "tokens_involved": [
+      "So11111111111111111111111111111111111111112",
+      "FWun3MzzPkJFRZiig6FYcZNdd51beVxkHegNcS6spump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "FHP",
+    "price": "$1,063.27",
+    "volume": "33.4M",
+    "pricePerToken": "$0.0₄31866",
+    "change": "--",
+    "updatedAgo": "15h ago",
+    "transactionLink": "https://solscan.io/tx/61CLx2MaaQSm5orvwwcbEKmCvSGEus4B8vur32QLJuTVhXhXakr3dmxLsf4eFk5zcPM9kgSQuUQ5YeMLC2HkWB8B",
+    "trans_Time": "2025-01-04 03:52:38",
+    "tokens_involved": [
+      "FWun3MzzPkJFRZiig6FYcZNdd51beVxkHegNcS6spump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "OBSCURA",
+    "price": "$467.71",
+    "volume": "59.6M",
+    "pricePerToken": "$0.0₅78523",
+    "change": "--",
+    "updatedAgo": "18h ago",
+    "transactionLink": "https://solscan.io/tx/5t3v8tF7QSM63fuYDQA1ZYZf5xCHQY2XuEW9WKF1g7k55GXG2F36wd5RZd1Gt9osFDGzDn4DMd9YH5m5KQBdiQPj",
+    "trans_Time": "2025-01-04 00:58:48",
+    "tokens_involved": [
+      "CefUWhPNfAWnhNKv4wemtGpjDFTHWG5ZyjC51Yqppump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "TRANS",
+    "price": "$467.43",
+    "volume": "61.7M",
+    "pricePerToken": "$0.0₅75754",
+    "change": "--",
+    "updatedAgo": "18h ago",
+    "transactionLink": "https://solscan.io/tx/3fLoZEQN2ZZq7iuQ2zjgRUYyNCPGFHrTbou8nB2ktjLqBRVhjif2A1WLw1W5RVZje3LJnBSwcWU6FWwFNNve5GhK",
+    "trans_Time": "2025-01-04 00:40:28",
+    "tokens_involved": [
+      "4JWKdmw6xJBLTvaRDhXCnTD8V66EAS2Tu8RRTbqppump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "QoAI",
+    "price": "$640.11",
+    "volume": "68.9M",
+    "pricePerToken": "$0.0₅92959",
+    "change": "--",
+    "updatedAgo": "19h ago",
+    "transactionLink": "https://solscan.io/tx/5GpZkoLk5hrV5y9YtCYwAkWK74GbZxrWeoVit23a54TLXPwmS1ciZ8Tsp4VTzy69UMzbNgLTiL7HtpsuP3F3wGzn",
+    "trans_Time": "2025-01-03 23:20:32",
+    "tokens_involved": [
+      "2KBWhLjdypr7cBwCtTL1Cvi38VaQGy5daS3xCJBRND4a"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "QOAI",
+    "price": "$468.46",
+    "volume": "16.2M",
+    "pricePerToken": "$0.0₄28854",
+    "change": "--",
+    "updatedAgo": "19h ago",
+    "transactionLink": "https://solscan.io/tx/2puHLBPDn2YTxAPrDiBx9ELynS9y7DEqK5vbPvv16hw436SYZoXa7D7RaFu3NRd9mmaMHPS2Qa1aAr4oPT6YzpXc",
+    "trans_Time": "2025-01-03 23:18:23",
+    "tokens_involved": [
+      "3j1inmkWfm4PdpvaZEo4sky1ncPkmnwoGgpda6Pmpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "TrumpTrade",
+    "price": "$466.7",
+    "volume": "68.4M",
+    "pricePerToken": "$0.0₅68189",
+    "change": "--",
+    "updatedAgo": "21h ago",
+    "transactionLink": "https://solscan.io/tx/3KKNgKC46GJxjZZrEo8ADkk7v6epiGzS534NhQS8N31RZ9NTrRDBNQaH1mnkgVBWdMW8qThFuXhGHCKqWJERBgtB",
+    "trans_Time": "2025-01-03 21:33:48",
+    "tokens_involved": [
+      "Bkpw3ba5qhsFAQ7ZG3mmr2UGwB1eNcfAAezBWqaDpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "Nature",
+    "price": "$467.56",
+    "volume": "56.5M",
+    "pricePerToken": "$0.0₅82727",
+    "change": "--",
+    "updatedAgo": "21h ago",
+    "transactionLink": "https://solscan.io/tx/2BrzhZPMqmBm31Tn3DbTTSUBvpnpVTQGs9YaD2RaTvyAy3PVDN3fz4Bav1wvfH49PjWXuHKGVLxV1WvPdYFFQAbT",
+    "trans_Time": "2025-01-03 21:27:06",
+    "tokens_involved": [
+      "7zTL6PfLjLpAsHWFKTax6tnrFZ2PTSTv7YUJRb5jpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "PLURYS",
+    "price": "$171.42",
+    "volume": "13.3M",
+    "pricePerToken": "$0.0₄12928",
+    "change": "--",
+    "updatedAgo": "21h ago",
+    "transactionLink": "https://solscan.io/tx/5fCXZXxryfx44xNn2kTY4VevQ7cukyxTs5j2M3tzb2zrGeSAMdS26AajNLKZx1ENMUAyoVCiuLp7Y7eQKvrBzwA4",
+    "trans_Time": "2025-01-03 21:13:39",
+    "tokens_involved": [
+      "So11111111111111111111111111111111111111112",
+      "Adb4uQjcJAhjFzBDnqJkrSxB6zNxoYcze8uAQWA2pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "PLURYS",
+    "price": "$212.29",
+    "volume": "7.2M",
+    "pricePerToken": "$0.0₄29572",
+    "change": "--",
+    "updatedAgo": "22h ago",
+    "transactionLink": "https://solscan.io/tx/4fHtRrzQzWwmf1HGKZY7Q4BxaBJsCccZwiaxGheDMQEZuGuPotVmzshb9RNP9b4mWKYbzDyNy2P7XARd8v9ZsYKG",
+    "trans_Time": "2025-01-03 21:08:36",
+    "tokens_involved": [
+      "Adb4uQjcJAhjFzBDnqJkrSxB6zNxoYcze8uAQWA2pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "PLURYS",
+    "price": "$467.06",
+    "volume": "36.5M",
+    "pricePerToken": "$0.0₄12797",
+    "change": "--",
+    "updatedAgo": "22h ago",
+    "transactionLink": "https://solscan.io/tx/44HNkYNATuJwHEF9BNPy5eeeR6xKWtzxD3PaXvEV6ZUT7evdZh5cc6iFYU6tgsuDv6xH4rJJHLmhCYJu5EBETCmh",
+    "trans_Time": "2025-01-03 21:08:32",
+    "tokens_involved": [
+      "Adb4uQjcJAhjFzBDnqJkrSxB6zNxoYcze8uAQWA2pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "HUSHCASE",
+    "price": "$63.55",
+    "volume": "1.1M",
+    "pricePerToken": "$0.0₄55454",
+    "change": "--",
+    "updatedAgo": "22h ago",
+    "transactionLink": "https://solscan.io/tx/5kccFJB5VYTZ8JNnFFgHtXA2D8eR7U6g9CDEYcHtFMhvH7TN8bpUWBeeR3NfsxQJTVTUSqy7MaVm5DiqQ8Dxr2ES",
+    "trans_Time": "2025-01-03 21:00:39",
+    "tokens_involved": [
+      "8JMqdwNntUpmk7LseCea3urf75Yz6epQNJ7EPmY2Hwbp"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "HUSHCASE",
+    "price": "$465.98",
+    "volume": "59.5M",
+    "pricePerToken": "$0.0₅7834",
+    "change": "--",
+    "updatedAgo": "22h ago",
+    "transactionLink": "https://solscan.io/tx/4Bxrj7w3Ahqx6882ogCCxweXzz2XCCvoeS599c9CrJ2BeB5ZqvPQpZjHWZwPaeR95VKqm5hzNJrVPJVHjqWkDxWC",
+    "trans_Time": "2025-01-03 20:59:25",
+    "tokens_involved": [
+      "8JMqdwNntUpmk7LseCea3urf75Yz6epQNJ7EPmY2Hwbp"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "210.4H",
+    "price": "$465.88",
+    "volume": "58.2M",
+    "pricePerToken": "$0.0₅80018",
+    "change": "--",
+    "updatedAgo": "22h ago",
+    "transactionLink": "https://solscan.io/tx/4v4gerFxfAat9Rv6RR4aDuz3vkgTzibQaScX2qY11znKBdc4xmsdjW7BczWvGpqeTRq9gMtKFPZSaaoKsyDdd7Hj",
+    "trans_Time": "2025-01-03 20:55:37",
+    "tokens_involved": [
+      "E22rBPxbpJAFWrUvFWtYLidp3aGd9czc6WFb39afGwg2"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "MANIFESTO",
+    "price": "$465.55",
+    "volume": "58.8M",
+    "pricePerToken": "$0.0₅7914",
+    "change": "--",
+    "updatedAgo": "22h ago",
+    "transactionLink": "https://solscan.io/tx/28RVn6ppvfrqwDqSNdACzE4QAS15F2PYrVE82CyWnV6gCx5VzL89gKp9e8WMaUuz6yCE2iWKLPzmSHTGwxMXADDN",
+    "trans_Time": "2025-01-03 20:53:09",
+    "tokens_involved": [
+      "8mPi7ZDUbP65x7Eo5ef7dcttUvHX8bUtYu43UFFZpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "TE𝕏AS",
+    "price": "$211.85",
+    "volume": "8.7M",
+    "pricePerToken": "$0.0₄24381",
+    "change": "--",
+    "updatedAgo": "22h ago",
+    "transactionLink": "https://solscan.io/tx/5yTMWHdRTLq7f6qqLCj15Z1PEAr3hjgnUr7jQDy6z2Bk5VrmwP8CXvvuaHv7ZvNoFVVGKYtNG24gHTebtQEu8LfG",
+    "trans_Time": "2025-01-03 20:50:17",
+    "tokens_involved": [
+      "GMbsketpvERnBxU2MNcRovC4K8LbD4exBSPRR7uQPSDM"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "TE𝕏AS",
+    "price": "$466.03",
+    "volume": "49.5M",
+    "pricePerToken": "$0.0₅94202",
+    "change": "--",
+    "updatedAgo": "22h ago",
+    "transactionLink": "https://solscan.io/tx/dCPgwGKxFmz9pCif6AvDqH8ZLZShWGnhXV1e4rwoLbGUqrVuKLQTpautUKp7xriepiLrHW9Fx26yjjRensV8bLY",
+    "trans_Time": "2025-01-03 20:50:11",
+    "tokens_involved": [
+      "GMbsketpvERnBxU2MNcRovC4K8LbD4exBSPRR7uQPSDM"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "Strawberry",
+    "price": "$428.45",
+    "volume": "35M",
+    "pricePerToken": "$0.0₄12249",
+    "change": "--",
+    "updatedAgo": "22h ago",
+    "transactionLink": "https://solscan.io/tx/35eitwTAkRsA48dNeH9N6HP8hjcNisup7wLro27MxfvJBVeFVddpVSWV5z2WPa1RTYNAMpKkqLUggTVrtXNe1STo",
+    "trans_Time": "2025-01-03 20:44:49",
+    "tokens_involved": [
+      "So11111111111111111111111111111111111111112",
+      "A8QT7c5o5mpb8LFxpF5mJVuSarkwUbBqxUzNdNWUpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "Strawberry",
+    "price": "$1,695.12",
+    "volume": "29M",
+    "pricePerToken": "$0.0₄58381",
+    "change": "--",
+    "updatedAgo": "22h ago",
+    "transactionLink": "https://solscan.io/tx/Wp6HEBGEiPX7UMqZvS5JhLvVV2FFarhe7WXtj2PvL982pV8YPhQ53G1zeqAmRUsLtAGXDGW9tLLXstKAp8bAa6L",
+    "trans_Time": "2025-01-03 20:42:44",
+    "tokens_involved": [
+      "A8QT7c5o5mpb8LFxpF5mJVuSarkwUbBqxUzNdNWUpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "CA",
+    "price": "$466.2",
+    "volume": "45.7M",
+    "pricePerToken": "$0.0₄10206",
+    "change": "--",
+    "updatedAgo": "22h ago",
+    "transactionLink": "https://solscan.io/tx/3FAp4zXNfm1R4iMTCFsVLxhK7Jzn1qJd54FUnDmni66mLdZrzZNjz3Bk3Cku5K1yb2SUuATHudt99Jj5Ps5JmQbe",
+    "trans_Time": "2025-01-03 20:41:58",
+    "tokens_involved": [
+      "2S2CuzgzLc5Wx9tKqGYYM8pEAcKzqGxeyw9ABy4Jpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "MDOGE",
+    "price": "$169.71",
+    "volume": "10.6M",
+    "pricePerToken": "$0.0₄15967",
+    "change": "--",
+    "updatedAgo": "22h ago",
+    "transactionLink": "https://solscan.io/tx/4B43gDSMxkekkxwKgs3irGDg2GpBbQVuhWNHjRYcm3q1VTuhUpkjq6uWhHv8ojZgETeCkKsyD7iHvhFsHKfoAkoG",
+    "trans_Time": "2025-01-03 20:36:01",
+    "tokens_involved": [
+      "Knu5QwK6f959xH4v3CudQAgN96JivrmG2TdWYWspump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "MDOGE",
+    "price": "$466.72",
+    "volume": "55.3M",
+    "pricePerToken": "$0.0₅84429",
+    "change": "--",
+    "updatedAgo": "22h ago",
+    "transactionLink": "https://solscan.io/tx/2kxbzWs2MeSWcuSJav4EpVk1TL2N4Sv6RSNAg6mou9AZviqj7Dx1Zy2eG45zc2CqozCAE5PRp1Vh9RUvcvardFzR",
+    "trans_Time": "2025-01-03 20:34:52",
+    "tokens_involved": [
+      "Knu5QwK6f959xH4v3CudQAgN96JivrmG2TdWYWspump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "G.O.A.T",
+    "price": "$468.7",
+    "volume": "61M",
+    "pricePerToken": "$0.0₅76778",
+    "change": "--",
+    "updatedAgo": "23h ago",
+    "transactionLink": "https://solscan.io/tx/5vWmoApb1wS8h6LHMfvvkiDW1ZE788BUPDRYNtTuZiruJZYqQhZrdaGb1LnMhjqMzajgjD3cotcAJxv678EL512V",
+    "trans_Time": "2025-01-03 19:25:36",
+    "tokens_involved": [
+      "DK5x3Hd2RoWxiJbPBUv2GKwWawPRdS387LWFjqf1pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "$HOME",
+    "price": "$470.32",
+    "volume": "37.3M",
+    "pricePerToken": "$0.0₄12624",
+    "change": "--",
+    "updatedAgo": "23h ago",
+    "transactionLink": "https://solscan.io/tx/45cB1YvxTGQMcK5jnrbpWQpJyBumYkjNDWyqLfczQCmNT1bHLS2kVtch6ooFhuxBQBs5u66FdTgiv7cgxehPU7pk",
+    "trans_Time": "2025-01-03 19:14:07",
+    "tokens_involved": [
+      "Bm4Ta5oTcyCJBVhQTHVqxPTmHRkzLuggCtxR4GD1pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "$HOME",
+    "price": "$470.32",
+    "volume": "41.3M",
+    "pricePerToken": "$0.0₄11393",
+    "change": "--",
+    "updatedAgo": "23h ago",
+    "transactionLink": "https://solscan.io/tx/2XTmSD6HuZUmPRETcmMUHU9d5zw3g5MJtJk2zKbsTAK1TKCW1J9we9WHStkWXD21GyKewzMm5uNhH2sw9fuX8rrL",
+    "trans_Time": "2025-01-03 19:14:07",
+    "tokens_involved": [
+      "Bm4Ta5oTcyCJBVhQTHVqxPTmHRkzLuggCtxR4GD1pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "PoW",
+    "price": "$470.9",
+    "volume": "62.1M",
+    "pricePerToken": "$0.0₅75839",
+    "change": "--",
+    "updatedAgo": "23h ago",
+    "transactionLink": "https://solscan.io/tx/57Y5N58Ded7SHyecXspipPJLj9YmUME6FaHybTQ9QpDes8J2ZW3ufQ6NU9PCaSbZK5iRPXpiSkLiqQb4dVF42gVb",
+    "trans_Time": "2025-01-03 19:09:16",
+    "tokens_involved": [
+      "7jKdApW5PjaKmnNquX1m81mp9hB739ASpvyhbi9Jpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "qSOL",
+    "price": "$469.35",
+    "volume": "60.4M",
+    "pricePerToken": "$0.0₅77661",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/E65LgR15X7hrvqcTEGTSmtrVayfs4sF42KL3HoKqoQPvH83UWza7cxi9qxdrufbW2xEpF8F7RDHwtG1Po2hTVZn",
+    "trans_Time": "2025-01-03 19:03:58",
+    "tokens_involved": [
+      "CnvuMf2L8NF8tgXWXkR4JkjgFVTAfAnvNXMfHYxqpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "ride it",
+    "price": "$512.23",
+    "volume": "67.5M",
+    "pricePerToken": "$0.0₅75841",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/pnfT99w5dXjhuMHHLVFah9BxrfgPTcR9ZcdjgGcCsHfvWPm4pGvKCYYdow3cCiKLrE3hjTyit1H1nYqM9Whv5en",
+    "trans_Time": "2025-01-03 17:44:01",
+    "tokens_involved": [
+      "9R11gVxok72oqPMVqpSu3FSobQ4DU8Q9ZJnoFC3Zpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "ARBOROCID",
+    "price": "$468.25",
+    "volume": "59.3M",
+    "pricePerToken": "$0.0₅78904",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/3Ez49mkuy7eapCJoPQL4hPBqHoxGFb8SZvfTeGUASFxPUtpff1Z3hpLrm6CwJqAr47KZHQLXhLVkxqQ3ZEatLj5u",
+    "trans_Time": "2025-01-03 17:27:52",
+    "tokens_involved": [
+      "DEu6iXu1RjsAipebHvHjtbFu9YBpBQbn28Z9RZZWh3q1"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "BLOOD",
+    "price": "$639.34",
+    "volume": "85.2M",
+    "pricePerToken": "$0.0₅75067",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/3ddU6cwWZV3xy49K2qWUCKUHhW3hsDgcZVHGUYk55XgMv918UZjgwVdWci1AvigVv1StaaYCcVkiJ9nmVeSNgKre",
+    "trans_Time": "2025-01-03 17:10:30",
+    "tokens_involved": [
+      "AXVinUkUGoC9sMsCyzhXyvgnCDu5zBiFn1MKUgnupump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "BTR",
+    "price": "$448.5",
+    "volume": "45.7M",
+    "pricePerToken": "$0.0₅98057",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/592MYLdXGhZrQTwKqRx1AoLSHKJUJfdMS6VDmbMDBgWZyLvTjMd5g1haHVUoQX2RgYMp37JVcHY62AtqbrcgXbXy",
+    "trans_Time": "2025-01-03 07:00:38",
+    "tokens_involved": [
+      "6wpK2Yp1SJfoys98HTZx48XpN8b7zHB754i7GqBvpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "MAWA",
+    "price": "$449.6",
+    "volume": "56.5M",
+    "pricePerToken": "$0.0₅79621",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/28MK4C8sGtvMPLcYtvjcGbA9NWojk9pCAVp3SheVbf9nFXVQGKdBPa3qn874SBYr33uKBEm9Z1mQSuY1FRJUmr5L",
+    "trans_Time": "2025-01-03 05:21:40",
+    "tokens_involved": [
+      "GXQFTBkhfQYWNgVK14MznYcVWRWQJ82tBjRKGsLPp8DB"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "SALVIA",
+    "price": "$1,215.99",
+    "volume": "28.4M",
+    "pricePerToken": "$0.0₄42866",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/63WnGgnfrQfhtE2bxo8v84KibxcoLLrMHP4kkTNTyBWCBqcEr2S2pT8L2DB5cQ3YqbcDU8ELUGC2oXavQyzngj1V",
+    "trans_Time": "2025-01-03 02:02:14",
+    "tokens_involved": [
+      "o9WHQ4fqFLdPr19xKWRKVFTXjcS5uAyi5wXdxhFpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "MCat",
+    "price": "$444.38",
+    "volume": "70.6M",
+    "pricePerToken": "$0.0₅62976",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/3q58o9a8v6R4Z2BfJZxapCfVdH7CS1ku2CdpvqufZji1PyFyVZK4hTFj3bhSPzac5xFFAjrbtVfQbjPWM77ZLfe",
+    "trans_Time": "2025-01-03 01:17:08",
+    "tokens_involved": [
+      "6LbRN2yQT8QHpDbXeXrykvLbANje46QniuDK3nscpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "DRAKE",
+    "price": "$447.31",
+    "volume": "51.2M",
+    "pricePerToken": "$0.0₅87433",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/4UqiA8uVx2K7VAxj6BtULe8aBXhrCVpiJQHfcVwXcb5qseNnFTZvRmJmo9BvJJ7FsXG1m8u7dBsZxxVC64PM2fa",
+    "trans_Time": "2025-01-03 00:48:12",
+    "tokens_involved": [
+      "76SuKj2LvB72cLvWEZFYYkheLC69S9K8cUi1XEsMoCVq"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "CUMCOIN",
+    "price": "$446.73",
+    "volume": "61.7M",
+    "pricePerToken": "$0.0₅72399",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/5ML8t2NfQemCg9P7u6MpfoYJN1X9XpkTWPvNQkxF9E9waiq8fLSi4X2TBDW9V7u5vPBg5SdydQFTpwLMUZF6GMQW",
+    "trans_Time": "2025-01-03 00:44:25",
+    "tokens_involved": [
+      "CFZZWbKmPHS8iFKnsimbZrkpeneYfDouB2ZFYZkWpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "CTM",
+    "price": "$446.9",
+    "volume": "59.1M",
+    "pricePerToken": "$0.0₅75675",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/2AXQTQ2DiEqmqbru5mDSBQMpUUgiyfYQSfce5hAh6jb94zoSxUonxB8jTAtQYJqZX1fUZ4pVt2cBvoSfQFkTTcVt",
+    "trans_Time": "2025-01-03 00:42:20",
+    "tokens_involved": [
+      "7HoiGTMkJmX64FNEHb4iFDeZZdMumNQrkQ1DwhBpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "SWISS",
+    "price": "$445.2",
+    "volume": "63.5M",
+    "pricePerToken": "$0.0₅70055",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/3UmTqjvaoNbBLfNvLDfvd5sfwp1aw62kdjjZxyKvFAodzxSkWRAaZLrqLFF7xPXffwVXnCpNDBzmWr7WdxhAUw4x",
+    "trans_Time": "2025-01-02 22:39:18",
+    "tokens_involved": [
+      "BXhW3T7cEqTdYxNcYrkoMDBR59QEMdWS6i8m3evepump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "A151",
+    "price": "$443.15",
+    "volume": "49.2M",
+    "pricePerToken": "$0.0₅90158",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/2JKX6nXzYFrm7oxnc7rsWzyysYSh4EZhkUBRHYBJ8prxoXU9h5x6JhEah5R9FA2hxwB8HfsnfZSoCkEx4c3KLcGR",
+    "trans_Time": "2025-01-02 21:44:38",
+    "tokens_involved": [
+      "9yUmiAMYDQiaqkWoKEGKtM7M5K4AdjSRmdrUh7g2pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "151",
+    "price": "$443.82",
+    "volume": "25.6M",
+    "pricePerToken": "$0.0₄17317",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/4d2j7qVPcZVBkUEjzK7S7KrpBurd5Vt7ogHvqDDBLgcvW13ohUTapXgaB6S2hqKFiPkjZejwGwZEADdbgCrbYqVJ",
+    "trans_Time": "2025-01-02 21:41:11",
+    "tokens_involved": [
+      "HQ3eC2JotarwWjbTkgeBPqWFTnB86V3bksztJB2Upump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "GREEDTOKEN",
+    "price": "$447.76",
+    "volume": "61.7M",
+    "pricePerToken": "$0.0₅7261",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/58yN1orXaoJrng2yUKkPmEprztkTpe4RKQyZMDzh7w9zHKXNiBo6DYcvfH1g3GKCAR7nSM4ftxUVw5cNfsUXs4RR",
+    "trans_Time": "2025-01-02 20:35:54",
+    "tokens_involved": [
+      "BMNpQXSYLaT7UresAdvYNyCT3PdDvHLVcTUL9VeYpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "AEX",
+    "price": "$2,057.02",
+    "volume": "17.1M",
+    "pricePerToken": "$0.00012",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/3YMK1RU2fnav796QBF72Q8LQQFmW68PvLTZkMjGVA9JmMgJjrH1hBGg9zYQMveGysn9HPTEm1eNjLAFfX36jGPFq",
+    "trans_Time": "2025-01-02 20:21:29",
+    "tokens_involved": [
+      "So11111111111111111111111111111111111111112",
+      "T2fKHPtso7fDafuUANAKB6W2d55CEPxFj1urrnwpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "AEX",
+    "price": "$2,034.6",
+    "volume": "29.8M",
+    "pricePerToken": "$0.0₄68318",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/5um2jVfMpwYqptZ7HdQA1d6nz1KT4ZfrVwbUrKuwcHshokzFZZJcDjGKG2BKQLT9M5Bo1dNp3qT7pnqLptNwrGoR",
+    "trans_Time": "2025-01-02 20:18:47",
+    "tokens_involved": [
+      "T2fKHPtso7fDafuUANAKB6W2d55CEPxFj1urrnwpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "DAO",
+    "price": "$446.84",
+    "volume": "62.8M",
+    "pricePerToken": "$0.0₅71158",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/4RLVYzdDcAuTcRCE8utE2fKJX9zZL5DRZtDxyBPtToaLpYq9NY5kXHEs61WRuSB6gJ4dkxYEwpbknbjk3yfM33VH",
+    "trans_Time": "2025-01-02 20:11:57",
+    "tokens_involved": [
+      "6cBKdAQPsMAgDpEuc766GDmDnZmyx6JQPW4cxV9epump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "TANGEM",
+    "price": "$1,013.48",
+    "volume": "29.1M",
+    "pricePerToken": "$0.0₄34792",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/WQurysyHsQvERoJCB693gGiW8t7wbuwSbKXEWpwv8YfQn9pDSbWSxXicXCwkwuRqZviiqPis9zqsTTRshmUMesj",
+    "trans_Time": "2025-01-02 20:02:00",
+    "tokens_involved": [
+      "GF3x8RfpsQX15PAj9C3ZcebhksiAd6orJTGYWPsgCyLp"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "scan",
+    "price": "$445.33",
+    "volume": "24M",
+    "pricePerToken": "$0.0₄18572",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/2mWq9PAS47tDSCeuSX6rxgiifFcRjBVqcJUqjHvWL6Ve6XNrM7b2nAKRHH7hwxCp9HhyDCKNY6oJedtmM1BYBRq3",
+    "trans_Time": "2025-01-02 19:58:29",
+    "tokens_involved": [
+      "C8wb8y5P76q8ZX4T3A9rEk7XakmFiaTkWg6zPuhrpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "TAXR",
+    "price": "$1,014.16",
+    "volume": "23M",
+    "pricePerToken": "$0.0₄44101",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/2nZBKisSd6Bmqm9H7MQNBzAy5pSEoPE6yTcfT7a7Lh165FKRTm7FHa2AKUFmJbEtczqsSWCBbdQspRr6BwT16ik6",
+    "trans_Time": "2025-01-02 19:52:02",
+    "tokens_involved": [
+      "oP5cpEPzr72tbviswHts77F4WeuQ83J2YbVB4xqpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "Ethel",
+    "price": "$446.12",
+    "volume": "65.5M",
+    "pricePerToken": "$0.0₅68083",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/5aN9HVx4gp4i6JxowTmRSverTE92ZDTsGuXKrWdNB6HAXt26Tpscyv5Suk91Ks7kdQ2xM1YwDRdobqmdPTJ8yh1H",
+    "trans_Time": "2025-01-02 19:50:35",
+    "tokens_involved": [
+      "ChEcPHSHMgFnKFhFwG4GTrzt69dKTerNSBEicUUNpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "scan",
+    "price": "$445.84",
+    "volume": "15.8M",
+    "pricePerToken": "$0.0₄28291",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/4PyW2qNuFJNoE4DUd7vjtWF6kpB2NjFRS7xJzHLtfuDdsLrhEytPwr6PyED2YdoFd8tLS4xazqjVQ3g3doy3nWKv",
+    "trans_Time": "2025-01-02 19:36:02",
+    "tokens_involved": [
+      "BMHwJ9QtCJkADu1VNw2YKoGU1H1QNV87XBJyXLBpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "BITCOIN",
+    "price": "$448.02",
+    "volume": "67.5M",
+    "pricePerToken": "$0.0₅66339",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/3UAAjqTNpvoFNgN69FfGdyJPNvbqYiZiBSrn11JAytC2qsH7p5nNLTs12cSXxi9dBvLdp9219T6hD6Vpjg4eJv5Q",
+    "trans_Time": "2025-01-02 19:29:58",
+    "tokens_involved": [
+      "Hen3e5dSti46uCLCs5rfLpuu95XvP7ccYF1erTPipump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "🛡️",
+    "price": "$610.73",
+    "volume": "95.3M",
+    "pricePerToken": "$0.0₅64065",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/5Kzy7rb4zDrbZkiZSHkFpLBcTadqL8DXpUUEQfnwe2oSPjUDubuLnYoKuCLVGXGzgSVrec2KtHSWff5Nx9Aqae7q",
+    "trans_Time": "2025-01-02 19:27:58",
+    "tokens_involved": [
+      "Etqe4buxeeKR93CunFxya96hU77YM94W3ernftS4RZmj"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "ImSatoshi",
+    "price": "$441.47",
+    "volume": "40.6M",
+    "pricePerToken": "$0.0₄10881",
+    "change": "--",
+    "updatedAgo": "2d ago",
+    "transactionLink": "https://solscan.io/tx/4BxNsd3KTJyatZZNwdnNxfPbN1jECwRBYqTxFhnQ8VNoPSP5y2QfPbjaJSASNuPjkaBuMpg2zbgxHBmHPgduVBDG",
+    "trans_Time": "2025-01-02 06:14:52",
+    "tokens_involved": [
+      "6sCdHesm2nraath4cZ2ERvUhfacemo81ob83V8rwpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "imSatoshi",
+    "price": "$440.26",
+    "volume": "14.8M",
+    "pricePerToken": "$0.0₄29711",
+    "change": "--",
+    "updatedAgo": "2d ago",
+    "transactionLink": "https://solscan.io/tx/4SkmQ6rgkmyGqjEFLzvXoMoPJF2Cv7EWGBmNdTcvezGYVSSoPem2e2Hd4kcEmxq5CuUA45Gjq6jttiNc3ri6Hhtb",
+    "trans_Time": "2025-01-02 06:09:00",
+    "tokens_involved": [
+      "FHnTgpBXeqtQmrupRm3FREUxqG2FY3PYR7MuVY85sger"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "Satoshi",
+    "price": "$440.32",
+    "volume": "62.8M",
+    "pricePerToken": "$0.0₅70158",
+    "change": "--",
+    "updatedAgo": "2d ago",
+    "transactionLink": "https://solscan.io/tx/2eWvnhTMx5NLuAcsy82j5RHVMUB62cgvEWAz8f9teiHPC87vVwr581NfbXJc6HYqfZ2H6KqqrRaTgbD1HvK4f2Z6",
+    "trans_Time": "2025-01-02 06:08:48",
+    "tokens_involved": [
+      "4vrcWT1mZD35c8RaGxmzwPx3oaR2GxhSPQ21dCSapump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "imSatoshi",
+    "price": "$2,005",
+    "volume": "67.5M",
+    "pricePerToken": "$0.0₄29695",
+    "change": "--",
+    "updatedAgo": "2d ago",
+    "transactionLink": "https://solscan.io/tx/4YcGZooQsju5UKMq4HS62zKJF1wEHwDc2DXw9JYBwKKiTBHPV84148TYrYnwEQi6fG8nLWHgMFNGedYvBZ5SBHcw",
+    "trans_Time": "2025-01-02 06:03:28",
+    "tokens_involved": [
+      "RXBkjUxRKyLPv11JiXfiFVDnRT1gRQTgqizeYBKJszr"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "FORTUNE",
+    "price": "$401.06",
+    "volume": "26.9M",
+    "pricePerToken": "$0.0₄1489",
+    "change": "--",
+    "updatedAgo": "2d ago",
+    "transactionLink": "https://solscan.io/tx/49qDZjGzZ8LU1vi6iDNcqkpaqh3bs8tPQ5SAwhs6F3qKAjS8Ep3SjNJjC7ZjiRhiXxhWrTWYYWcm9wnoivRoLzVF",
+    "trans_Time": "2025-01-02 05:59:55",
+    "tokens_involved": [
+      "GepzsMjrff1uEke9ifVSsGk7iFvikK21AxHhQyustU5n"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "imSatoshi",
+    "price": "$1,003.13",
+    "volume": "87.8M",
+    "pricePerToken": "$0.0₄1142",
+    "change": "--",
+    "updatedAgo": "2d ago",
+    "transactionLink": "https://solscan.io/tx/2xUyE8rQEqCFokuAFjkwaJmaC4pnyw4F2rkWGwxieDaoxrsWa83bZzPmptMCKmiGBYXADM45Jew8HDRGX5oEmGVZ",
+    "trans_Time": "2025-01-02 05:52:16",
+    "tokens_involved": [
+      "FLJ12xweuuwgtchVCh5NR472z6KrvPQ39fWS8EkTtKAa"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "imSatoshi",
+    "price": "$602.59",
+    "volume": "51.4M",
+    "pricePerToken": "$0.0₄11715",
+    "change": "--",
+    "updatedAgo": "2d ago",
+    "transactionLink": "https://solscan.io/tx/2Mnj1LqZW9Vs8HTekvAxVkceDaUAHN7gS75cNoSxpsa873b76fNwTgcXs1jhPWNEY1u7KGboxUAZZeQgHNinG3y4",
+    "trans_Time": "2025-01-02 05:48:45",
+    "tokens_involved": [
+      "FhgN3Dkt2Tnb7mciweyhJSzASnhJbw1EEa3gUYPLpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "OBC",
+    "price": "$427.43",
+    "volume": "70.6M",
+    "pricePerToken": "$0.0₅60547",
+    "change": "--",
+    "updatedAgo": "2d ago",
+    "transactionLink": "https://solscan.io/tx/3qinvcXrzZdfTdurdgYM4vQuAzVwxUU4vqfcx9fXQ5tSfV7pYAkGFkeP6xdo2QDL31CDrVySx9rYX2D6EEdZuuwa",
+    "trans_Time": "2025-01-02 01:08:45",
+    "tokens_involved": [
+      "5Ky7Z7Kv2uJ6Fh8TZ6zFua9H3JNrzrmposXXdVXepump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "FLICK",
+    "price": "$474.91",
+    "volume": "58.6M",
+    "pricePerToken": "$0.0₅8111",
+    "change": "--",
+    "updatedAgo": "2d ago",
+    "transactionLink": "https://solscan.io/tx/365ypT9w1xip4EEDLzGBRJXjEdLWwYvRzSVc22BbNmcEbSepsE8jCFu6P9PFRuLKfPUiHNgqnt4gaFWbX6EMR3Ba",
+    "trans_Time": "2025-01-01 22:09:09",
+    "tokens_involved": [
+      "FcJ56XABSdLiWYqCGAQxCmiChw7BY1KGSywAPNuUpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "AXN",
+    "price": "$419.58",
+    "volume": "64.2M",
+    "pricePerToken": "$0.0₅65307",
+    "change": "--",
+    "updatedAgo": "2d ago",
+    "transactionLink": "https://solscan.io/tx/3HLJBiXFRi5kefWWDhWBDDPSbH9DKmJ4NPF8tS9stWYqZ6WMapuQWe3zUeGRmNL2JK8uNo9i9fHH4TrR3TGcBTk5",
+    "trans_Time": "2025-01-01 22:03:27",
+    "tokens_involved": [
+      "F6qjkz7DxWRVGW66p5KibFb3meJFtSardm4Jb4gq88oX"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "2025",
+    "price": "$55.93",
+    "volume": "5.4M",
+    "pricePerToken": "$0.0₄10367",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/5ED8vEXQTtBHAHvB846AciUYy4kXYgefaYqkgrvD7tk4Moh4a7zs66Ewp4RqQDHtetaDHetAYUqsDjqDXMmVeXHo",
+    "trans_Time": "2025-01-01 18:06:49",
+    "tokens_involved": [
+      "557i15XuDESEirFPtzX2ygzZpJuGbyw6Z1skC6s2pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "2025",
+    "price": "$410.2",
+    "volume": "62.4M",
+    "pricePerToken": "$0.0₅65751",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/3QMnksR39YtcaaPF6GHp8trGDzchnAdCQbPJFo85qYotGtRb6va2rJstK3ughdCaQEUwHQXircLc5QrqSYFG786E",
+    "trans_Time": "2025-01-01 18:06:18",
+    "tokens_involved": [
+      "557i15XuDESEirFPtzX2ygzZpJuGbyw6Z1skC6s2pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "GlobalFog",
+    "price": "$410.13",
+    "volume": "67.8M",
+    "pricePerToken": "$0.0₅60449",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/2YTidaXDKDGcJ3Pf8xeYS1HxqFgmYnqKUankXLxKUteebyUE1apELEd2ijq54TtCTDVeHp7RSs3DvR9XSgwUfaDB",
+    "trans_Time": "2025-01-01 18:06:18",
+    "tokens_involved": [
+      "8wVysgbxezi7zz3ft3rJHvkd5TmKqtf5wFrUAXHrpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "RDIAZ",
+    "price": "$412.78",
+    "volume": "70.8M",
+    "pricePerToken": "$0.0₅58293",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/2PfRSzy3kvD92EKb78bV87qshgzxQShcqKP5HZTc2bqYHdnG79T396PDcgSx1PWYoMgMh9vgJY9sGw6GPYKQnvr2",
+    "trans_Time": "2025-01-01 16:02:42",
+    "tokens_involved": [
+      "FckMmcptZZXHyafWVinEx13hVmLi1DbTKMUTsjjbpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "SIA",
+    "price": "$1,503.7",
+    "volume": "21M",
+    "pricePerToken": "$0.0₄71601",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/5iL8zAYLRdyW8CYp8AB7XmyuVYBFtAMAM7Ne4aurkV8NgtEp7qbaNFPpkvxp71PM53k1bRfnFPvEX75fsLkMqesg",
+    "trans_Time": "2025-01-01 15:54:38",
+    "tokens_involved": [
+      "KjPRXdYBDaD9CCbMQcpkQWmTfqR8CvFecbZMN2rpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "YEAR",
+    "price": "$409.83",
+    "volume": "67.5M",
+    "pricePerToken": "$0.0₅60684",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/3HKHtK6UUZeQFsnky1izFrcaSquLHmqHwLztEC3GgBEKkBBmyXmLTDhD5WwVfsWwaSq7mp8WTPQXseU2uTFqBFB1",
+    "trans_Time": "2025-01-01 04:08:59",
+    "tokens_involved": [
+      "DgqeGH2wDXm7mzpqinvyYSrNui8ijvsuGeNM5Rk3aex6"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "DOGE",
+    "price": "$411.66",
+    "volume": "27.3M",
+    "pricePerToken": "$0.0₄15052",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/5uVUcy21AuGMd3t8Cgrbn8NFZV7yNG4Ujx7rkqKBz9N1aJboR48sH4CaneYxmCzgCeYeSoSURYYeBUZpqoF1G7tH",
+    "trans_Time": "2025-01-01 03:27:10",
+    "tokens_involved": [
+      "9QPQDkYKxLj7duLV7tXLVs7zSFxd3RdZH8d69uM3pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "COOKED",
+    "price": "$411.66",
+    "volume": "64.6M",
+    "pricePerToken": "$0.0₅63717",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/WPM98XRRaK9gBp7omM7rEjeHSqvr1en77ZFqj6Yszo9tu8rLV3Lzp7wtrEE5VZ3qvFqk9Q6PMfhM3FKiacKzMsu",
+    "trans_Time": "2025-01-01 03:27:07",
+    "tokens_involved": [
+      "FXhw4LLjVeC9qaK9o1xDgPWBdvpBaLi32qNMzS7oemw3"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "WOULD",
+    "price": "$411.69",
+    "volume": "56.6M",
+    "pricePerToken": "$0.0₅72696",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/mcCkycawRgxoh8NCUgEYnoK6HaEcGHScw3f3UKB7K5S4kiZ2qUdUxmaCjcMVy8MGsW4GhPuArBAh8o4CA3x5rmM",
+    "trans_Time": "2025-01-01 02:01:07",
+    "tokens_involved": [
+      "15kh1aG1LTrSnSkQhY4wdJh15peJVHncffwjcYSpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "Alea",
+    "price": "$1,893.35",
+    "volume": "36.4M",
+    "pricePerToken": "$0.0₄52072",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/2rKjmVyrDTaNrvNrXNGWcErk9F35ohUDfBQJbD9MYtvo1t7jY926HusdkQh5o4XLUMpYJS8qcTuQKE1z9Yv7b26w",
+    "trans_Time": "2024-12-31 21:14:01",
+    "tokens_involved": [
+      "7jKzkF3Tznacp9FMkA3o6uKUj9e92zaZ6KXxhrgMpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "alris",
+    "price": "$418.26",
+    "volume": "12.9M",
+    "pricePerToken": "$0.0₄32312",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/4DWx61xRDDubwxPkFcmgR1BSPhDMULhi8WU857UVVzVXtPvfEv6oSgSni7G2qBtgY2N2WLCbjsfWE6ryioA2PXMh",
+    "trans_Time": "2024-12-31 20:56:01",
+    "tokens_involved": [
+      "8o7XxYqYxrnjSZDCsJuUE9Y2XCcdTGyCLKK5JX8Epump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "PYOR",
+    "price": "$417.53",
+    "volume": "49.9M",
+    "pricePerToken": "$0.0₅83597",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/4Pj4ySCXgnJeG2G17b79xngA1qhrVzw2LA6ETKNfxmZU8fJSb5Y9ecXPbESG8dWDnEvDnHwC7jfnAX4ZD11rtSVc",
+    "trans_Time": "2024-12-31 19:58:49",
+    "tokens_involved": [
+      "FSbpWE9oTdJwPZ8FiyF2WQM35P5a8qLDqSUk8zKBpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "rsv",
+    "price": "$418.05",
+    "volume": "52.9M",
+    "pricePerToken": "$0.0₅79",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/3opnFt2kdbbCYNQdw9TLZZwMnpDrP2Wnux8kknwdmX8DDcUANEU5qUoxgwdF8qxKyzoPyTNHbzPJnBxVtAFAYrdM",
+    "trans_Time": "2024-12-31 19:51:11",
+    "tokens_involved": [
+      "AnqQCq1wd4Zov4Rrj719nAiLfc2WwFkTz7NKPssSdqVa"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "ventus",
+    "price": "$285.99",
+    "volume": "4.5M",
+    "pricePerToken": "$0.0₄63176",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/4eJoUkDfCqz822suCTejd3fqAvb4DgxAuMJNPytHF4ZqoTS7RgN98AmjjmEZ3fXNH9YFKB1incgPjVNkqxCgmgGr",
+    "trans_Time": "2024-12-31 19:30:55",
+    "tokens_involved": [
+      "92khhnH81NtWwMX4nQybHEZpznKh6SSCH9aNXuSPpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "ventus",
+    "price": "$419.6",
+    "volume": "30.8M",
+    "pricePerToken": "$0.0₄13635",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/2cbjKYNAP8KKa4TfgBYNcgiG9EpWhFpw7m1tBHV2eXjhCqSQeo1ybErcc191ZZoZgibzzWZj7QQZuPcLsgTbdrVJ",
+    "trans_Time": "2024-12-31 19:30:34",
+    "tokens_involved": [
+      "92khhnH81NtWwMX4nQybHEZpznKh6SSCH9aNXuSPpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "HAR",
+    "price": "$421.32",
+    "volume": "63.5M",
+    "pricePerToken": "$0.0₅66361",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/5TaZTsurAzeQJSGNV3SqNzmuDgV4CquzufgFbyC8fwprkLLQXSwJoiow7H9169wkyEFWUFucufYztau7Kf5JLF1D",
+    "trans_Time": "2024-12-31 17:51:36",
+    "tokens_involved": [
+      "5ejU7jMayEEbVSD3pWX1T1JaZToJPPbfu56e9JbPpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "KAWAM",
+    "price": "$1,940.6",
+    "volume": "239.3M",
+    "pricePerToken": "$0.0₅81104",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/5d5mYB9RxJEQzzoX73FMy3uhx7MZEZw5rXe9vW9PLxeq2eCHdJ1AnAvbX6MLki99VwhJ7zgaJPwtj8v2nhFWsjUi",
+    "trans_Time": "2024-12-31 17:16:54",
+    "tokens_involved": [
+      "FNutjbvJH8jHqthnhB8iviZyemSELEJ5r8r2zMaNpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "DEBRINA",
+    "price": "$1,950.2",
+    "volume": "56M",
+    "pricePerToken": "$0.0₄34814",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/2khrg5Uq1QHQy1CSFuFuzWhn3XVC9hEoRcpgiys1WHn9HpgwNCj5U1ejnUTQPKo9YK4d7RTFq5Rps8wBPzndfM3t",
+    "trans_Time": "2024-12-31 17:11:08",
+    "tokens_involved": [
+      "GCKLTJjCTBLixbBx85EHHmjgYB1EhUn3BAJWfr6Xpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "DEBRINA",
+    "price": "$1,950.2",
+    "volume": "221M",
+    "pricePerToken": "$0.0₅88238",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/5NcuWo27knWZF6Wu6TNjmT885qtrft6VuYswipTDD9arTSaP6FxF7rmGHbkgVmVvFhcH6ophjqM6QLSz6ndusdar",
+    "trans_Time": "2024-12-31 17:11:06",
+    "tokens_involved": [
+      "GCKLTJjCTBLixbBx85EHHmjgYB1EhUn3BAJWfr6Xpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "2025",
+    "price": "$426.41",
+    "volume": "56.3M",
+    "pricePerToken": "$0.0₅75753",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/64bGxXfhSsYYV4ZTL4fAYN67NymcmexaCuoRewExeb91BkS4NRzkXV9kCjv7FifwxdVa9LafZpfDf3Sfnr5ZTJwJ",
+    "trans_Time": "2024-12-31 16:33:59",
+    "tokens_involved": [
+      "zLzf8Spp7dXfDixGCb8tocgmPc9NQFLzh2a5QWEpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "kekius",
+    "price": "$408.84",
+    "volume": "56.7M",
+    "pricePerToken": "$0.0₅72106",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/e8QyvPzrdejmz8Z9eVZjrAsZKYKkJbt5aR8Y8VW7oidiVGiHkN7xwBi2iGahnvQpAGcqESjh2sHYSX6aUTj8ZZC",
+    "trans_Time": "2024-12-31 07:02:02",
+    "tokens_involved": [
+      "12sTM611oZ4SA8YCxLFD6xfCWFAFNs4EywJrWyWrpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "TONKS",
+    "price": "$410.8",
+    "volume": "63.6M",
+    "pricePerToken": "$0.0₅64566",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/25qAhaSFAPkXdswJkFSeVGDMJTgkB3taT14QkvWtdkcfW7wF3Pp6xW6U1jxxKNcxQCcbJpw9d52KfyVNw6ck1xLq",
+    "trans_Time": "2024-12-31 03:24:54",
+    "tokens_involved": [
+      "DxqocniLJEeuz65j2EPpXSB6yHgFtMnMadUM3T3Upump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "PAWS",
+    "price": "$409.46",
+    "volume": "70.6M",
+    "pricePerToken": "$0.0₅58011",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/2bWZMSbmS9UqT5SVCrbPCtuES6x5MzezbGoA4BuCQx6UGLxYuN1iP7pGxFsGNwwk98JiuHLZnR6toyKbiSr7UGko",
+    "trans_Time": "2024-12-31 03:03:44",
+    "tokens_involved": [
+      "2BYkV9gfvDJB1Z155Kvu4fuyRDc6jtPKheGkASB7pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "PROCEED",
+    "price": "$413",
+    "volume": "62.5M",
+    "pricePerToken": "$0.0₅66072",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/2haoFQj211CBo23yB5A8oShxhcGzV4A49gWTzZBfHqc8vsccB6LagMuTdBHBwXMt6Z5CXL5yuijaEhtXmNWwhMQ1",
+    "trans_Time": "2024-12-31 00:02:58",
+    "tokens_involved": [
+      "B5vh88JJDzGHU1og1oMJFW3RdpSQ5RkNmi2oKiHbpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "SEA",
+    "price": "$411.77",
+    "volume": "68M",
+    "pricePerToken": "$0.0₅60591",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/2Z5tBVJGtmqcmB7MJ9EVZobDJyxvq1xYc61V6GQKFD5Fe6tfYPWn53ewhtaMSrk6MAVPJo2cssWp45H9fwryar2U",
+    "trans_Time": "2024-12-30 23:39:48",
+    "tokens_involved": [
+      "8kjXoxt3rXJQKDx46k5k1FVNc3Dxx8mqCj8NJiWqpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "🫡",
+    "price": "$411.66",
+    "volume": "58.1M",
+    "pricePerToken": "$0.0₅70817",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/3qVFgVxeraFcEix94wKXohBZ6WVUBzV3c5qLVhXWVhGFRTnHBhxL2F48evH8P3o5e6x74iR1RLh4oRzpaknjWHQE",
+    "trans_Time": "2024-12-30 23:29:28",
+    "tokens_involved": [
+      "Db49oWRM5Z54jeJHGkDpKy3iAFf6VqjsUTLEBqLnpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "$SHINKAI",
+    "price": "$1,494.37",
+    "volume": "44.7M",
+    "pricePerToken": "$0.0₄33418",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/3X3seY7zqSUbDFTVjxkEVuw32cfVoA4BnGV2fSFTyyms9dXBjRerzBC52QfMg8W6HhoGpr1oRerzv7wAtiAj4mZf",
+    "trans_Time": "2024-12-30 22:22:32",
+    "tokens_involved": [
+      "8t4gbXn9G2ct3E5imT2xUBBv7oMmDdv4mSWi2epjpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "LUIS",
+    "price": "$408.19",
+    "volume": "70.4M",
+    "pricePerToken": "$0.0₅57986",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/42BveRD9jCFxJ1X1kazSRCAmfx71EDf7fiYuhMVvZaCSE6esKyV3k7BVLaoBNdEoXqTPvVnmNnyc57mGTfRFzdWY",
+    "trans_Time": "2024-12-30 21:54:48",
+    "tokens_involved": [
+      "4UCiRt1yg93k5v6uQUEp3BUK7o7TXSuG6hsMomzipump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "POPE",
+    "price": "$408.17",
+    "volume": "15.5M",
+    "pricePerToken": "$0.0₄26414",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/5uqoNad4qQf6jL8hbdUpKXerBF1kRUq2QeBDrMGSEyGhR8S1mzbazDousxJCa1izM8U9uP1PcCA6Hbg6mV9UH3CJ",
+    "trans_Time": "2024-12-30 21:54:13",
+    "tokens_involved": [
+      "8cqxp4cLe7Z58MJ5srUQpV17fJrBbcPbuRu7DJF4pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "POPE",
+    "price": "$408.17",
+    "volume": "54.7M",
+    "pricePerToken": "$0.0₅74579",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/5bmehPqWM5QAf8dbgzNHmTW3NR7FuzAir7KK59UqooyAnkzSsyCY9nQ751YTP9fFJ6Tm4JYadRFqjCfWcRxAvW1w",
+    "trans_Time": "2024-12-30 21:54:12",
+    "tokens_involved": [
+      "8cqxp4cLe7Z58MJ5srUQpV17fJrBbcPbuRu7DJF4pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "kyu",
+    "price": "$378.24",
+    "volume": "7.7M",
+    "pricePerToken": "$0.0₄49178",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/46zrKbtdXEabWULo4eyoD98mSsZMeH1Afqb8MK3nchhFjf6D2tTCLMfPUaWNEXSuM6pYsBoSpJ3yWG1qzsQBHJAW",
+    "trans_Time": "2024-12-30 21:36:45",
+    "tokens_involved": [
+      "8fRNbMPFfqXd88J4EZqriZQpNyg5GQasPHQoEypcpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "kyu",
+    "price": "$945.65",
+    "volume": "48.1M",
+    "pricePerToken": "$0.0₄19652",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/4oUUpMQcJbaPEwjvCnEa8DmfsHrfSMCTbU1NSCAWVMN7U6pJb2MkPVnpD1piGTcP4STBYxaZoPDd7mhkNvzt2Gvo",
+    "trans_Time": "2024-12-30 21:36:38",
+    "tokens_involved": [
+      "8fRNbMPFfqXd88J4EZqriZQpNyg5GQasPHQoEypcpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "neural",
+    "price": "$416.13",
+    "volume": "41.8M",
+    "pricePerToken": "$0.0₅99597",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/Ux33KcmBvUaJqvy1Eb3yVytZkYgeopRBL1CNz9SBuRJVXMqGKrZmgrciL2tegN3JCmb2vsEiDpekhRUgEeLb8HG",
+    "trans_Time": "2024-12-30 21:35:07",
+    "tokens_involved": [
+      "69GB4hCBekCobLkmcndxh9ZDaofvwnkLcKc4hwJXpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "KAGENT",
+    "price": "$955.15",
+    "volume": "31M",
+    "pricePerToken": "$0.0₄308",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/J6EZbnLB5Go9kCCW6mxKKNMv64zyT6dRJsXw8BvR2NXiDAZScYPWfnaMV2gC7EDBNVY5MGgA8nMTHjN3SYhetzA",
+    "trans_Time": "2024-12-30 21:00:39",
+    "tokens_involved": [
+      "9pV8mRskNbZGmBp7XHw9Njn6YjNPQ8w6yDhGmxKNpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "Baby Smurf",
+    "price": "$573.36",
+    "volume": "84.7M",
+    "pricePerToken": "$0.0₅67725",
+    "change": "--",
+    "updatedAgo": "5d ago",
+    "transactionLink": "https://solscan.io/tx/4R5XBpNq3TEF8Y7LkWEMKYEQTQYo3JpSa4yTgHJobiQz67ddk6oCQ33zWXTYK7a7Jia6qb9Am2fcdxtBbAGaxQoR",
+    "trans_Time": "2024-12-30 19:05:17",
+    "tokens_involved": [
+      "38gGKMmBQjALHUVB8BP1Hx6Hnpzr1kg4yjiLo9KYpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "lmm",
+    "price": "$418.56",
+    "volume": "56.5M",
+    "pricePerToken": "$0.0₅74125",
+    "change": "--",
+    "updatedAgo": "5d ago",
+    "transactionLink": "https://solscan.io/tx/3bF7KA14PZbpXbA2nQzetF2uBf1qMRmRRGGrUxFzfHuHyuDWyz7PXfb2fWqn8iRL7SqDbiZ7vF7jyQ6SKiKyuMcb",
+    "trans_Time": "2024-12-30 18:42:23",
+    "tokens_involved": [
+      "t8rQQ8xa1eXJRNqLPKfiq5FAEQ9C1ms7RaUqg3PdAsh"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "sylicontes",
+    "price": "$369.55",
+    "volume": "4.3M",
+    "pricePerToken": "$0.0₄85634",
+    "change": "--",
+    "updatedAgo": "5d ago",
+    "transactionLink": "https://solscan.io/tx/39bToCVyXNuxK3cXUeuPSEiKnkefV5hGEutwrhFyZTSMfedwE2f7FG3p6NVMhF3mmzhmHyukrByHQUpp3JnD2F4T",
+    "trans_Time": "2024-12-30 16:48:10",
+    "tokens_involved": [
+      "So11111111111111111111111111111111111111112",
+      "7mp6zn48gTzLBUczBbE8JjF8LtPnpFYQLTpUaAo4pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "sylicontes",
+    "price": "$1,467.4",
+    "volume": "33.2M",
+    "pricePerToken": "$0.0₄442",
+    "change": "--",
+    "updatedAgo": "5d ago",
+    "transactionLink": "https://solscan.io/tx/44ZrKMFaCqAbpdE9oRZi5wBLwWPdyoMUWUuwex1N773TgJZ3zrd2sYXr3CPEwxYageSLjcc9uVQBpJxod5632CYB",
+    "trans_Time": "2024-12-30 16:43:58",
+    "tokens_involved": [
+      "7mp6zn48gTzLBUczBbE8JjF8LtPnpFYQLTpUaAo4pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "Upstreet",
+    "price": "$1,864.92",
+    "volume": "44.9M",
+    "pricePerToken": "$0.0₄4157",
+    "change": "--",
+    "updatedAgo": "5d ago",
+    "transactionLink": "https://solscan.io/tx/2qiddyJGvpj2j4RPskeJfEpBDAoaKyMN4keNZDhJkUSRpCCxYW3H4aEsgPJK8ZSoWr2qAiXizQrNeWoJ3GBJhm3L",
+    "trans_Time": "2024-12-30 05:05:49",
+    "tokens_involved": [
+      "39cnMDeFNqtWZ2MjV5RhRSUoFzEoHgzifDh6iMYepump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "AGENT",
+    "price": "$413.24",
+    "volume": "61M",
+    "pricePerToken": "$0.0₅67742",
+    "change": "--",
+    "updatedAgo": "5d ago",
+    "transactionLink": "https://solscan.io/tx/ZrmwxpYU5hD8aK6QdtmZgZiusXy3vdbc8DN3MovzT2LMdZN2dEZphZFqVnqaaQ5XY2iY5YyMA1VJEaJNLRuzSTw",
+    "trans_Time": "2024-12-30 03:46:55",
+    "tokens_involved": [
+      "7CzNqw8UPfzUJ5h94dR9TxNDtZSPsZGq7pNNygjXpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "Economises",
+    "price": "$414.4",
+    "volume": "60.9M",
+    "pricePerToken": "$0.0₅68054",
+    "change": "--",
+    "updatedAgo": "5d ago",
+    "transactionLink": "https://solscan.io/tx/2usP19iw7Ziwe5hSPbCMsuMH3VZ4kYJvJu5ugewokwmvu53oT8y4iR6ezbzf5MqHuSGfKmjaDePN4Msjg1pN9hEE",
+    "trans_Time": "2024-12-29 21:00:12",
+    "tokens_involved": [
+      "28aCpsofrkxPfUYNVkvmu8e9qTxJyoyHuySdT1H5pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "SFS",
+    "price": "$414.42",
+    "volume": "52.6M",
+    "pricePerToken": "$0.0₅78842",
+    "change": "--",
+    "updatedAgo": "5d ago",
+    "transactionLink": "https://solscan.io/tx/rANx8VGnhttFH2EveZctS9Xwx7u2W9zJvDXLFMEXKoSrpLrX2aqJ5NisM3bFT16MhDiiXUbHSHZRzeMuRBPEF2t",
+    "trans_Time": "2024-12-29 20:12:16",
+    "tokens_involved": [
+      "EhRybaPSHMNQmnc9kLuVAE4DndZewRgKNdSuPpqPpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "TheyAped",
+    "price": "$571.62",
+    "volume": "90M",
+    "pricePerToken": "$0.0₅63538",
+    "change": "--",
+    "updatedAgo": "6d ago",
+    "transactionLink": "https://solscan.io/tx/3vQtktZgqmxEQTHQR4JV8fmR2XkdvMGZW7QvQn5WyHpmp1XViqaztrotG2YmzujA7ebgWzZVYG4Lz7NrmiUCU766",
+    "trans_Time": "2024-12-29 04:47:36",
+    "tokens_involved": [
+      "3yGnKDfrmZCxKbBqUtvydLneJWpdVPBC3xWGhRCwpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "SHIBORI",
+    "price": "$1,910.8",
+    "volume": "29.2M",
+    "pricePerToken": "$0.0₄65402",
+    "change": "--",
+    "updatedAgo": "6d ago",
+    "transactionLink": "https://solscan.io/tx/4teGwqChDmzCAmvKRnu3STuvh2B2ZDLUWLpfuCphst25i2MiCUCMyJrfiCqiV4sKjNi9unz2K8HVRWDyEiHbsTSB",
+    "trans_Time": "2024-12-28 22:26:20",
+    "tokens_involved": [
+      "7RQuXBYpJv4MnGBBjnf6X4qJVQnemR7HpAuzJCQapump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "MARC",
+    "price": "$190.78",
+    "volume": "4.1M",
+    "pricePerToken": "$0.0₄47059",
+    "change": "--",
+    "updatedAgo": "6d ago",
+    "transactionLink": "https://solscan.io/tx/4sgnuMXFa8LLDryJ3hfuw7ExPTKTWms2hejrnq6Nd2gZCbNJ9gCCvvp7AvoFPjGC3Q2sEsbCLGEyMZZFpvfJtCkr",
+    "trans_Time": "2024-12-28 22:22:45",
+    "tokens_involved": [
+      "9djrKJbtDENv4xHXXqdtdoCodn7N7qjEHHs21snmfLMD"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "MARC",
+    "price": "$419.69",
+    "volume": "56.5M",
+    "pricePerToken": "$0.0₅74328",
+    "change": "--",
+    "updatedAgo": "6d ago",
+    "transactionLink": "https://solscan.io/tx/4MSKz9MaxcMkXRdLijpmRi78aa2bJbFi9vCWM877mAZHyvvnGmTYsMYZt3ze7ezUScdTDYvH4rgMfqgX3tEwJRpK",
+    "trans_Time": "2024-12-28 22:22:02",
+    "tokens_involved": [
+      "9djrKJbtDENv4xHXXqdtdoCodn7N7qjEHHs21snmfLMD"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "S&P 500",
+    "price": "$1,275.67",
+    "volume": "36.5M",
+    "pricePerToken": "$0.0₄34988",
+    "change": "--",
+    "updatedAgo": "7d ago",
+    "transactionLink": "https://solscan.io/tx/4syJtD5wqCATkg4Z7ahTiMRPGgQwei5ux3178DwGDfRBSrdGKqZ5ZoLkhwhZrTpwN46pimmCWTRgH3W5QFgNqX3k",
+    "trans_Time": "2024-12-28 07:14:39",
+    "tokens_involved": [
+      "8Dd5LCqdeRjPwQgxpFmkmDzsMxZYgjqMKktG2ShZpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "STEM",
+    "price": "$400.06",
+    "volume": "27.9M",
+    "pricePerToken": "$0.0₄14338",
+    "change": "--",
+    "updatedAgo": "7d ago",
+    "transactionLink": "https://solscan.io/tx/5oVKdU4y3xGib3dBAVqhbBfSwnPuuwX1GPSSXgMRwNf2NErW5eqMbKvNTHhRBzxRcknRkRyoKWjjFQvEK81xkiQX",
+    "trans_Time": "2024-12-28 05:18:26",
+    "tokens_involved": [
+      "BpuKM1Fa1W7ent61tA6bwSqpZvDLz8Ma2cfGP1d58xZ"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "TEST",
+    "price": "$1,266.75",
+    "volume": "35.2M",
+    "pricePerToken": "$0.0₄35999",
+    "change": "--",
+    "updatedAgo": "7d ago",
+    "transactionLink": "https://solscan.io/tx/23pgksRNdYLdK1eYf4LWwESaEKCV2dRDUcXRexLY3sfrDUhkTe6wBABddh2QtKEvoGoYvLL6BfXSdcXkRi5xsgCA",
+    "trans_Time": "2024-12-28 04:34:10",
+    "tokens_involved": [
+      "JEHG7jsdia2RTaREHuCv67mho5cdGsrd9nY4d7QBpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "ARGQU",
+    "price": "$1,083.31",
+    "volume": "25.2M",
+    "pricePerToken": "$0.0₄42975",
+    "change": "--",
+    "updatedAgo": "7d ago",
+    "transactionLink": "https://solscan.io/tx/5DnAGnD5hzseKUMoiYU6bdKrNEPVPAFhXpFdGqVrHnTFxrpqYS9pgvsog62fYDNQ6gDv5MwDdR2oZdnZqG9SmdWs",
+    "trans_Time": "2024-12-28 02:48:10",
+    "tokens_involved": [
+      "7nqYieCDVSdnbPuh65d8ZxzyybSayupPdS1NxyBdpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "Adrian",
+    "price": "$400.06",
+    "volume": "13.7M",
+    "pricePerToken": "$0.0₄29197",
+    "change": "--",
+    "updatedAgo": "7d ago",
+    "transactionLink": "https://solscan.io/tx/5q3bqcPJN7ZREeH3A2RxzimBECCJjW6uTTQH8jMtjYaoUTcgcdC8K8szUGWwdGbZg7E1MTqiCtxvHHLjqR4PH7oA",
+    "trans_Time": "2024-12-27 21:48:23",
+    "tokens_involved": [
+      "GXnzhECFp2uCs2H52KPQ3e1XK6nmoPgywHjHANX5pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "POWERPUP",
+    "price": "$739.81",
+    "volume": "6.6M",
+    "pricePerToken": "$0.00011",
+    "change": "--",
+    "updatedAgo": "7d ago",
+    "transactionLink": "https://solscan.io/tx/uTDohi6wfRrRjCxiz5yYkbauAPsJTtSFjXysBpkiXt13mSXyVaw3aVPqsoyMAhPrv5iPxLM8o2QAyyQ8VnDkFuk",
+    "trans_Time": "2024-12-27 19:55:04",
+    "tokens_involved": [
+      "So11111111111111111111111111111111111111112",
+      "LmWWLeLFzaZA9U41Qe2zaVnj8pjpcQVccfnj3Jgpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "POWERPUP",
+    "price": "$1,098.96",
+    "volume": "34.3M",
+    "pricePerToken": "$0.0₄32071",
+    "change": "--",
+    "updatedAgo": "7d ago",
+    "transactionLink": "https://solscan.io/tx/2LTvkSQz11PsmMAyR1YwBJThwB1xiDQaUjcWZDeADY6SXYr3dD6yBTEaDYVTuRZNbDtT1f5TbF5hamQNesbxaF1w",
+    "trans_Time": "2024-12-27 19:51:24",
+    "tokens_involved": [
+      "LmWWLeLFzaZA9U41Qe2zaVnj8pjpcQVccfnj3Jgpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "Element",
+    "price": "$909.53",
+    "volume": "41.5M",
+    "pricePerToken": "$0.0₄21898",
+    "change": "--",
+    "updatedAgo": "8d ago",
+    "transactionLink": "https://solscan.io/tx/5apwhhhZtXXJPvZhMStEnvUgsYagd1tWKmhWczuZGA97hBe3m8AANmheHtoQLBhvtgNPymVujK4KcjzDo9FxN9sS",
+    "trans_Time": "2024-12-27 17:33:52",
+    "tokens_involved": [
+      "HC9NRi9P9HpXCo9oNf4mVXoatPukJBuQBqD5rYb7pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "COLIDE",
+    "price": "$931.09",
+    "volume": "36.3M",
+    "pricePerToken": "$0.0₄25654",
+    "change": "--",
+    "updatedAgo": "8d ago",
+    "transactionLink": "https://solscan.io/tx/2kd1qvt9faEg1za5TnsUhCskXh4bosHsBpmkmPVwTJ2VdVDtDuocXWd3yRSPQsN2a2aZqkBfkZCdiLuaUZLD59d6",
+    "trans_Time": "2024-12-27 06:26:15",
+    "tokens_involved": [
+      "FnhQRQaibTePLtmfpKURZvdB3EZMyt2rSzLiPy4dpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "CAIN",
+    "price": "$922.07",
+    "volume": "108.1M",
+    "pricePerToken": "$0.0₅85264",
+    "change": "--",
+    "updatedAgo": "8d ago",
+    "transactionLink": "https://solscan.io/tx/4Ndd4ZzeBYSRKYpYNTfL8oVaiEisix7jVdvLL1ZzTBnQTDzBymjRrE2j6K6c14eaZbCPQu58iukEgWTbFnyNneKo",
+    "trans_Time": "2024-12-27 05:24:10",
+    "tokens_involved": [
+      "2q8crXiiUqBUib92XnJGmETvtWXQNJUHR6yq2ePepump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "⚛️",
+    "price": "$1,861.69",
+    "volume": "53.8M",
+    "pricePerToken": "$0.0₄34572",
+    "change": "--",
+    "updatedAgo": "8d ago",
+    "transactionLink": "https://solscan.io/tx/2p7DQD52i6ApmdeKKZzcZx1ao2D51HNxAPjt8zaCvqKSSP2iRGfHr3bjqVzugvdUrHhGZYYJWTrSC2qvN5GWw7YG",
+    "trans_Time": "2024-12-27 04:53:20",
+    "tokens_involved": [
+      "3VbRCRrgnLj8T7tBBv4R7DVqf71aMXGY4NF4hrHSpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "H",
+    "price": "$186.14",
+    "volume": "8.1M",
+    "pricePerToken": "$0.0₄22971",
+    "change": "--",
+    "updatedAgo": "8d ago",
+    "transactionLink": "https://solscan.io/tx/3TW68k7WUce1uVc1JLUhhA9aXWtA8TbMnDKaGtEHACSDtR6phhDE34HD9NosM5saAVUrwz8ainYBzCmDN5ivyyE3",
+    "trans_Time": "2024-12-27 04:47:16",
+    "tokens_involved": [
+      "FXKW7wVQGytNR6VWoU36k6gPB7jQTtoAvj8QHDsupump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "H",
+    "price": "$409.49",
+    "volume": "56.3M",
+    "pricePerToken": "$0.0₅72719",
+    "change": "--",
+    "updatedAgo": "8d ago",
+    "transactionLink": "https://solscan.io/tx/349XbSuGZNcQ1aAoEndQLbUtx67f2GLxZNRVgWwAnnyz2gZs2TxHrzKBrE993AQhSxnbCWTBoayMfGMi11k3uZsL",
+    "trans_Time": "2024-12-27 04:47:04",
+    "tokens_involved": [
+      "FXKW7wVQGytNR6VWoU36k6gPB7jQTtoAvj8QHDsupump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "M3ME",
+    "price": "$1,493.19",
+    "volume": "49.9M",
+    "pricePerToken": "$0.0₄2991",
+    "change": "--",
+    "updatedAgo": "8d ago",
+    "transactionLink": "https://solscan.io/tx/zQE4U4duWd2ZxXUbf998Rb6EBUAbTdfhFd6X91oyn3GEGh14z6n6H3Q7Jd6QBebzKNUZ2vEriVkTAwMYKJBAwk6",
+    "trans_Time": "2024-12-27 04:29:17",
+    "tokens_involved": [
+      "6MbTqwqPnBD2LMZAadQzX2Pfn3wCciR5WfwGseWbUBGh"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "Ginger",
+    "price": "$930.11",
+    "volume": "17.3M",
+    "pricePerToken": "$0.0₄53701",
+    "change": "--",
+    "updatedAgo": "8d ago",
+    "transactionLink": "https://solscan.io/tx/5fszthgDxqTjKzux8mAAgT7gWfRqeX3rtX5RukjQCoNFncW5dh2x2wRFsvHUpcSsrgHVXQxV85zrymJYmbvtiM5S",
+    "trans_Time": "2024-12-26 21:58:00",
+    "tokens_involved": [
+      "igxsVayL5Z1SSRusSSGf3BZdgy1aaX8XhJhvs59pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "TARDIGRADE",
+    "price": "$920.06",
+    "volume": "32.8M",
+    "pricePerToken": "$0.0₄28015",
+    "change": "--",
+    "updatedAgo": "8d ago",
+    "transactionLink": "https://solscan.io/tx/4pQMSPY1fwh46T1M52qmtTQEouHPhaaDrLaH4Sv3DjdepDhg7TwYCZ6X8Rb1kcqjWCnQBxMy7c9sgmZPz6ngFs7k",
+    "trans_Time": "2024-12-26 21:10:08",
+    "tokens_involved": [
+      "2YaUuydZUWT9JzXKHFNiJD1WNbR7U4e9AhyjGj6fpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "QRL",
+    "price": "$404.87",
+    "volume": "70.6M",
+    "pricePerToken": "$0.0₅57312",
+    "change": "--",
+    "updatedAgo": "8d ago",
+    "transactionLink": "https://solscan.io/tx/xSovVvUZswDdvNnBSX4XX6szkjVVaKauNcDjGVVCg4LcCBRxkTYcwMNbvTxHugoary6YfhehVavfZ9xvkEacAHz",
+    "trans_Time": "2024-12-26 21:07:33",
+    "tokens_involved": [
+      "5nYX66kX1bQwYmiJspWqX4sEjY23r6pCh5vh7b5bpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "cachorrito",
+    "price": "$460.79",
+    "volume": "55.4M",
+    "pricePerToken": "$0.0₅83176",
+    "change": "--",
+    "updatedAgo": "8d ago",
+    "transactionLink": "https://solscan.io/tx/597qiUCAq97vstpPGMxC7zt1sXXwCtWDqm4vzRM5EFihiiMQ69Pf97rhvnaZ3RoQVK6ya7WQdKoJg2zq8b2s73Y7",
+    "trans_Time": "2024-12-26 20:28:18",
+    "tokens_involved": [
+      "4kxhkZEBmjK7AY3mNCfUTu9PbCg5ZYsBfeV9dt7Epump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "Steve",
+    "price": "$924.38",
+    "volume": "30.5M",
+    "pricePerToken": "$0.0₄30331",
+    "change": "--",
+    "updatedAgo": "8d ago",
+    "transactionLink": "https://solscan.io/tx/4xMxpJcgLdDQXW3LGgV1d2XvbR8sXnqofx3bxr8xqBQ5BgTh3YkmGXgrUZBu5673frAoawoQTm227X8hmeLzDy3a",
+    "trans_Time": "2024-12-26 19:25:06",
+    "tokens_involved": [
+      "FwqkJoUenWPrLjMuid6HQytXEGQd79F2SkYHWxzZQhhf"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "EXEAI",
+    "price": "$1,480.02",
+    "volume": "33.7M",
+    "pricePerToken": "$0.0₄43941",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/4ns93vywSQjLA79r32oviCtdr9m5Zgo4YCKwCpadyahuCyWLSh59DdACisKSUs3fcvyNn1Vehgu5X884fehwGtT1",
+    "trans_Time": "2024-12-26 17:49:53",
+    "tokens_involved": [
+      "FzfifhXMZ9YaRhukgVuNBBLEMDoySqb3u76DbtvZpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "DAVIS",
+    "price": "$1,476.81",
+    "volume": "39.5M",
+    "pricePerToken": "$0.0₄37385",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/c6BeoRcyTBSMYVHR4MPQLsNfWM1M3tepDutnSZFe1LxdhrEhMaJ6Xatzym2daLdM9u8g9SiPeVXdZ8eEphxmN3P",
+    "trans_Time": "2024-12-26 17:29:58",
+    "tokens_involved": [
+      "xtxATbXzgY7kmsZ1A2k5yDaWUuZsJGCA1s3tKPmpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "tulips",
+    "price": "$926.63",
+    "volume": "72.1M",
+    "pricePerToken": "$0.0₄1285",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/2TgPGgW2xDuJSeN4UHCoQQriEuzmh1kpURttb5S6LVEwQYWZ1XtdqRm2FH4S2BbWK9Awv4YmVpCBiUmuYHBU38nS",
+    "trans_Time": "2024-12-26 16:30:23",
+    "tokens_involved": [
+      "9nAixveqND5a7X6xiBxtabC7fekYj9bT9KkDGsVApump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "dalgona",
+    "price": "$408.52",
+    "volume": "63M",
+    "pricePerToken": "$0.0₅6487",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/2izoKCaagLhikAUAMGzUgqXqDoJX22AQQQo6ugydjhvYvZrbVbiJVpj9ArY4UMd7E3HCagQetYKEgixTeet6FZnq",
+    "trans_Time": "2024-12-26 09:36:32",
+    "tokens_involved": [
+      "9b4ma7aBsLEPiZtnh9F2S6b7YJUaoVHm4cmnc5x9pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "달마안",
+    "price": "$409.51",
+    "volume": "42.4M",
+    "pricePerToken": "$0.0₅9655",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/5HQ6rTMrU6ZehRKeDYy1yVC4LNBJymJvM9zyaKS7DpSh7hYPxcxicuEa688qnEhd6EAg8vQ7L5RwTfcKM4oXpZNK",
+    "trans_Time": "2024-12-26 08:27:29",
+    "tokens_involved": [
+      "HeztAoUHZMu1KDTeq8mbDxrc8VCFXdLRS8cRDfhdpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "DALMATIAN",
+    "price": "$189.62",
+    "volume": "2.9M",
+    "pricePerToken": "$0.0₄65059",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/5QRwh1bsQhZQjYcD6KSpAyiQxErA65V1fUBCjqXjdPrcTZV1hS17t6NjV7zthydQ1sVQezGzL3wNrwgHKP8RWRk4",
+    "trans_Time": "2024-12-26 08:10:53",
+    "tokens_involved": [
+      "So11111111111111111111111111111111111111112",
+      "3CSeAGiw5TYeuZfB74adUM1M9if1fEDXzr5PrnuNpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "DALMATIAN",
+    "price": "$414.79",
+    "volume": "59.8M",
+    "pricePerToken": "$0.0₅69398",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/4Fv8MQkRBbbLFoqYNam7935daVFuQaEowMpYosJPaPX1QQz3KszBXwkHFXiWHragKpcXyjWuP5bDceH9JDwBAG8M",
+    "trans_Time": "2024-12-26 08:07:31",
+    "tokens_involved": [
+      "3CSeAGiw5TYeuZfB74adUM1M9if1fEDXzr5PrnuNpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "MG COIN",
+    "price": "$415.29",
+    "volume": "7.7M",
+    "pricePerToken": "$0.0₄54139",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/36pjdxCkmNr46Q4XQiY3BVSzpnHdMDxegbD31djdcMrHSDHbMXeN7qJs3KVgx2zRdxtyCMoy4hut5KAB9q1UKeiB",
+    "trans_Time": "2024-12-26 08:04:51",
+    "tokens_involved": [
+      "HFf3QAyVtBaFXDAF8A6TgBtZrEyjcCU8BUvp9iL5pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "MG COIN",
+    "price": "$415.29",
+    "volume": "25.2M",
+    "pricePerToken": "$0.0₄16471",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/4Jo1Fw21WJf6oyBa197iv5MTqvL3FzqJwzwCvyg1VMwejhWDEG3hvSs4nGmoM7zptWVEdWNSfu2Dfv5ZHgSFo5qn",
+    "trans_Time": "2024-12-26 08:04:50",
+    "tokens_involved": [
+      "HFf3QAyVtBaFXDAF8A6TgBtZrEyjcCU8BUvp9iL5pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "Kamikaze",
+    "price": "$1,898.45",
+    "volume": "40.6M",
+    "pricePerToken": "$0.0₄46799",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/oJLb7h4qbsk1afByVJTu6fGXYcz3w4hjfestAMJPMkRqLgo2jCREw1HsBLxtAEZqaHN395dUhmzqtdQ4weHMJQu",
+    "trans_Time": "2024-12-26 07:03:18",
+    "tokens_involved": [
+      "D7mM9ApxpwnPAWxR8tnuZMJa6sqmbMG4SmQ4dZ5Npump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "SOLLY",
+    "price": "$953.98",
+    "volume": "19.2M",
+    "pricePerToken": "$0.0₄49771",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/NNRUnPDnprUBD5ikECzBWa43ZSp4tKRiCo1rTVY2sbiYcvxD15UPDZ81Vv6MXpq6KLeGWFXx6npypHhVRwhk3DE",
+    "trans_Time": "2024-12-26 06:00:01",
+    "tokens_involved": [
+      "AMJb5Gmebza9ftr9TeuAs3w3CyKZv5A6Z9EDomxXpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "SOLLY",
+    "price": "$419.79",
+    "volume": "16.7M",
+    "pricePerToken": "$0.0₄2512",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/5SX9gjPXRzgG32Q6M3F4YwqQKimPGLmr9Esd7zMh7J6BtbWuv6q4JcG3LA7M8Nuiv3HjPt2QdvbNW53Azj9oTpBv",
+    "trans_Time": "2024-12-26 05:59:54",
+    "tokens_involved": [
+      "AMJb5Gmebza9ftr9TeuAs3w3CyKZv5A6Z9EDomxXpump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "MIRA",
+    "price": "$1,555.14",
+    "volume": "30.9M",
+    "pricePerToken": "$0.0₄5033",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/4bFuSEwXA1QManZPza6k2c6y7gsX77SqxqRJDvhu79qZ4AZfm1u1jsNE6U8GRtQhssMW3AmV1jFedWcm42yJr9sX",
+    "trans_Time": "2024-12-26 02:35:23",
+    "tokens_involved": [
+      "RufNMBEbKJr6CM1t3nwakZ3BaE9csF2AR15s32VWcRE"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "POU",
+    "price": "$963.88",
+    "volume": "46.3M",
+    "pricePerToken": "$0.0₄20817",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/51VrcsnRyKjvGN1EyxfgGC7KTifq2YGMZNt3mPBrawsnwo1ppmGs8YJMnQbp2ymQzzb6ETh7veEo2LnRed9RFgV7",
+    "trans_Time": "2024-12-26 01:33:57",
+    "tokens_involved": [
+      "9wV8khtragNBGLrKQ5M6uQ3JxqWgE9wmrduqCMB7pump"
+    ]
+  },
+  {
+    "action": "Buy",
+    "token": "CB",
+    "price": "$425.38",
+    "volume": "62.5M",
+    "pricePerToken": "$0.0₅68099",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/397fPLM7LFdfnGTGAbEi5psnqFeSkdwEjhiuWuKv4uwsixn9sihGR9Bgjabp3MTTTV4gZsV4whYW3KV54aHCRnGd",
+    "trans_Time": "2024-12-26 01:20:36",
+    "tokens_involved": [
+      "GSCS6LwuzfeTaQDUZYwqN3mmx1bFo7EsbA8wMAjLpump"
+    ]
+  }
+]

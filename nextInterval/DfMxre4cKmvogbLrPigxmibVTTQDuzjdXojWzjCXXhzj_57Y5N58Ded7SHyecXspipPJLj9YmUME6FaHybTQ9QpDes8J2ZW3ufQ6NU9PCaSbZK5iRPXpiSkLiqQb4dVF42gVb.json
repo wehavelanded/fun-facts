@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "57Y5N58Ded7SHyecXspipPJLj9YmUME6FaHybTQ9QpDes8J2ZW3ufQ6NU9PCaSbZK5iRPXpiSkLiqQb4dVF42gVb",
+    "mint": "7jKdApW5PjaKmnNquX1m81mp9hB739ASpvyhbi9Jpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735931356,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311670359,
+    "readable_time": "2025-01-03T19:09:16.000Z",
+    "action": "Buy",
+    "token": "PoW",
+    "price": "$470.9",
+    "volume": "62.1M",
+    "pricePerToken": "$0.0₅75839",
+    "change": "--",
+    "updatedAgo": "23h ago",
+    "transactionLink": "https://solscan.io/tx/57Y5N58Ded7SHyecXspipPJLj9YmUME6FaHybTQ9QpDes8J2ZW3ufQ6NU9PCaSbZK5iRPXpiSkLiqQb4dVF42gVb",
+    "trans_Time": "2025-01-03 19:09:16",
+    "tokens_involved": [
+      "7jKdApW5PjaKmnNquX1m81mp9hB739ASpvyhbi9Jpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "2JDRuQrMPKN6qHn4irQrnp5G33DmrxRsmPj6w4Tns2d8trBY17F4aVLuNQB5yv9Ty7yYffexMqBvkpZiChXuWBCT",
+    "mint": "7jKdApW5PjaKmnNquX1m81mp9hB739ASpvyhbi9Jpump",
+    "sol_amount": 300000000,
+    "token_amount": 3114128313301,
+    "is_buy": true,
+    "user": "Hu8ZG7v9YkZrW4r3djNUiqymr7g8MBocRMMqADwEpfB5",
+    "timestamp": 1735931357,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311670360,
+    "readable_time": "2025-01-03T19:09:17.000Z"
+  }
+}

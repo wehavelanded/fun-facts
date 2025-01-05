@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "49qDZjGzZ8LU1vi6iDNcqkpaqh3bs8tPQ5SAwhs6F3qKAjS8Ep3SjNJjC7ZjiRhiXxhWrTWYYWcm9wnoivRoLzVF",
+    "mint": "GepzsMjrff1uEke9ifVSsGk7iFvikK21AxHhQyustU5n",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735797595,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311345376,
+    "readable_time": "2025-01-02T05:59:55.000Z",
+    "action": "Buy",
+    "token": "FORTUNE",
+    "price": "$401.06",
+    "volume": "26.9M",
+    "pricePerToken": "$0.0₄1489",
+    "change": "--",
+    "updatedAgo": "2d ago",
+    "transactionLink": "https://solscan.io/tx/49qDZjGzZ8LU1vi6iDNcqkpaqh3bs8tPQ5SAwhs6F3qKAjS8Ep3SjNJjC7ZjiRhiXxhWrTWYYWcm9wnoivRoLzVF",
+    "trans_Time": "2025-01-02 05:59:55",
+    "tokens_involved": [
+      "GepzsMjrff1uEke9ifVSsGk7iFvikK21AxHhQyustU5n"
+    ]
+  },
+  "closest_trade": {
+    "signature": "3DuAv5sUts979E7m5CvXLCWV3g4CFW9gdeRuQLbdkjsqxWFnZ2nidYyZpcrCwMhh69nj4E3DfMDM7PbN94m9HBQh",
+    "mint": "GepzsMjrff1uEke9ifVSsGk7iFvikK21AxHhQyustU5n",
+    "sol_amount": 1485000000,
+    "token_amount": 11161333684385,
+    "is_buy": true,
+    "user": "2zn8byTRDSuAoBaD8pNtPuWxUAkHzsGUafKhpTZ5VZDL",
+    "timestamp": 1735797596,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311345377,
+    "readable_time": "2025-01-02T05:59:56.000Z"
+  }
+}

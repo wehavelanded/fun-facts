@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "3vQtktZgqmxEQTHQR4JV8fmR2XkdvMGZW7QvQn5WyHpmp1XViqaztrotG2YmzujA7ebgWzZVYG4Lz7NrmiUCU766",
+    "mint": "3yGnKDfrmZCxKbBqUtvydLneJWpdVPBC3xWGhRCwpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735447656,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310491276,
+    "readable_time": "2024-12-29T04:47:36.000Z",
+    "action": "Buy",
+    "token": "TheyAped",
+    "price": "$571.62",
+    "volume": "90M",
+    "pricePerToken": "$0.0₅63538",
+    "change": "--",
+    "updatedAgo": "6d ago",
+    "transactionLink": "https://solscan.io/tx/3vQtktZgqmxEQTHQR4JV8fmR2XkdvMGZW7QvQn5WyHpmp1XViqaztrotG2YmzujA7ebgWzZVYG4Lz7NrmiUCU766",
+    "trans_Time": "2024-12-29 04:47:36",
+    "tokens_involved": [
+      "3yGnKDfrmZCxKbBqUtvydLneJWpdVPBC3xWGhRCwpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "3rrieiS2JGVpcPByAHjsjr8eTvxnvHxjtEFQPRXqv5BRwksn7pTyG57ffEPaT62tgyPG37WxiHjg9a9euEkDs2UM",
+    "mint": "3yGnKDfrmZCxKbBqUtvydLneJWpdVPBC3xWGhRCwpump",
+    "sol_amount": 890548365,
+    "token_amount": 6774080116821,
+    "is_buy": true,
+    "user": "DCwEtFtpWgTmpnBGXoFcHk7g58R3VoXRLDKKgGHJNnjr",
+    "timestamp": 1735447657,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310491280,
+    "readable_time": "2024-12-29T04:47:37.000Z"
+  }
+}

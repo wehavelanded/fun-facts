@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "44ZrKMFaCqAbpdE9oRZi5wBLwWPdyoMUWUuwex1N773TgJZ3zrd2sYXr3CPEwxYageSLjcc9uVQBpJxod5632CYB",
+    "mint": "7mp6zn48gTzLBUczBbE8JjF8LtPnpFYQLTpUaAo4pump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735577038,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310806244,
+    "readable_time": "2024-12-30T16:43:58.000Z",
+    "action": "Buy",
+    "token": "sylicontes",
+    "price": "$1,467.4",
+    "volume": "33.2M",
+    "pricePerToken": "$0.0₄442",
+    "change": "--",
+    "updatedAgo": "5d ago",
+    "transactionLink": "https://solscan.io/tx/44ZrKMFaCqAbpdE9oRZi5wBLwWPdyoMUWUuwex1N773TgJZ3zrd2sYXr3CPEwxYageSLjcc9uVQBpJxod5632CYB",
+    "trans_Time": "2024-12-30 16:43:58",
+    "tokens_involved": [
+      "7mp6zn48gTzLBUczBbE8JjF8LtPnpFYQLTpUaAo4pump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "3WsvdpJMAA5wEz2BjkE7XdD6b53PuaBhwUmmbZtZN7Z3ZurzZrHrEz49oUy3v9ASqZEEGzMvGHnas1v4FXuDLPQ3",
+    "mint": "7mp6zn48gTzLBUczBbE8JjF8LtPnpFYQLTpUaAo4pump",
+    "sol_amount": 224120073,
+    "token_amount": 546528410866,
+    "is_buy": true,
+    "user": "EjT349GStUDLchvtkK6vYbVPBpXa9titLxkDqdftF7KQ",
+    "timestamp": 1735577039,
+    "tx_index": 2,
+    "username": null,
+    "profile_image": null,
+    "slot": 310806245,
+    "readable_time": "2024-12-30T16:43:59.000Z"
+  }
+}

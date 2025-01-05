@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "2TgPGgW2xDuJSeN4UHCoQQriEuzmh1kpURttb5S6LVEwQYWZ1XtdqRm2FH4S2BbWK9Awv4YmVpCBiUmuYHBU38nS",
+    "mint": "9nAixveqND5a7X6xiBxtabC7fekYj9bT9KkDGsVApump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735230623,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 309959681,
+    "readable_time": "2024-12-26T16:30:23.000Z",
+    "action": "Buy",
+    "token": "tulips",
+    "price": "$926.63",
+    "volume": "72.1M",
+    "pricePerToken": "$0.0₄1285",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/2TgPGgW2xDuJSeN4UHCoQQriEuzmh1kpURttb5S6LVEwQYWZ1XtdqRm2FH4S2BbWK9Awv4YmVpCBiUmuYHBU38nS",
+    "trans_Time": "2024-12-26 16:30:23",
+    "tokens_involved": [
+      "9nAixveqND5a7X6xiBxtabC7fekYj9bT9KkDGsVApump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "3QohkQRPXTKY84nCMrPRYthzMmx8BmSnFmhvqHpA15v3sCaM97XaEyVP5SGp1PVVEcnEwETGbDywLApBwmABQgfV",
+    "mint": "9nAixveqND5a7X6xiBxtabC7fekYj9bT9KkDGsVApump",
+    "sol_amount": 297000000,
+    "token_amount": 785744753261,
+    "is_buy": true,
+    "user": "A73NUNY6TNf8ZhfF27Wm7qL6vHbyoDjday1B3GEntBhz",
+    "timestamp": 1735230624,
+    "tx_index": 1,
+    "username": "A73NUN",
+    "profile_image": null,
+    "slot": 309959684,
+    "readable_time": "2024-12-26T16:30:24.000Z"
+  }
+}

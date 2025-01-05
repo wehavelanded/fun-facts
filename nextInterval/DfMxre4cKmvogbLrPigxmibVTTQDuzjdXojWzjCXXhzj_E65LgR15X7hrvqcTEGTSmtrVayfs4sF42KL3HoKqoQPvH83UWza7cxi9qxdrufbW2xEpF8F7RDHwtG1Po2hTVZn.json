@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "E65LgR15X7hrvqcTEGTSmtrVayfs4sF42KL3HoKqoQPvH83UWza7cxi9qxdrufbW2xEpF8F7RDHwtG1Po2hTVZn",
+    "mint": "CnvuMf2L8NF8tgXWXkR4JkjgFVTAfAnvNXMfHYxqpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735931038,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311669588,
+    "readable_time": "2025-01-03T19:03:58.000Z",
+    "action": "Buy",
+    "token": "qSOL",
+    "price": "$469.35",
+    "volume": "60.4M",
+    "pricePerToken": "$0.0₅77661",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/E65LgR15X7hrvqcTEGTSmtrVayfs4sF42KL3HoKqoQPvH83UWza7cxi9qxdrufbW2xEpF8F7RDHwtG1Po2hTVZn",
+    "trans_Time": "2025-01-03 19:03:58",
+    "tokens_involved": [
+      "CnvuMf2L8NF8tgXWXkR4JkjgFVTAfAnvNXMfHYxqpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "352JowUYF5J2MXhvxXVnd1JVFsAJtG76WEjmRezsQ9VjAcwRnsPqqyqbHKrdEgD6iDUqqwjtqxFyXRyvQ38AgXtt",
+    "mint": "CnvuMf2L8NF8tgXWXkR4JkjgFVTAfAnvNXMfHYxqpump",
+    "sol_amount": 258194994,
+    "token_amount": 2802530800984,
+    "is_buy": true,
+    "user": "CqF7MhWMEmi19hfKX7GEFvUt8Nus3MPceteX4bhUcoQQ",
+    "timestamp": 1735931039,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311669591,
+    "readable_time": "2025-01-03T19:03:59.000Z"
+  }
+}

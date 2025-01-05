@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "5um2jVfMpwYqptZ7HdQA1d6nz1KT4ZfrVwbUrKuwcHshokzFZZJcDjGKG2BKQLT9M5Bo1dNp3qT7pnqLptNwrGoR",
+    "mint": "T2fKHPtso7fDafuUANAKB6W2d55CEPxFj1urrnwpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735849127,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311471051,
+    "readable_time": "2025-01-02T20:18:47.000Z",
+    "action": "Buy",
+    "token": "AEX",
+    "price": "$2,034.6",
+    "volume": "29.8M",
+    "pricePerToken": "$0.0₄68318",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/5um2jVfMpwYqptZ7HdQA1d6nz1KT4ZfrVwbUrKuwcHshokzFZZJcDjGKG2BKQLT9M5Bo1dNp3qT7pnqLptNwrGoR",
+    "trans_Time": "2025-01-02 20:18:47",
+    "tokens_involved": [
+      "T2fKHPtso7fDafuUANAKB6W2d55CEPxFj1urrnwpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "3G8JJDAqZDsKxzbknxPJkiHpwqL43jpMMnYJgPKrPgHv3eCeSFgnZh1WhqaQx5sx1EqJ8hie8vUAecSEWc3oVpjc",
+    "mint": "T2fKHPtso7fDafuUANAKB6W2d55CEPxFj1urrnwpump",
+    "sol_amount": 68310000,
+    "token_amount": 166393133617,
+    "is_buy": true,
+    "user": "CzbP3XUq7GAjmAD6g7jqWDQgvvUCJLKRyo56v7qgiGzq",
+    "timestamp": 1735849128,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311471052,
+    "readable_time": "2025-01-02T20:18:48.000Z"
+  }
+}

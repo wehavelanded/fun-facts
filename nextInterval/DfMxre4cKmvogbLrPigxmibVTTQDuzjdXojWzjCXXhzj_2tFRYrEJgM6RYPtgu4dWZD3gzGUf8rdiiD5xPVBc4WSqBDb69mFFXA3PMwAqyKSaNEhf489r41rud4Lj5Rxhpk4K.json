@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "2tFRYrEJgM6RYPtgu4dWZD3gzGUf8rdiiD5xPVBc4WSqBDb69mFFXA3PMwAqyKSaNEhf489r41rud4Lj5Rxhpk4K",
+    "mint": "BvxvFD4ZfDkfjTq8QJy1WKye3QHuB1bWKxofYaz2pump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735965975,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311754136,
+    "readable_time": "2025-01-04T04:46:15.000Z",
+    "action": "Buy",
+    "token": "GIGATITS",
+    "price": "$1,271.92",
+    "volume": "24.5M",
+    "pricePerToken": "$0.0₄51923",
+    "change": "--",
+    "updatedAgo": "14h ago",
+    "transactionLink": "https://solscan.io/tx/2tFRYrEJgM6RYPtgu4dWZD3gzGUf8rdiiD5xPVBc4WSqBDb69mFFXA3PMwAqyKSaNEhf489r41rud4Lj5Rxhpk4K",
+    "trans_Time": "2025-01-04 04:46:15",
+    "tokens_involved": [
+      "BvxvFD4ZfDkfjTq8QJy1WKye3QHuB1bWKxofYaz2pump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "3ULgqRCrD6LajUG2SYtTUHbkvuGciGyYBDnMcgQj8Vt5jAzS8SbWkQEX9AUQ8dWbZQsf5zucXVZMceEvnU9vXvB9",
+    "mint": "BvxvFD4ZfDkfjTq8QJy1WKye3QHuB1bWKxofYaz2pump",
+    "sol_amount": 464934302,
+    "token_amount": 1144459395238,
+    "is_buy": true,
+    "user": "CbAnQfsvxzm7Uvsswv567RaZywb9KyH7EaokrJjyLwUz",
+    "timestamp": 1735965976,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311754140,
+    "readable_time": "2025-01-04T04:46:16.000Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "Ux33KcmBvUaJqvy1Eb3yVytZkYgeopRBL1CNz9SBuRJVXMqGKrZmgrciL2tegN3JCmb2vsEiDpekhRUgEeLb8HG",
+    "mint": "69GB4hCBekCobLkmcndxh9ZDaofvwnkLcKc4hwJXpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735594507,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310848894,
+    "readable_time": "2024-12-30T21:35:07.000Z",
+    "action": "Buy",
+    "token": "neural",
+    "price": "$416.13",
+    "volume": "41.8M",
+    "pricePerToken": "$0.0₅99597",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/Ux33KcmBvUaJqvy1Eb3yVytZkYgeopRBL1CNz9SBuRJVXMqGKrZmgrciL2tegN3JCmb2vsEiDpekhRUgEeLb8HG",
+    "trans_Time": "2024-12-30 21:35:07",
+    "tokens_involved": [
+      "69GB4hCBekCobLkmcndxh9ZDaofvwnkLcKc4hwJXpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "31GLu2h2i6rZDESHxucaQrgRag94vVKisRZDbWxuWXTTsn94bDip3GmztSLiHbSUfyQHh95e34qxqScpEio9PBPu",
+    "mint": "69GB4hCBekCobLkmcndxh9ZDaofvwnkLcKc4hwJXpump",
+    "sol_amount": 193265583,
+    "token_amount": 1937507219861,
+    "is_buy": true,
+    "user": "AqxbYFNFA2oYj2emJEZKCQ2p9KnyE11KTCwGnhBqxn8q",
+    "timestamp": 1735594508,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310848897,
+    "readable_time": "2024-12-30T21:35:08.000Z"
+  }
+}

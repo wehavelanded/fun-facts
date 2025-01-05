@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "4xMxpJcgLdDQXW3LGgV1d2XvbR8sXnqofx3bxr8xqBQ5BgTh3YkmGXgrUZBu5673frAoawoQTm227X8hmeLzDy3a",
+    "mint": "FwqkJoUenWPrLjMuid6HQytXEGQd79F2SkYHWxzZQhhf",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735241106,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 309985082,
+    "readable_time": "2024-12-26T19:25:06.000Z",
+    "action": "Buy",
+    "token": "Steve",
+    "price": "$924.38",
+    "volume": "30.5M",
+    "pricePerToken": "$0.0₄30331",
+    "change": "--",
+    "updatedAgo": "8d ago",
+    "transactionLink": "https://solscan.io/tx/4xMxpJcgLdDQXW3LGgV1d2XvbR8sXnqofx3bxr8xqBQ5BgTh3YkmGXgrUZBu5673frAoawoQTm227X8hmeLzDy3a",
+    "trans_Time": "2024-12-26 19:25:06",
+    "tokens_involved": [
+      "FwqkJoUenWPrLjMuid6HQytXEGQd79F2SkYHWxzZQhhf"
+    ]
+  },
+  "closest_trade": {
+    "signature": "2LXaLvEXuaFrjTwvjF5UDzDevRJ6oukunuqo5iguJbnMvo9aX2W9LdPSLGM14sHjv1pJzfHRnabXY8V2Jn7LYtnf",
+    "mint": "FwqkJoUenWPrLjMuid6HQytXEGQd79F2SkYHWxzZQhhf",
+    "sol_amount": 1000000000,
+    "token_amount": 2671554898945,
+    "is_buy": true,
+    "user": "Hu8ZG7v9YkZrW4r3djNUiqymr7g8MBocRMMqADwEpfB5",
+    "timestamp": 1735241107,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 309985084,
+    "readable_time": "2024-12-26T19:25:07.000Z"
+  }
+}

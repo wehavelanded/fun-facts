@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "4Jo1Fw21WJf6oyBa197iv5MTqvL3FzqJwzwCvyg1VMwejhWDEG3hvSs4nGmoM7zptWVEdWNSfu2Dfv5ZHgSFo5qn",
+    "mint": "HFf3QAyVtBaFXDAF8A6TgBtZrEyjcCU8BUvp9iL5pump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735200290,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 309886276,
+    "readable_time": "2024-12-26T08:04:50.000Z",
+    "action": "Buy",
+    "token": "MG COIN",
+    "price": "$415.29",
+    "volume": "25.2M",
+    "pricePerToken": "$0.0₄16471",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/4Jo1Fw21WJf6oyBa197iv5MTqvL3FzqJwzwCvyg1VMwejhWDEG3hvSs4nGmoM7zptWVEdWNSfu2Dfv5ZHgSFo5qn",
+    "trans_Time": "2024-12-26 08:04:50",
+    "tokens_involved": [
+      "HFf3QAyVtBaFXDAF8A6TgBtZrEyjcCU8BUvp9iL5pump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "3EtKsxMeuUJe5jCRxxnfbRr7R8jr93AdUWhFvHX1bY9KFyVothf8XtUzXdHLtAhaXCRjZHLUXVjwQMsccqw1xC3p",
+    "mint": "HFf3QAyVtBaFXDAF8A6TgBtZrEyjcCU8BUvp9iL5pump",
+    "sol_amount": 500000000,
+    "token_amount": 1447418203136,
+    "is_buy": true,
+    "user": "Hu8ZG7v9YkZrW4r3djNUiqymr7g8MBocRMMqADwEpfB5",
+    "timestamp": 1735200291,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 309886282,
+    "readable_time": "2024-12-26T08:04:51.000Z"
+  }
+}

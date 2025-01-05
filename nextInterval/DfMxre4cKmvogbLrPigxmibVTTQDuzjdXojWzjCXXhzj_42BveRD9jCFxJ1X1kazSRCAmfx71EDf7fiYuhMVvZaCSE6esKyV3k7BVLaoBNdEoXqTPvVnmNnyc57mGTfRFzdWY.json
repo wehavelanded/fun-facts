@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "42BveRD9jCFxJ1X1kazSRCAmfx71EDf7fiYuhMVvZaCSE6esKyV3k7BVLaoBNdEoXqTPvVnmNnyc57mGTfRFzdWY",
+    "mint": "4UCiRt1yg93k5v6uQUEp3BUK7o7TXSuG6hsMomzipump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735595688,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310851805,
+    "readable_time": "2024-12-30T21:54:48.000Z",
+    "action": "Buy",
+    "token": "LUIS",
+    "price": "$408.19",
+    "volume": "70.4M",
+    "pricePerToken": "$0.0₅57986",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/42BveRD9jCFxJ1X1kazSRCAmfx71EDf7fiYuhMVvZaCSE6esKyV3k7BVLaoBNdEoXqTPvVnmNnyc57mGTfRFzdWY",
+    "trans_Time": "2024-12-30 21:54:48",
+    "tokens_involved": [
+      "4UCiRt1yg93k5v6uQUEp3BUK7o7TXSuG6hsMomzipump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "32bEVUFHjnKr7rm7hoQZwHvVWArAJ8zywZ2Zw7YPLcirjJNvDSfmpFZ6ZmRWwb7cnVdeMMGjruJzLTSzKP5vtMXV",
+    "mint": "4UCiRt1yg93k5v6uQUEp3BUK7o7TXSuG6hsMomzipump",
+    "sol_amount": 148844039,
+    "token_amount": 1158099830093,
+    "is_buy": true,
+    "user": "F4bec5fh2TWg3o6MKYRVqs1V4B9JeXnfQHgjVfaPLbpQ",
+    "timestamp": 1735595689,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310851807,
+    "readable_time": "2024-12-30T21:54:49.000Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "Wp6HEBGEiPX7UMqZvS5JhLvVV2FFarhe7WXtj2PvL982pV8YPhQ53G1zeqAmRUsLtAGXDGW9tLLXstKAp8bAa6L",
+    "mint": "A8QT7c5o5mpb8LFxpF5mJVuSarkwUbBqxUzNdNWUpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735936964,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311683920,
+    "readable_time": "2025-01-03T20:42:44.000Z",
+    "action": "Buy",
+    "token": "Strawberry",
+    "price": "$1,695.12",
+    "volume": "29M",
+    "pricePerToken": "$0.0₄58381",
+    "change": "--",
+    "updatedAgo": "22h ago",
+    "transactionLink": "https://solscan.io/tx/Wp6HEBGEiPX7UMqZvS5JhLvVV2FFarhe7WXtj2PvL982pV8YPhQ53G1zeqAmRUsLtAGXDGW9tLLXstKAp8bAa6L",
+    "trans_Time": "2025-01-03 20:42:44",
+    "tokens_involved": [
+      "A8QT7c5o5mpb8LFxpF5mJVuSarkwUbBqxUzNdNWUpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "CTYKodUh6KHZ2d2SCYFqajaACJMsK4as9DyB7KBKXZGNhe1rSu2o6msp6pxz68PLK6PJmrwsyRVRyxDGB6YUrHz",
+    "mint": "A8QT7c5o5mpb8LFxpF5mJVuSarkwUbBqxUzNdNWUpump",
+    "sol_amount": 364325849,
+    "token_amount": 1110808924098,
+    "is_buy": true,
+    "user": "Cqm8oFdFdn5GEe3pWMMZjd7fzXKBpKJHGydvmmfAkJXd",
+    "timestamp": 1735936965,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311683924,
+    "readable_time": "2025-01-03T20:42:45.000Z"
+  }
+}

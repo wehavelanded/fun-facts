@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "4syJtD5wqCATkg4Z7ahTiMRPGgQwei5ux3178DwGDfRBSrdGKqZ5ZoLkhwhZrTpwN46pimmCWTRgH3W5QFgNqX3k",
+    "mint": "8Dd5LCqdeRjPwQgxpFmkmDzsMxZYgjqMKktG2ShZpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735370079,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310300730,
+    "readable_time": "2024-12-28T07:14:39.000Z",
+    "action": "Buy",
+    "token": "S&P 500",
+    "price": "$1,275.67",
+    "volume": "36.5M",
+    "pricePerToken": "$0.0₄34988",
+    "change": "--",
+    "updatedAgo": "7d ago",
+    "transactionLink": "https://solscan.io/tx/4syJtD5wqCATkg4Z7ahTiMRPGgQwei5ux3178DwGDfRBSrdGKqZ5ZoLkhwhZrTpwN46pimmCWTRgH3W5QFgNqX3k",
+    "trans_Time": "2024-12-28 07:14:39",
+    "tokens_involved": [
+      "8Dd5LCqdeRjPwQgxpFmkmDzsMxZYgjqMKktG2ShZpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "2dW7AqDg9qHux3wDCaEtJCLZMXP1pRJfX4KTaQR4k6icUSrtwADQddHSp2Tx9miMbJeXyxUrsBZ7EJxzZx8wi8Pm",
+    "mint": "8Dd5LCqdeRjPwQgxpFmkmDzsMxZYgjqMKktG2ShZpump",
+    "sol_amount": 200000000,
+    "token_amount": 491641791371,
+    "is_buy": true,
+    "user": "G3kP6J32RoMJ3E3ooAS4ibtoPthZLYzDQVyvMvJaSffP",
+    "timestamp": 1735370080,
+    "tx_index": 1,
+    "username": "BRPUTO",
+    "profile_image": null,
+    "slot": 310300731,
+    "readable_time": "2024-12-28T07:14:40.000Z"
+  }
+}

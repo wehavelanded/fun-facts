@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "4Bxrj7w3Ahqx6882ogCCxweXzz2XCCvoeS599c9CrJ2BeB5ZqvPQpZjHWZwPaeR95VKqm5hzNJrVPJVHjqWkDxWC",
+    "mint": "8JMqdwNntUpmk7LseCea3urf75Yz6epQNJ7EPmY2Hwbp",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735937965,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311686362,
+    "readable_time": "2025-01-03T20:59:25.000Z",
+    "action": "Buy",
+    "token": "HUSHCASE",
+    "price": "$465.98",
+    "volume": "59.5M",
+    "pricePerToken": "$0.0₅7834",
+    "change": "--",
+    "updatedAgo": "22h ago",
+    "transactionLink": "https://solscan.io/tx/4Bxrj7w3Ahqx6882ogCCxweXzz2XCCvoeS599c9CrJ2BeB5ZqvPQpZjHWZwPaeR95VKqm5hzNJrVPJVHjqWkDxWC",
+    "trans_Time": "2025-01-03 20:59:25",
+    "tokens_involved": [
+      "8JMqdwNntUpmk7LseCea3urf75Yz6epQNJ7EPmY2Hwbp"
+    ]
+  },
+  "closest_trade": {
+    "signature": "5FfxngbW1BUuG5D5m31DV9Tf7mpAuz4ntdhY1iE3fTgjjaqArXY5qG6xaT1NgD5QFWveMf1tccBqbroGFgfyEFTh",
+    "mint": "8JMqdwNntUpmk7LseCea3urf75Yz6epQNJ7EPmY2Hwbp",
+    "sol_amount": 891900000,
+    "token_amount": 14074686297499,
+    "is_buy": true,
+    "user": "4m3bxXR7uKn2TDJjXg9GyweokooZVQZWKQ6do8UvEap3",
+    "timestamp": 1735937966,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311686363,
+    "readable_time": "2025-01-03T20:59:26.000Z"
+  }
+}

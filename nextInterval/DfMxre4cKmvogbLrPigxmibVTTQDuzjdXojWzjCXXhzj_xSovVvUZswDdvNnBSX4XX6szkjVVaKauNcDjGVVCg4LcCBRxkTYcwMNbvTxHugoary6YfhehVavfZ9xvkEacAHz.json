@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "xSovVvUZswDdvNnBSX4XX6szkjVVaKauNcDjGVVCg4LcCBRxkTYcwMNbvTxHugoary6YfhehVavfZ9xvkEacAHz",
+    "mint": "5nYX66kX1bQwYmiJspWqX4sEjY23r6pCh5vh7b5bpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735247253,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 309999995,
+    "readable_time": "2024-12-26T21:07:33.000Z",
+    "action": "Buy",
+    "token": "QRL",
+    "price": "$404.87",
+    "volume": "70.6M",
+    "pricePerToken": "$0.0₅57312",
+    "change": "--",
+    "updatedAgo": "8d ago",
+    "transactionLink": "https://solscan.io/tx/xSovVvUZswDdvNnBSX4XX6szkjVVaKauNcDjGVVCg4LcCBRxkTYcwMNbvTxHugoary6YfhehVavfZ9xvkEacAHz",
+    "trans_Time": "2024-12-26 21:07:33",
+    "tokens_involved": [
+      "5nYX66kX1bQwYmiJspWqX4sEjY23r6pCh5vh7b5bpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "jyNqsJ6BapBWPoahNiX2L3wfHyrMWyEdd2gkG7dNs3uuRD1vmd78o35E6KEh4aCZ9WFxbVmXFmHaYA2FGhLvTmo",
+    "mint": "5nYX66kX1bQwYmiJspWqX4sEjY23r6pCh5vh7b5bpump",
+    "sol_amount": 1189200000,
+    "token_amount": 5759333443299,
+    "is_buy": true,
+    "user": "3PHoc6mQmtPw82JWyyKAqs9pzdaCtVvc4pJmsqaxtyQH",
+    "timestamp": 1735247254,
+    "tx_index": 1,
+    "username": "3PHoc6",
+    "profile_image": null,
+    "slot": 309999997,
+    "readable_time": "2024-12-26T21:07:34.000Z"
+  }
+}

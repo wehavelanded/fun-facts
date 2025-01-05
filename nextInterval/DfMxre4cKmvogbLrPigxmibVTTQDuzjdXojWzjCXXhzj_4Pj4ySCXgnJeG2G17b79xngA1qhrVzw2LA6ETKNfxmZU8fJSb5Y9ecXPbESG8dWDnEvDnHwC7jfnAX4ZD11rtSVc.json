@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "4Pj4ySCXgnJeG2G17b79xngA1qhrVzw2LA6ETKNfxmZU8fJSb5Y9ecXPbESG8dWDnEvDnHwC7jfnAX4ZD11rtSVc",
+    "mint": "FSbpWE9oTdJwPZ8FiyF2WQM35P5a8qLDqSUk8zKBpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735675129,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311046048,
+    "readable_time": "2024-12-31T19:58:49.000Z",
+    "action": "Buy",
+    "token": "PYOR",
+    "price": "$417.53",
+    "volume": "49.9M",
+    "pricePerToken": "$0.0₅83597",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/4Pj4ySCXgnJeG2G17b79xngA1qhrVzw2LA6ETKNfxmZU8fJSb5Y9ecXPbESG8dWDnEvDnHwC7jfnAX4ZD11rtSVc",
+    "trans_Time": "2024-12-31 19:58:49",
+    "tokens_involved": [
+      "FSbpWE9oTdJwPZ8FiyF2WQM35P5a8qLDqSUk8zKBpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "5JkDQYNmJKgw96Bq8VKzPD8dixRoX5J8gD8pSt83cpmSbTiu8ReJRB9KJxw1Ta1EV1K2Uzfh7Qi7ma1SDvgyQwHP",
+    "mint": "FSbpWE9oTdJwPZ8FiyF2WQM35P5a8qLDqSUk8zKBpump",
+    "sol_amount": 139601220,
+    "token_amount": 691596680556,
+    "is_buy": true,
+    "user": "DKo6U6SRzSHghtTXNKXngkPx4HSY1zZQ9ghRArzbNYVr",
+    "timestamp": 1735675130,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311046052,
+    "readable_time": "2024-12-31T19:58:50.000Z"
+  }
+}

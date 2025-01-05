@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "4RLVYzdDcAuTcRCE8utE2fKJX9zZL5DRZtDxyBPtToaLpYq9NY5kXHEs61WRuSB6gJ4dkxYEwpbknbjk3yfM33VH",
+    "mint": "6cBKdAQPsMAgDpEuc766GDmDnZmyx6JQPW4cxV9epump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735848717,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311470066,
+    "readable_time": "2025-01-02T20:11:57.000Z",
+    "action": "Buy",
+    "token": "DAO",
+    "price": "$446.84",
+    "volume": "62.8M",
+    "pricePerToken": "$0.0₅71158",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/4RLVYzdDcAuTcRCE8utE2fKJX9zZL5DRZtDxyBPtToaLpYq9NY5kXHEs61WRuSB6gJ4dkxYEwpbknbjk3yfM33VH",
+    "trans_Time": "2025-01-02 20:11:57",
+    "tokens_involved": [
+      "6cBKdAQPsMAgDpEuc766GDmDnZmyx6JQPW4cxV9epump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "4sEtDRx5W2KN2sUcD8j2abrZ3R866oWk83XY5phF8Wepn4osDknmYf9UQjt3gkaoHQLAM1gehEV8By41Zefyhugd",
+    "mint": "6cBKdAQPsMAgDpEuc766GDmDnZmyx6JQPW4cxV9epump",
+    "sol_amount": 500000000,
+    "token_amount": 6327836342715,
+    "is_buy": true,
+    "user": "8LXZatE4bxkoYGbUiEkvdu8gWEkvc1MSFGU6GF2Zcrq4",
+    "timestamp": 1735848718,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311470067,
+    "readable_time": "2025-01-02T20:11:58.000Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "3uSgKFrraWa1sz6Wkqvo1zeQB3i3qd8FLwbtVcHTHwPWQcppwfT9JXjy7tJYZLT6BfmCLaFhpSmykLjomnZddi65",
+    "mint": "4MfNzTYjE2JBkk1wrAxPGjeoaf4KpDnCnmTQmzz4pump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735966395,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311755168,
+    "readable_time": "2025-01-04T04:53:15.000Z",
+    "action": "Buy",
+    "token": "ag2",
+    "price": "$1,061.41",
+    "volume": "70.5M",
+    "pricePerToken": "$0.0₄15056",
+    "change": "--",
+    "updatedAgo": "14h ago",
+    "transactionLink": "https://solscan.io/tx/3uSgKFrraWa1sz6Wkqvo1zeQB3i3qd8FLwbtVcHTHwPWQcppwfT9JXjy7tJYZLT6BfmCLaFhpSmykLjomnZddi65",
+    "trans_Time": "2025-01-04 04:53:15",
+    "tokens_involved": [
+      "4MfNzTYjE2JBkk1wrAxPGjeoaf4KpDnCnmTQmzz4pump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "5dVzTJ82dDwagyp6gZ2mwcs981Nb2JBXmXtLkPs13PrKRdgsK4sz5PvVZy7P2Gjj8iWK1qeXt4EX8DtZTHmhLhwv",
+    "mint": "4MfNzTYjE2JBkk1wrAxPGjeoaf4KpDnCnmTQmzz4pump",
+    "sol_amount": 24838868,
+    "token_amount": 155219625977,
+    "is_buy": true,
+    "user": "FunfR21tucRQViM69FGkL8tsr3ATzxru7vL6GFD5GeRo",
+    "timestamp": 1735966397,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311755174,
+    "readable_time": "2025-01-04T04:53:17.000Z"
+  }
+}

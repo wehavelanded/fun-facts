@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "2nZBKisSd6Bmqm9H7MQNBzAy5pSEoPE6yTcfT7a7Lh165FKRTm7FHa2AKUFmJbEtczqsSWCBbdQspRr6BwT16ik6",
+    "mint": "oP5cpEPzr72tbviswHts77F4WeuQ83J2YbVB4xqpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735847522,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311467164,
+    "readable_time": "2025-01-02T19:52:02.000Z",
+    "action": "Buy",
+    "token": "TAXR",
+    "price": "$1,014.16",
+    "volume": "23M",
+    "pricePerToken": "$0.0₄44101",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/2nZBKisSd6Bmqm9H7MQNBzAy5pSEoPE6yTcfT7a7Lh165FKRTm7FHa2AKUFmJbEtczqsSWCBbdQspRr6BwT16ik6",
+    "trans_Time": "2025-01-02 19:52:02",
+    "tokens_involved": [
+      "oP5cpEPzr72tbviswHts77F4WeuQ83J2YbVB4xqpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "5ebnYoRkuPEukvf6rR5tRutFSgq7ymRkdgZgKvZVTmKyH2cBAog2UyEHXUfoX9ZM8FPy8f9BSNt7rj6LK2F44WUo",
+    "mint": "oP5cpEPzr72tbviswHts77F4WeuQ83J2YbVB4xqpump",
+    "sol_amount": 148695509,
+    "token_amount": 374741382962,
+    "is_buy": true,
+    "user": "Fa9dC7CqeEiq2CwayKhbZSWQamTpyapVCu7YaBAthcri",
+    "timestamp": 1735847523,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311467166,
+    "readable_time": "2025-01-02T19:52:03.000Z"
+  }
+}

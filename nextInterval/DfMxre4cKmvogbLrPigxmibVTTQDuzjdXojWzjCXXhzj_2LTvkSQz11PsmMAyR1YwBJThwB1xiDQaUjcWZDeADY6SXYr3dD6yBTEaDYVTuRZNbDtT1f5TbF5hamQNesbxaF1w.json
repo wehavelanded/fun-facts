@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "2LTvkSQz11PsmMAyR1YwBJThwB1xiDQaUjcWZDeADY6SXYr3dD6yBTEaDYVTuRZNbDtT1f5TbF5hamQNesbxaF1w",
+    "mint": "LmWWLeLFzaZA9U41Qe2zaVnj8pjpcQVccfnj3Jgpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735329084,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310200276,
+    "readable_time": "2024-12-27T19:51:24.000Z",
+    "action": "Buy",
+    "token": "POWERPUP",
+    "price": "$1,098.96",
+    "volume": "34.3M",
+    "pricePerToken": "$0.0₄32071",
+    "change": "--",
+    "updatedAgo": "7d ago",
+    "transactionLink": "https://solscan.io/tx/2LTvkSQz11PsmMAyR1YwBJThwB1xiDQaUjcWZDeADY6SXYr3dD6yBTEaDYVTuRZNbDtT1f5TbF5hamQNesbxaF1w",
+    "trans_Time": "2024-12-27 19:51:24",
+    "tokens_involved": [
+      "LmWWLeLFzaZA9U41Qe2zaVnj8pjpcQVccfnj3Jgpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "4Z8WrTLAaFVfPQBhfJ7toTRDnfsQ5RXsvwtwuPTSBY6gU7m3NpG4YRejL3AuLvGCT8d8AkviQTPT1HmBtWrq6YVd",
+    "mint": "LmWWLeLFzaZA9U41Qe2zaVnj8pjpcQVccfnj3Jgpump",
+    "sol_amount": 198200000,
+    "token_amount": 561970271231,
+    "is_buy": true,
+    "user": "CXyGJZmAscSyJoh84FaQ6mVbFhP3PSNyDYTxfpckpdDH",
+    "timestamp": 1735329085,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310200279,
+    "readable_time": "2024-12-27T19:51:25.000Z"
+  }
+}

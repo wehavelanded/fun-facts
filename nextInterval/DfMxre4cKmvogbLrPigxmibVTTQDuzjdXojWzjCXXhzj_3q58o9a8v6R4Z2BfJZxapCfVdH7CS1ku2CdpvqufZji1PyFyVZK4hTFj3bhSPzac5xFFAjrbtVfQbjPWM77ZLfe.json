@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "3q58o9a8v6R4Z2BfJZxapCfVdH7CS1ku2CdpvqufZji1PyFyVZK4hTFj3bhSPzac5xFFAjrbtVfQbjPWM77ZLfe",
+    "mint": "6LbRN2yQT8QHpDbXeXrykvLbANje46QniuDK3nscpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735867028,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311514160,
+    "readable_time": "2025-01-03T01:17:08.000Z",
+    "action": "Buy",
+    "token": "MCat",
+    "price": "$444.38",
+    "volume": "70.6M",
+    "pricePerToken": "$0.0₅62976",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/3q58o9a8v6R4Z2BfJZxapCfVdH7CS1ku2CdpvqufZji1PyFyVZK4hTFj3bhSPzac5xFFAjrbtVfQbjPWM77ZLfe",
+    "trans_Time": "2025-01-03 01:17:08",
+    "tokens_involved": [
+      "6LbRN2yQT8QHpDbXeXrykvLbANje46QniuDK3nscpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "7LUqfb2UinYabBnH3e8SzEEmT81u35je3HDMqCkv397icevQHqU9EEY6D5j4JHY1Mykp5PmqrACMkBsctru1MYE",
+    "mint": "6LbRN2yQT8QHpDbXeXrykvLbANje46QniuDK3nscpump",
+    "sol_amount": 24205174,
+    "token_amount": 281676820643,
+    "is_buy": true,
+    "user": "APdqPTKR1nQLps78iFsUXwtq7xTw5jQEABFRKFUSJhV6",
+    "timestamp": 1735867029,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311514162,
+    "readable_time": "2025-01-03T01:17:09.000Z"
+  }
+}

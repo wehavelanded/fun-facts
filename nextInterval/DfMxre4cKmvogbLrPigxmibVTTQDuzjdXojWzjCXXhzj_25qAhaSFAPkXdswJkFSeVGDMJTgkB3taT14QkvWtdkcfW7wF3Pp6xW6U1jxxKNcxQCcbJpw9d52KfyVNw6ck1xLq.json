@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "25qAhaSFAPkXdswJkFSeVGDMJTgkB3taT14QkvWtdkcfW7wF3Pp6xW6U1jxxKNcxQCcbJpw9d52KfyVNw6ck1xLq",
+    "mint": "DxqocniLJEeuz65j2EPpXSB6yHgFtMnMadUM3T3Upump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735615494,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310900383,
+    "readable_time": "2024-12-31T03:24:54.000Z",
+    "action": "Buy",
+    "token": "TONKS",
+    "price": "$410.8",
+    "volume": "63.6M",
+    "pricePerToken": "$0.0₅64566",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/25qAhaSFAPkXdswJkFSeVGDMJTgkB3taT14QkvWtdkcfW7wF3Pp6xW6U1jxxKNcxQCcbJpw9d52KfyVNw6ck1xLq",
+    "trans_Time": "2024-12-31 03:24:54",
+    "tokens_involved": [
+      "DxqocniLJEeuz65j2EPpXSB6yHgFtMnMadUM3T3Upump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "3R7qc42FMVwL4srZogwKG6bx5Ln32KL5yADAMpCqURsn9iDGBQmvKfUMDyUkjAAaq6FTJ9fj8y9uJN62qEYZnBgd",
+    "mint": "DxqocniLJEeuz65j2EPpXSB6yHgFtMnMadUM3T3Upump",
+    "sol_amount": 81027367,
+    "token_amount": 614068679258,
+    "is_buy": true,
+    "user": "282yBLpVXJoz7LpYZAGxnMM7JKA8nfcT7j6YdAp881kn",
+    "timestamp": 1735615495,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310900386,
+    "readable_time": "2024-12-31T03:24:55.000Z"
+  }
+}

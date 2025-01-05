@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "2BrzhZPMqmBm31Tn3DbTTSUBvpnpVTQGs9YaD2RaTvyAy3PVDN3fz4Bav1wvfH49PjWXuHKGVLxV1WvPdYFFQAbT",
+    "mint": "7zTL6PfLjLpAsHWFKTax6tnrFZ2PTSTv7YUJRb5jpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735939626,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311690394,
+    "readable_time": "2025-01-03T21:27:06.000Z",
+    "action": "Buy",
+    "token": "Nature",
+    "price": "$467.56",
+    "volume": "56.5M",
+    "pricePerToken": "$0.0₅82727",
+    "change": "--",
+    "updatedAgo": "21h ago",
+    "transactionLink": "https://solscan.io/tx/2BrzhZPMqmBm31Tn3DbTTSUBvpnpVTQGs9YaD2RaTvyAy3PVDN3fz4Bav1wvfH49PjWXuHKGVLxV1WvPdYFFQAbT",
+    "trans_Time": "2025-01-03 21:27:06",
+    "tokens_involved": [
+      "7zTL6PfLjLpAsHWFKTax6tnrFZ2PTSTv7YUJRb5jpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "26Jev7s3Bigg2aDvruXvzo2jJixGb7Xu1o8tX6aRwZVLzJYP2sanJdYc7RroMBvzbeUzSwPq7jUiEy38zmf2b647",
+    "mint": "7zTL6PfLjLpAsHWFKTax6tnrFZ2PTSTv7YUJRb5jpump",
+    "sol_amount": 99139801,
+    "token_amount": 646556426487,
+    "is_buy": true,
+    "user": "MfuNiwovAqZbzmT91uhM1UvvEcsUr9oKvqhXm6hgqHg",
+    "timestamp": 1735939627,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311690397,
+    "readable_time": "2025-01-03T21:27:07.000Z"
+  }
+}

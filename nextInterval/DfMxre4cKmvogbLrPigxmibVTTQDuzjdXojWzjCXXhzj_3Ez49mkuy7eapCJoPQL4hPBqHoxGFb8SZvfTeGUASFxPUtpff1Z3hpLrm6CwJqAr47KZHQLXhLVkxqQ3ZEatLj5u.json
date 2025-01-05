@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "3Ez49mkuy7eapCJoPQL4hPBqHoxGFb8SZvfTeGUASFxPUtpff1Z3hpLrm6CwJqAr47KZHQLXhLVkxqQ3ZEatLj5u",
+    "mint": "DEu6iXu1RjsAipebHvHjtbFu9YBpBQbn28Z9RZZWh3q1",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735925272,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311655600,
+    "readable_time": "2025-01-03T17:27:52.000Z",
+    "action": "Buy",
+    "token": "ARBOROCID",
+    "price": "$468.25",
+    "volume": "59.3M",
+    "pricePerToken": "$0.0₅78904",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/3Ez49mkuy7eapCJoPQL4hPBqHoxGFb8SZvfTeGUASFxPUtpff1Z3hpLrm6CwJqAr47KZHQLXhLVkxqQ3ZEatLj5u",
+    "trans_Time": "2025-01-03 17:27:52",
+    "tokens_involved": [
+      "DEu6iXu1RjsAipebHvHjtbFu9YBpBQbn28Z9RZZWh3q1"
+    ]
+  },
+  "closest_trade": {
+    "signature": "3HWqEwApMZkh4iwGfLYbK2sp73ENWkUysb9aDd2z7Xb7UgDn9saCcjMNZVNt7qXWHD1jSSCm2M2FqfMhtDX9Awde",
+    "mint": "DEu6iXu1RjsAipebHvHjtbFu9YBpBQbn28Z9RZZWh3q1",
+    "sol_amount": 291196209,
+    "token_amount": 2751928845740,
+    "is_buy": true,
+    "user": "CqF7MhWMEmi19hfKX7GEFvUt8Nus3MPceteX4bhUcoQQ",
+    "timestamp": 1735925273,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311655604,
+    "readable_time": "2025-01-03T17:27:53.000Z"
+  }
+}

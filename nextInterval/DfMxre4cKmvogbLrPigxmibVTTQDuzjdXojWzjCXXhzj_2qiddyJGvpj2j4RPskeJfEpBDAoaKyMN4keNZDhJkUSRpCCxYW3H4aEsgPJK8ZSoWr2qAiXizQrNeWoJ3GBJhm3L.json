@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "2qiddyJGvpj2j4RPskeJfEpBDAoaKyMN4keNZDhJkUSRpCCxYW3H4aEsgPJK8ZSoWr2qAiXizQrNeWoJ3GBJhm3L",
+    "mint": "39cnMDeFNqtWZ2MjV5RhRSUoFzEoHgzifDh6iMYepump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735535149,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310703509,
+    "readable_time": "2024-12-30T05:05:49.000Z",
+    "action": "Buy",
+    "token": "Upstreet",
+    "price": "$1,864.92",
+    "volume": "44.9M",
+    "pricePerToken": "$0.0₄4157",
+    "change": "--",
+    "updatedAgo": "5d ago",
+    "transactionLink": "https://solscan.io/tx/2qiddyJGvpj2j4RPskeJfEpBDAoaKyMN4keNZDhJkUSRpCCxYW3H4aEsgPJK8ZSoWr2qAiXizQrNeWoJ3GBJhm3L",
+    "trans_Time": "2024-12-30 05:05:49",
+    "tokens_involved": [
+      "39cnMDeFNqtWZ2MjV5RhRSUoFzEoHgzifDh6iMYepump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "3QGJE88TxKFsTCgUqmFcDrWijKyGq4eCaVgzy2bwJFi74LX8b6RmJuoS7gvZ9auWPMhgGa1zHGowNaLn1PVDxQx6",
+    "mint": "39cnMDeFNqtWZ2MjV5RhRSUoFzEoHgzifDh6iMYepump",
+    "sol_amount": 276384746,
+    "token_amount": 674285555702,
+    "is_buy": true,
+    "user": "Hu8ZG7v9YkZrW4r3djNUiqymr7g8MBocRMMqADwEpfB5",
+    "timestamp": 1735535150,
+    "tx_index": 2,
+    "username": null,
+    "profile_image": null,
+    "slot": 310703511,
+    "readable_time": "2024-12-30T05:05:50.000Z"
+  }
+}

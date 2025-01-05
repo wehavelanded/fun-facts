@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "2kd1qvt9faEg1za5TnsUhCskXh4bosHsBpmkmPVwTJ2VdVDtDuocXWd3yRSPQsN2a2aZqkBfkZCdiLuaUZLD59d6",
+    "mint": "FnhQRQaibTePLtmfpKURZvdB3EZMyt2rSzLiPy4dpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735280775,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310082069,
+    "readable_time": "2024-12-27T06:26:15.000Z",
+    "action": "Buy",
+    "token": "COLIDE",
+    "price": "$931.09",
+    "volume": "36.3M",
+    "pricePerToken": "$0.0₄25654",
+    "change": "--",
+    "updatedAgo": "8d ago",
+    "transactionLink": "https://solscan.io/tx/2kd1qvt9faEg1za5TnsUhCskXh4bosHsBpmkmPVwTJ2VdVDtDuocXWd3yRSPQsN2a2aZqkBfkZCdiLuaUZLD59d6",
+    "trans_Time": "2024-12-27 06:26:15",
+    "tokens_involved": [
+      "FnhQRQaibTePLtmfpKURZvdB3EZMyt2rSzLiPy4dpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "5yYMTw1Y1UPHifz2b7xoHDjGWGGta46dH6Ja5DnQYhSu1a31rqsvLuZQnjwN56Tz8JSYqr6YjZQXWiDYf3Z3CN4A",
+    "mint": "FnhQRQaibTePLtmfpKURZvdB3EZMyt2rSzLiPy4dpump",
+    "sol_amount": 2970000000,
+    "token_amount": 8437991344020,
+    "is_buy": true,
+    "user": "3pGXdYR17NCazSWBJTUrkAuUPLyKo9Fhqn8yr4TinSae",
+    "timestamp": 1735280776,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310082070,
+    "readable_time": "2024-12-27T06:26:16.000Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "5HQ6rTMrU6ZehRKeDYy1yVC4LNBJymJvM9zyaKS7DpSh7hYPxcxicuEa688qnEhd6EAg8vQ7L5RwTfcKM4oXpZNK",
+    "mint": "HeztAoUHZMu1KDTeq8mbDxrc8VCFXdLRS8cRDfhdpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735201649,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 309889532,
+    "readable_time": "2024-12-26T08:27:29.000Z",
+    "action": "Buy",
+    "token": "달마안",
+    "price": "$409.51",
+    "volume": "42.4M",
+    "pricePerToken": "$0.0₅9655",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/5HQ6rTMrU6ZehRKeDYy1yVC4LNBJymJvM9zyaKS7DpSh7hYPxcxicuEa688qnEhd6EAg8vQ7L5RwTfcKM4oXpZNK",
+    "trans_Time": "2024-12-26 08:27:29",
+    "tokens_involved": [
+      "HeztAoUHZMu1KDTeq8mbDxrc8VCFXdLRS8cRDfhdpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "4k6hC2RZ8tBm9bq2MR972dkYxTy634pppzYTW7ivKCXPBrDBt9BJbYBmZHxm6o6dzVZh2vnVRgWNT6ESnijSaZHr",
+    "mint": "HeztAoUHZMu1KDTeq8mbDxrc8VCFXdLRS8cRDfhdpump",
+    "sol_amount": 65948861,
+    "token_amount": 234261997781,
+    "is_buy": true,
+    "user": "HnYioeXiTsjUfzJCm1G7kNgqYXkBdmWkcqcUFs7hewxf",
+    "timestamp": 1735201650,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 309889536,
+    "readable_time": "2024-12-26T08:27:30.000Z"
+  }
+}

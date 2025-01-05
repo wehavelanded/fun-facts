@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "28RVn6ppvfrqwDqSNdACzE4QAS15F2PYrVE82CyWnV6gCx5VzL89gKp9e8WMaUuz6yCE2iWKLPzmSHTGwxMXADDN",
+    "mint": "8mPi7ZDUbP65x7Eo5ef7dcttUvHX8bUtYu43UFFZpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735937589,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311685442,
+    "readable_time": "2025-01-03T20:53:09.000Z",
+    "action": "Buy",
+    "token": "MANIFESTO",
+    "price": "$465.55",
+    "volume": "58.8M",
+    "pricePerToken": "$0.0₅7914",
+    "change": "--",
+    "updatedAgo": "22h ago",
+    "transactionLink": "https://solscan.io/tx/28RVn6ppvfrqwDqSNdACzE4QAS15F2PYrVE82CyWnV6gCx5VzL89gKp9e8WMaUuz6yCE2iWKLPzmSHTGwxMXADDN",
+    "trans_Time": "2025-01-03 20:53:09",
+    "tokens_involved": [
+      "8mPi7ZDUbP65x7Eo5ef7dcttUvHX8bUtYu43UFFZpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "hS1iVvo9BudRuzLhfSRJeB5RgKRwFhGj7rcjQ9D2aviwMMHbUZ1MFKz5gYbgqDsLkEhR2AZL5XwbTbVcGBg3dSD",
+    "mint": "8mPi7ZDUbP65x7Eo5ef7dcttUvHX8bUtYu43UFFZpump",
+    "sol_amount": 300328444,
+    "token_amount": 2727938723927,
+    "is_buy": true,
+    "user": "CqF7MhWMEmi19hfKX7GEFvUt8Nus3MPceteX4bhUcoQQ",
+    "timestamp": 1735937590,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311685446,
+    "readable_time": "2025-01-03T20:53:10.000Z"
+  }
+}

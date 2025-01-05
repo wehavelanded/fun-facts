@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "2izoKCaagLhikAUAMGzUgqXqDoJX22AQQQo6ugydjhvYvZrbVbiJVpj9ArY4UMd7E3HCagQetYKEgixTeet6FZnq",
+    "mint": "9b4ma7aBsLEPiZtnh9F2S6b7YJUaoVHm4cmnc5x9pump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735205792,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 309899608,
+    "readable_time": "2024-12-26T09:36:32.000Z",
+    "action": "Buy",
+    "token": "dalgona",
+    "price": "$408.52",
+    "volume": "63M",
+    "pricePerToken": "$0.0₅6487",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/2izoKCaagLhikAUAMGzUgqXqDoJX22AQQQo6ugydjhvYvZrbVbiJVpj9ArY4UMd7E3HCagQetYKEgixTeet6FZnq",
+    "trans_Time": "2024-12-26 09:36:32",
+    "tokens_involved": [
+      "9b4ma7aBsLEPiZtnh9F2S6b7YJUaoVHm4cmnc5x9pump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "5Nt358ksasohLrLQ8vCYemBsK19Noo2Dt6k56as95q84u3niviMt6q98XcWCNioSWuFU25YegoQ3Fau4gRtnZVbt",
+    "mint": "9b4ma7aBsLEPiZtnh9F2S6b7YJUaoVHm4cmnc5x9pump",
+    "sol_amount": 497426825,
+    "token_amount": 1547868519819,
+    "is_buy": true,
+    "user": "64QtCMdeoA2qAfaNFJGX8BLsPFACgJhS4wuGJGUTmRiR",
+    "timestamp": 1735205793,
+    "tx_index": 1,
+    "username": "64QtCM",
+    "profile_image": null,
+    "slot": 309899611,
+    "readable_time": "2024-12-26T09:36:33.000Z"
+  }
+}

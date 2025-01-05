@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "3opnFt2kdbbCYNQdw9TLZZwMnpDrP2Wnux8kknwdmX8DDcUANEU5qUoxgwdF8qxKyzoPyTNHbzPJnBxVtAFAYrdM",
+    "mint": "AnqQCq1wd4Zov4Rrj719nAiLfc2WwFkTz7NKPssSdqVa",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735674671,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311044932,
+    "readable_time": "2024-12-31T19:51:11.000Z",
+    "action": "Buy",
+    "token": "rsv",
+    "price": "$418.05",
+    "volume": "52.9M",
+    "pricePerToken": "$0.0₅79",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/3opnFt2kdbbCYNQdw9TLZZwMnpDrP2Wnux8kknwdmX8DDcUANEU5qUoxgwdF8qxKyzoPyTNHbzPJnBxVtAFAYrdM",
+    "trans_Time": "2024-12-31 19:51:11",
+    "tokens_involved": [
+      "AnqQCq1wd4Zov4Rrj719nAiLfc2WwFkTz7NKPssSdqVa"
+    ]
+  },
+  "closest_trade": {
+    "signature": "D61v8PJEaQDTArnKZNHf179uHBxKWPoPZ5hoY4xYG5rJhqv8vaLQenw6rtLi8pC9oYAXcuUnmJSFJGUiyerLvbz",
+    "mint": "AnqQCq1wd4Zov4Rrj719nAiLfc2WwFkTz7NKPssSdqVa",
+    "sol_amount": 248378838,
+    "token_amount": 1628296366575,
+    "is_buy": true,
+    "user": "GnfKe1Hqg2wHYZaPdbyZjUv3TExt6RLHiE89CEsYyims",
+    "timestamp": 1735674672,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311044934,
+    "readable_time": "2024-12-31T19:51:12.000Z"
+  }
+}

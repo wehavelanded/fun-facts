@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "5vWmoApb1wS8h6LHMfvvkiDW1ZE788BUPDRYNtTuZiruJZYqQhZrdaGb1LnMhjqMzajgjD3cotcAJxv678EL512V",
+    "mint": "DK5x3Hd2RoWxiJbPBUv2GKwWawPRdS387LWFjqf1pump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735932336,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311672724,
+    "readable_time": "2025-01-03T19:25:36.000Z",
+    "action": "Buy",
+    "token": "G.O.A.T",
+    "price": "$468.7",
+    "volume": "61M",
+    "pricePerToken": "$0.0₅76778",
+    "change": "--",
+    "updatedAgo": "23h ago",
+    "transactionLink": "https://solscan.io/tx/5vWmoApb1wS8h6LHMfvvkiDW1ZE788BUPDRYNtTuZiruJZYqQhZrdaGb1LnMhjqMzajgjD3cotcAJxv678EL512V",
+    "trans_Time": "2025-01-03 19:25:36",
+    "tokens_involved": [
+      "DK5x3Hd2RoWxiJbPBUv2GKwWawPRdS387LWFjqf1pump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "49J7UGjZftt114UmqvrjWn2dUyW9CDfaDTEsWFiQXEtfJHqWp77z7gQkkUbjZokQ1cK1kBejnBfWhRCQZrEfkGBj",
+    "mint": "DK5x3Hd2RoWxiJbPBUv2GKwWawPRdS387LWFjqf1pump",
+    "sol_amount": 26583561,
+    "token_amount": 210016357682,
+    "is_buy": true,
+    "user": "AKUpwcvVUYvNyLKUCLiaBTsisfh8hZhNXayXkTGHY3MH",
+    "timestamp": 1735932337,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311672729,
+    "readable_time": "2025-01-03T19:25:37.000Z"
+  }
+}

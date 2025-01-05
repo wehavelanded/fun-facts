@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "5oVKdU4y3xGib3dBAVqhbBfSwnPuuwX1GPSSXgMRwNf2NErW5eqMbKvNTHhRBzxRcknRkRyoKWjjFQvEK81xkiQX",
+    "mint": "BpuKM1Fa1W7ent61tA6bwSqpZvDLz8Ma2cfGP1d58xZ",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735363106,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310283595,
+    "readable_time": "2024-12-28T05:18:26.000Z",
+    "action": "Buy",
+    "token": "STEM",
+    "price": "$400.06",
+    "volume": "27.9M",
+    "pricePerToken": "$0.0₄14338",
+    "change": "--",
+    "updatedAgo": "7d ago",
+    "transactionLink": "https://solscan.io/tx/5oVKdU4y3xGib3dBAVqhbBfSwnPuuwX1GPSSXgMRwNf2NErW5eqMbKvNTHhRBzxRcknRkRyoKWjjFQvEK81xkiQX",
+    "trans_Time": "2024-12-28 05:18:26",
+    "tokens_involved": [
+      "BpuKM1Fa1W7ent61tA6bwSqpZvDLz8Ma2cfGP1d58xZ"
+    ]
+  },
+  "closest_trade": {
+    "signature": "3nrAg3iWMkeLJ2Y6DoG1FTB4wArQsX2TZvBwyZYH4BJ4d7pCbv7981aXapuT9cMm5akzBd69dCJv9LWhff164q5V",
+    "mint": "BpuKM1Fa1W7ent61tA6bwSqpZvDLz8Ma2cfGP1d58xZ",
+    "sol_amount": 20888124,
+    "token_amount": 72003532544,
+    "is_buy": true,
+    "user": "CYLEHaiYHCwTwkXbAKxiVs5ghDYGRjUNHMWQJecW9MdN",
+    "timestamp": 1735363107,
+    "tx_index": 1,
+    "username": "Juss",
+    "profile_image": null,
+    "slot": 310283600,
+    "readable_time": "2024-12-28T05:18:27.000Z"
+  }
+}

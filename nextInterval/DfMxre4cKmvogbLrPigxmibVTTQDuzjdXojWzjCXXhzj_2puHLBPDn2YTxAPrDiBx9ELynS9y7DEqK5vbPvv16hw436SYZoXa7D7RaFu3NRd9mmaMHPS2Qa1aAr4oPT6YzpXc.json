@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "2puHLBPDn2YTxAPrDiBx9ELynS9y7DEqK5vbPvv16hw436SYZoXa7D7RaFu3NRd9mmaMHPS2Qa1aAr4oPT6YzpXc",
+    "mint": "3j1inmkWfm4PdpvaZEo4sky1ncPkmnwoGgpda6Pmpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735946303,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311706488,
+    "readable_time": "2025-01-03T23:18:23.000Z",
+    "action": "Buy",
+    "token": "QOAI",
+    "price": "$468.46",
+    "volume": "16.2M",
+    "pricePerToken": "$0.0₄28854",
+    "change": "--",
+    "updatedAgo": "19h ago",
+    "transactionLink": "https://solscan.io/tx/2puHLBPDn2YTxAPrDiBx9ELynS9y7DEqK5vbPvv16hw436SYZoXa7D7RaFu3NRd9mmaMHPS2Qa1aAr4oPT6YzpXc",
+    "trans_Time": "2025-01-03 23:18:23",
+    "tokens_involved": [
+      "3j1inmkWfm4PdpvaZEo4sky1ncPkmnwoGgpda6Pmpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "2LKrLPNq9d5mGfdoA4JwzgjaaGSskVteqsEtM1HYdGx4MBe12zEwjQyLaqaSioJvAS4BxzLVvBAy79r2C85HrNtT",
+    "mint": "3j1inmkWfm4PdpvaZEo4sky1ncPkmnwoGgpda6Pmpump",
+    "sol_amount": 3204523409,
+    "token_amount": 14143662000000,
+    "is_buy": true,
+    "user": "C6vr9Hxf9aFr55u8dV3LJpsjVxZYc7Lew5oSrrcqPYgu",
+    "timestamp": 1735946304,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311706490,
+    "readable_time": "2025-01-03T23:18:24.000Z"
+  }
+}

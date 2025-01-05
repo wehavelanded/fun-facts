@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "5bmehPqWM5QAf8dbgzNHmTW3NR7FuzAir7KK59UqooyAnkzSsyCY9nQ751YTP9fFJ6Tm4JYadRFqjCfWcRxAvW1w",
+    "mint": "8cqxp4cLe7Z58MJ5srUQpV17fJrBbcPbuRu7DJF4pump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735595652,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310851714,
+    "readable_time": "2024-12-30T21:54:12.000Z",
+    "action": "Buy",
+    "token": "POPE",
+    "price": "$408.17",
+    "volume": "54.7M",
+    "pricePerToken": "$0.0₅74579",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/5bmehPqWM5QAf8dbgzNHmTW3NR7FuzAir7KK59UqooyAnkzSsyCY9nQ751YTP9fFJ6Tm4JYadRFqjCfWcRxAvW1w",
+    "trans_Time": "2024-12-30 21:54:12",
+    "tokens_involved": [
+      "8cqxp4cLe7Z58MJ5srUQpV17fJrBbcPbuRu7DJF4pump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "4tSpFDjAzc1L1Qt96iNCDUYaHThE6TQnSjbwa84NbKPjtrLmneLadhb4r6Z4t1W9uYwKdAKR1Swsz2CkLaork4L3",
+    "mint": "8cqxp4cLe7Z58MJ5srUQpV17fJrBbcPbuRu7DJF4pump",
+    "sol_amount": 3127149704,
+    "token_amount": 22238137109821,
+    "is_buy": false,
+    "user": "DU7iuBwRjHx5eAhRRJYmRsX3tAQp9BhLPoCp9fvWNdUY",
+    "timestamp": 1735595653,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310851717,
+    "readable_time": "2024-12-30T21:54:13.000Z"
+  }
+}

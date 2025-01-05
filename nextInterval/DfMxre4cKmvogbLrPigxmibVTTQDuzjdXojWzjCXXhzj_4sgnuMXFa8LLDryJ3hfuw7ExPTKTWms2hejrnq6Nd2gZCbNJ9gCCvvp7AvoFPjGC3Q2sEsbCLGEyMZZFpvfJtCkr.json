@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "4sgnuMXFa8LLDryJ3hfuw7ExPTKTWms2hejrnq6Nd2gZCbNJ9gCCvvp7AvoFPjGC3Q2sEsbCLGEyMZZFpvfJtCkr",
+    "mint": "9djrKJbtDENv4xHXXqdtdoCodn7N7qjEHHs21snmfLMD",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735424565,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310434719,
+    "readable_time": "2024-12-28T22:22:45.000Z",
+    "action": "Buy",
+    "token": "MARC",
+    "price": "$190.78",
+    "volume": "4.1M",
+    "pricePerToken": "$0.0₄47059",
+    "change": "--",
+    "updatedAgo": "6d ago",
+    "transactionLink": "https://solscan.io/tx/4sgnuMXFa8LLDryJ3hfuw7ExPTKTWms2hejrnq6Nd2gZCbNJ9gCCvvp7AvoFPjGC3Q2sEsbCLGEyMZZFpvfJtCkr",
+    "trans_Time": "2024-12-28 22:22:45",
+    "tokens_involved": [
+      "9djrKJbtDENv4xHXXqdtdoCodn7N7qjEHHs21snmfLMD"
+    ]
+  },
+  "closest_trade": {
+    "signature": "3FVo1EDgbMDjophBh5N5ffEtE1sHtkJysVf8PvNhsrtUQ5jtHoLMhWSv6nkfhYpVr2gEmkbmxrMSHSSvWchjLLLw",
+    "mint": "9djrKJbtDENv4xHXXqdtdoCodn7N7qjEHHs21snmfLMD",
+    "sol_amount": 130782183,
+    "token_amount": 408983419011,
+    "is_buy": true,
+    "user": "HhHEQwKdB9R2grd89HVdJ7ke3iwrBFcv8hSntF75Hijx",
+    "timestamp": 1735424566,
+    "tx_index": 1,
+    "username": "Moonycoin",
+    "profile_image": "https://ipfs.io/ipfs/QmTbRaJNVaAE2yZNJguRRg9e9oCisZiMFDUVYN6JpTcVtM",
+    "slot": 310434720,
+    "readable_time": "2024-12-28T22:22:46.000Z"
+  }
+}

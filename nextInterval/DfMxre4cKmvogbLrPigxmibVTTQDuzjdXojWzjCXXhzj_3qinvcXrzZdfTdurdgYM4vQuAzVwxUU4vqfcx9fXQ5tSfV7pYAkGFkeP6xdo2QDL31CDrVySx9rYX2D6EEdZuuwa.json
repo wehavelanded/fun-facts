@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "3qinvcXrzZdfTdurdgYM4vQuAzVwxUU4vqfcx9fXQ5tSfV7pYAkGFkeP6xdo2QDL31CDrVySx9rYX2D6EEdZuuwa",
+    "mint": "5Ky7Z7Kv2uJ6Fh8TZ6zFua9H3JNrzrmposXXdVXepump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735780125,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311302644,
+    "readable_time": "2025-01-02T01:08:45.000Z",
+    "action": "Buy",
+    "token": "OBC",
+    "price": "$427.43",
+    "volume": "70.6M",
+    "pricePerToken": "$0.0₅60547",
+    "change": "--",
+    "updatedAgo": "2d ago",
+    "transactionLink": "https://solscan.io/tx/3qinvcXrzZdfTdurdgYM4vQuAzVwxUU4vqfcx9fXQ5tSfV7pYAkGFkeP6xdo2QDL31CDrVySx9rYX2D6EEdZuuwa",
+    "trans_Time": "2025-01-02 01:08:45",
+    "tokens_involved": [
+      "5Ky7Z7Kv2uJ6Fh8TZ6zFua9H3JNrzrmposXXdVXepump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "uHEssS2xN48JhmwvYeM5MUHHkuqrmZtcKzeg3xSt44uD6orbCToTjbz4PiQN6mttSizXdtYKGZAaK7nT6qwwSoF",
+    "mint": "5Ky7Z7Kv2uJ6Fh8TZ6zFua9H3JNrzrmposXXdVXepump",
+    "sol_amount": 130755150,
+    "token_amount": 2037310590368,
+    "is_buy": true,
+    "user": "CkgRjE5ZoQe7tNC6DpWpxg8DfN4muZEPJ9yYbWjAwwt8",
+    "timestamp": 1735780126,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311302648,
+    "readable_time": "2025-01-02T01:08:46.000Z"
+  }
+}

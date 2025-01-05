@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "2khrg5Uq1QHQy1CSFuFuzWhn3XVC9hEoRcpgiys1WHn9HpgwNCj5U1ejnUTQPKo9YK4d7RTFq5Rps8wBPzndfM3t",
+    "mint": "GCKLTJjCTBLixbBx85EHHmjgYB1EhUn3BAJWfr6Xpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735665068,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311021485,
+    "readable_time": "2024-12-31T17:11:08.000Z",
+    "action": "Buy",
+    "token": "DEBRINA",
+    "price": "$1,950.2",
+    "volume": "56M",
+    "pricePerToken": "$0.0₄34814",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/2khrg5Uq1QHQy1CSFuFuzWhn3XVC9hEoRcpgiys1WHn9HpgwNCj5U1ejnUTQPKo9YK4d7RTFq5Rps8wBPzndfM3t",
+    "trans_Time": "2024-12-31 17:11:08",
+    "tokens_involved": [
+      "GCKLTJjCTBLixbBx85EHHmjgYB1EhUn3BAJWfr6Xpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "2aS6ZAfb75NPHddc9vhnrefrv7aAdM4mxTAVgGFDcvz3AQfPiiVBeQyjkQLt432Z4sS1cE6hiEXvUUrkgavRf4dd",
+    "mint": "GCKLTJjCTBLixbBx85EHHmjgYB1EhUn3BAJWfr6Xpump",
+    "sol_amount": 190790244,
+    "token_amount": 1142984776604,
+    "is_buy": true,
+    "user": "7mV3VTFdyKTAZdJvW59rQaMNEiCmtAiRE2hahdfXDECE",
+    "timestamp": 1735665069,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311021489,
+    "readable_time": "2024-12-31T17:11:09.000Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "zQE4U4duWd2ZxXUbf998Rb6EBUAbTdfhFd6X91oyn3GEGh14z6n6H3Q7Jd6QBebzKNUZ2vEriVkTAwMYKJBAwk6",
+    "mint": "6MbTqwqPnBD2LMZAadQzX2Pfn3wCciR5WfwGseWbUBGh",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735273757,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310064783,
+    "readable_time": "2024-12-27T04:29:17.000Z",
+    "action": "Buy",
+    "token": "M3ME",
+    "price": "$1,493.19",
+    "volume": "49.9M",
+    "pricePerToken": "$0.0₄2991",
+    "change": "--",
+    "updatedAgo": "8d ago",
+    "transactionLink": "https://solscan.io/tx/zQE4U4duWd2ZxXUbf998Rb6EBUAbTdfhFd6X91oyn3GEGh14z6n6H3Q7Jd6QBebzKNUZ2vEriVkTAwMYKJBAwk6",
+    "trans_Time": "2024-12-27 04:29:17",
+    "tokens_involved": [
+      "6MbTqwqPnBD2LMZAadQzX2Pfn3wCciR5WfwGseWbUBGh"
+    ]
+  },
+  "closest_trade": {
+    "signature": "4aiAEPxC41xrsS6tvkSG7bqtjNTq5uF4ndC1HHVx5cFp4gTVCH8KunoMHywu9p4QfdpPag2jwhhoFab6df5DT3kj",
+    "mint": "6MbTqwqPnBD2LMZAadQzX2Pfn3wCciR5WfwGseWbUBGh",
+    "sol_amount": 991000000,
+    "token_amount": 2554391929754,
+    "is_buy": true,
+    "user": "6ifHHKe5TPE64DdetBP2agdyC1HR5sQuQTeUvJ3j8jCo",
+    "timestamp": 1735273758,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310064784,
+    "readable_time": "2024-12-27T04:29:18.000Z"
+  }
+}

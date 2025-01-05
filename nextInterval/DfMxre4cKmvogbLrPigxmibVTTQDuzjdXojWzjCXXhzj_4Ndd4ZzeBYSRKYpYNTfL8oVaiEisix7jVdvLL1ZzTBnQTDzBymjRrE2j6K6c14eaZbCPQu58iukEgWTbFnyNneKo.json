@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "4Ndd4ZzeBYSRKYpYNTfL8oVaiEisix7jVdvLL1ZzTBnQTDzBymjRrE2j6K6c14eaZbCPQu58iukEgWTbFnyNneKo",
+    "mint": "2q8crXiiUqBUib92XnJGmETvtWXQNJUHR6yq2ePepump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735277050,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310072862,
+    "readable_time": "2024-12-27T05:24:10.000Z",
+    "action": "Buy",
+    "token": "CAIN",
+    "price": "$922.07",
+    "volume": "108.1M",
+    "pricePerToken": "$0.0₅85264",
+    "change": "--",
+    "updatedAgo": "8d ago",
+    "transactionLink": "https://solscan.io/tx/4Ndd4ZzeBYSRKYpYNTfL8oVaiEisix7jVdvLL1ZzTBnQTDzBymjRrE2j6K6c14eaZbCPQu58iukEgWTbFnyNneKo",
+    "trans_Time": "2024-12-27 05:24:10",
+    "tokens_involved": [
+      "2q8crXiiUqBUib92XnJGmETvtWXQNJUHR6yq2ePepump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "gDGAxythaLLnLTJpEma3LWRt6iMZkqEd9N4QTKKyKTVigEFhFHh5TMHXtnnWWb4pUYFh7H6f8oLfqxNzTb9gtTZ",
+    "mint": "2q8crXiiUqBUib92XnJGmETvtWXQNJUHR6yq2ePepump",
+    "sol_amount": 50000000,
+    "token_amount": 221169405164,
+    "is_buy": true,
+    "user": "CAP6UPzCqEfevXRgn4qF4PWb2RcxQDf8WaDZ3ZcD5CUa",
+    "timestamp": 1735277051,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310072863,
+    "readable_time": "2024-12-27T05:24:11.000Z"
+  }
+}

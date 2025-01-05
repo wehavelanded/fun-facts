@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "3UmTqjvaoNbBLfNvLDfvd5sfwp1aw62kdjjZxyKvFAodzxSkWRAaZLrqLFF7xPXffwVXnCpNDBzmWr7WdxhAUw4x",
+    "mint": "BXhW3T7cEqTdYxNcYrkoMDBR59QEMdWS6i8m3evepump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735857558,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311491435,
+    "readable_time": "2025-01-02T22:39:18.000Z",
+    "action": "Buy",
+    "token": "SWISS",
+    "price": "$445.2",
+    "volume": "63.5M",
+    "pricePerToken": "$0.0₅70055",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/3UmTqjvaoNbBLfNvLDfvd5sfwp1aw62kdjjZxyKvFAodzxSkWRAaZLrqLFF7xPXffwVXnCpNDBzmWr7WdxhAUw4x",
+    "trans_Time": "2025-01-02 22:39:18",
+    "tokens_involved": [
+      "BXhW3T7cEqTdYxNcYrkoMDBR59QEMdWS6i8m3evepump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "5Hf3KzNWT3WSNrjy6uSW5iZsRoseoPb4WPi4gJY7sVekULg5Q3DsLYogwKM5mts1LUkshUR7T6byX869hyiLPHRQ",
+    "mint": "BXhW3T7cEqTdYxNcYrkoMDBR59QEMdWS6i8m3evepump",
+    "sol_amount": 99172652,
+    "token_amount": 985468619499,
+    "is_buy": true,
+    "user": "Dq6P6GH8J63FYaRLEQYY9sMgwezLPN15RNSxvQ78kjFA",
+    "timestamp": 1735857559,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311491437,
+    "readable_time": "2025-01-02T22:39:19.000Z"
+  }
+}

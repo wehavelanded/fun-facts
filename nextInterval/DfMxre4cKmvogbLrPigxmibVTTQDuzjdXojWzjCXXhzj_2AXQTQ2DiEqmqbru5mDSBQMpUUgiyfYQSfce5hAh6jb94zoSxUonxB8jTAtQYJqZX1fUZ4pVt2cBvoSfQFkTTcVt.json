@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "2AXQTQ2DiEqmqbru5mDSBQMpUUgiyfYQSfce5hAh6jb94zoSxUonxB8jTAtQYJqZX1fUZ4pVt2cBvoSfQFkTTcVt",
+    "mint": "7HoiGTMkJmX64FNEHb4iFDeZZdMumNQrkQ1DwhBpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735864940,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311509105,
+    "readable_time": "2025-01-03T00:42:20.000Z",
+    "action": "Buy",
+    "token": "CTM",
+    "price": "$446.9",
+    "volume": "59.1M",
+    "pricePerToken": "$0.0₅75675",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/2AXQTQ2DiEqmqbru5mDSBQMpUUgiyfYQSfce5hAh6jb94zoSxUonxB8jTAtQYJqZX1fUZ4pVt2cBvoSfQFkTTcVt",
+    "trans_Time": "2025-01-03 00:42:20",
+    "tokens_involved": [
+      "7HoiGTMkJmX64FNEHb4iFDeZZdMumNQrkQ1DwhBpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "s9sQmWXwHrLpNdU5LiZK4KS9VgWK4nK9N2NwVHCMi61naZYydm9mC1Yus84Fszdx1yf8m68XRtJdWyFsjzUHgre",
+    "mint": "7HoiGTMkJmX64FNEHb4iFDeZZdMumNQrkQ1DwhBpump",
+    "sol_amount": 500000000,
+    "token_amount": 4044587653323,
+    "is_buy": true,
+    "user": "8LXZatE4bxkoYGbUiEkvdu8gWEkvc1MSFGU6GF2Zcrq4",
+    "timestamp": 1735864941,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311509107,
+    "readable_time": "2025-01-03T00:42:21.000Z"
+  }
+}

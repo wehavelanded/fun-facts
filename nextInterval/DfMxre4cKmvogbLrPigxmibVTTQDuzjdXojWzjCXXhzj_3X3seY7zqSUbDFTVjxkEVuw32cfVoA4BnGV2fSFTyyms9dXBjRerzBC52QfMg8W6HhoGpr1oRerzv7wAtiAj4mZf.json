@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "3X3seY7zqSUbDFTVjxkEVuw32cfVoA4BnGV2fSFTyyms9dXBjRerzBC52QfMg8W6HhoGpr1oRerzv7wAtiAj4mZf",
+    "mint": "8t4gbXn9G2ct3E5imT2xUBBv7oMmDdv4mSWi2epjpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735597352,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310855918,
+    "readable_time": "2024-12-30T22:22:32.000Z",
+    "action": "Buy",
+    "token": "$SHINKAI",
+    "price": "$1,494.37",
+    "volume": "44.7M",
+    "pricePerToken": "$0.0₄33418",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/3X3seY7zqSUbDFTVjxkEVuw32cfVoA4BnGV2fSFTyyms9dXBjRerzBC52QfMg8W6HhoGpr1oRerzv7wAtiAj4mZf",
+    "trans_Time": "2024-12-30 22:22:32",
+    "tokens_involved": [
+      "8t4gbXn9G2ct3E5imT2xUBBv7oMmDdv4mSWi2epjpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "4hgB4v28EUPfgHBiwow8DueJdotRkJCYt37zSta5MWkPqTtRMETSpsgvL22k54ds8FAJB8SZUehULbU9Jrv3RFBE",
+    "mint": "8t4gbXn9G2ct3E5imT2xUBBv7oMmDdv4mSWi2epjpump",
+    "sol_amount": 163548986,
+    "token_amount": 570253946288,
+    "is_buy": true,
+    "user": "8aHKjHwHnaWWFyw8yjrsewggRjRCXPGcrVhhKK1q7rSb",
+    "timestamp": 1735597353,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310855920,
+    "readable_time": "2024-12-30T22:22:33.000Z"
+  }
+}

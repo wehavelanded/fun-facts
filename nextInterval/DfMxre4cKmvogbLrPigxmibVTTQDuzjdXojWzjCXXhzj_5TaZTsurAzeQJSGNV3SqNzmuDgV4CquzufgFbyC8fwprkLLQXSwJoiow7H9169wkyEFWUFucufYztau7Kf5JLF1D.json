@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "5TaZTsurAzeQJSGNV3SqNzmuDgV4CquzufgFbyC8fwprkLLQXSwJoiow7H9169wkyEFWUFucufYztau7Kf5JLF1D",
+    "mint": "5ejU7jMayEEbVSD3pWX1T1JaZToJPPbfu56e9JbPpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735667496,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311027414,
+    "readable_time": "2024-12-31T17:51:36.000Z",
+    "action": "Buy",
+    "token": "HAR",
+    "price": "$421.32",
+    "volume": "63.5M",
+    "pricePerToken": "$0.0₅66361",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/5TaZTsurAzeQJSGNV3SqNzmuDgV4CquzufgFbyC8fwprkLLQXSwJoiow7H9169wkyEFWUFucufYztau7Kf5JLF1D",
+    "trans_Time": "2024-12-31 17:51:36",
+    "tokens_involved": [
+      "5ejU7jMayEEbVSD3pWX1T1JaZToJPPbfu56e9JbPpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "QEpAdr3SZWDhkZ25LWmeb8MhQrMnhsxqmyUJ15u5hT4WuVV2pVeD8eXKyzagmE8rxtMmAov2MDjSkCYL2JeCQBY",
+    "mint": "5ejU7jMayEEbVSD3pWX1T1JaZToJPPbfu56e9JbPpump",
+    "sol_amount": 54224905,
+    "token_amount": 417356957851,
+    "is_buy": true,
+    "user": "282yBLpVXJoz7LpYZAGxnMM7JKA8nfcT7j6YdAp881kn",
+    "timestamp": 1735667497,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311027417,
+    "readable_time": "2024-12-31T17:51:37.000Z"
+  }
+}

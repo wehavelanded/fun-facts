@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "4bFuSEwXA1QManZPza6k2c6y7gsX77SqxqRJDvhu79qZ4AZfm1u1jsNE6U8GRtQhssMW3AmV1jFedWcm42yJr9sX",
+    "mint": "RufNMBEbKJr6CM1t3nwakZ3BaE9csF2AR15s32VWcRE",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735180523,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 309838717,
+    "readable_time": "2024-12-26T02:35:23.000Z",
+    "action": "Buy",
+    "token": "MIRA",
+    "price": "$1,555.14",
+    "volume": "30.9M",
+    "pricePerToken": "$0.0₄5033",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/4bFuSEwXA1QManZPza6k2c6y7gsX77SqxqRJDvhu79qZ4AZfm1u1jsNE6U8GRtQhssMW3AmV1jFedWcm42yJr9sX",
+    "trans_Time": "2024-12-26 02:35:23",
+    "tokens_involved": [
+      "RufNMBEbKJr6CM1t3nwakZ3BaE9csF2AR15s32VWcRE"
+    ]
+  },
+  "closest_trade": {
+    "signature": "63sXFSakvfm2UemUqjyWF9Km2AJF4sjERrgXfT8tpq2HBNrX9R9nU3ZmSi8nYXp1ofqaNEVGL1JLBKX3t3aGnAdC",
+    "mint": "RufNMBEbKJr6CM1t3nwakZ3BaE9csF2AR15s32VWcRE",
+    "sol_amount": 3000000000,
+    "token_amount": 8794445230403,
+    "is_buy": true,
+    "user": "EGJhrjiC5xnatN1shjatsckw9GNBWC6dadGV4fizYK7p",
+    "timestamp": 1735180524,
+    "tx_index": 1,
+    "username": "EGJhrj",
+    "profile_image": null,
+    "slot": 309838718,
+    "readable_time": "2024-12-26T02:35:24.000Z"
+  }
+}

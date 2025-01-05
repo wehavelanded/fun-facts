@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "4DWx61xRDDubwxPkFcmgR1BSPhDMULhi8WU857UVVzVXtPvfEv6oSgSni7G2qBtgY2N2WLCbjsfWE6ryioA2PXMh",
+    "mint": "8o7XxYqYxrnjSZDCsJuUE9Y2XCcdTGyCLKK5JX8Epump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735678561,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311054378,
+    "readable_time": "2024-12-31T20:56:01.000Z",
+    "action": "Buy",
+    "token": "alris",
+    "price": "$418.26",
+    "volume": "12.9M",
+    "pricePerToken": "$0.0₄32312",
+    "change": "--",
+    "updatedAgo": "3d ago",
+    "transactionLink": "https://solscan.io/tx/4DWx61xRDDubwxPkFcmgR1BSPhDMULhi8WU857UVVzVXtPvfEv6oSgSni7G2qBtgY2N2WLCbjsfWE6ryioA2PXMh",
+    "trans_Time": "2024-12-31 20:56:01",
+    "tokens_involved": [
+      "8o7XxYqYxrnjSZDCsJuUE9Y2XCcdTGyCLKK5JX8Epump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "2M6vokgCLgp2cyFP94xb9fB4sf5vTdrDGUiVeiRLpmUnbzxm64fBo78mfNfzTxBT4qXDKTNXKREiMdbPnV9tAois",
+    "mint": "8o7XxYqYxrnjSZDCsJuUE9Y2XCcdTGyCLKK5JX8Epump",
+    "sol_amount": 15840000001,
+    "token_amount": 76101440454847,
+    "is_buy": true,
+    "user": "8GYyPxh9NUK7Y7ScQXBbnXuBmZDmLekUYZMrBcahP9hH",
+    "timestamp": 1735678562,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311054379,
+    "readable_time": "2024-12-31T20:56:02.000Z"
+  }
+}

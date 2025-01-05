@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "2bWZMSbmS9UqT5SVCrbPCtuES6x5MzezbGoA4BuCQx6UGLxYuN1iP7pGxFsGNwwk98JiuHLZnR6toyKbiSr7UGko",
+    "mint": "2BYkV9gfvDJB1Z155Kvu4fuyRDc6jtPKheGkASB7pump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735614224,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310897271,
+    "readable_time": "2024-12-31T03:03:44.000Z",
+    "action": "Buy",
+    "token": "PAWS",
+    "price": "$409.46",
+    "volume": "70.6M",
+    "pricePerToken": "$0.0₅58011",
+    "change": "--",
+    "updatedAgo": "4d ago",
+    "transactionLink": "https://solscan.io/tx/2bWZMSbmS9UqT5SVCrbPCtuES6x5MzezbGoA4BuCQx6UGLxYuN1iP7pGxFsGNwwk98JiuHLZnR6toyKbiSr7UGko",
+    "trans_Time": "2024-12-31 03:03:44",
+    "tokens_involved": [
+      "2BYkV9gfvDJB1Z155Kvu4fuyRDc6jtPKheGkASB7pump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "3WVxStNVQ634HMYyfYusj7EwkrK7oUV2kCBafRqzMjo8ztviRC8w7zakBbJqYhXAWg9L9WUPCJ9d7uZD1oNb3bPr",
+    "mint": "2BYkV9gfvDJB1Z155Kvu4fuyRDc6jtPKheGkASB7pump",
+    "sol_amount": 33677222,
+    "token_amount": 250070937783,
+    "is_buy": true,
+    "user": "5n6PbuWRZnXD4bSfCaSeHoWZp8dGzk5PaNs1QbNNbc4i",
+    "timestamp": 1735614225,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 310897273,
+    "readable_time": "2024-12-31T03:03:45.000Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "4Fv8MQkRBbbLFoqYNam7935daVFuQaEowMpYosJPaPX1QQz3KszBXwkHFXiWHragKpcXyjWuP5bDceH9JDwBAG8M",
+    "mint": "3CSeAGiw5TYeuZfB74adUM1M9if1fEDXzr5PrnuNpump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735200451,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 309886669,
+    "readable_time": "2024-12-26T08:07:31.000Z",
+    "action": "Buy",
+    "token": "DALMATIAN",
+    "price": "$414.79",
+    "volume": "59.8M",
+    "pricePerToken": "$0.0₅69398",
+    "change": "--",
+    "updatedAgo": "9d ago",
+    "transactionLink": "https://solscan.io/tx/4Fv8MQkRBbbLFoqYNam7935daVFuQaEowMpYosJPaPX1QQz3KszBXwkHFXiWHragKpcXyjWuP5bDceH9JDwBAG8M",
+    "trans_Time": "2024-12-26 08:07:31",
+    "tokens_involved": [
+      "3CSeAGiw5TYeuZfB74adUM1M9if1fEDXzr5PrnuNpump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "54JrBKdtNuPBQBkEU1xThxE85WSFgcH6Gdun2TsTtbB1dWiJcxT1RXzGubXFCRALt85xnqNGEiS2AWbjpkxEae6a",
+    "mint": "3CSeAGiw5TYeuZfB74adUM1M9if1fEDXzr5PrnuNpump",
+    "sol_amount": 3709992640,
+    "token_amount": 16881656356095,
+    "is_buy": false,
+    "user": "EGJhrjiC5xnatN1shjatsckw9GNBWC6dadGV4fizYK7p",
+    "timestamp": 1735200452,
+    "tx_index": 1,
+    "username": "EGJhrj",
+    "profile_image": null,
+    "slot": 309886672,
+    "readable_time": "2024-12-26T08:07:32.000Z"
+  }
+}

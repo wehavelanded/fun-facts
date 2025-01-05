@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "61CLx2MaaQSm5orvwwcbEKmCvSGEus4B8vur32QLJuTVhXhXakr3dmxLsf4eFk5zcPM9kgSQuUQ5YeMLC2HkWB8B",
+    "mint": "FWun3MzzPkJFRZiig6FYcZNdd51beVxkHegNcS6spump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735962758,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311746363,
+    "readable_time": "2025-01-04T03:52:38.000Z",
+    "action": "Buy",
+    "token": "FHP",
+    "price": "$1,063.27",
+    "volume": "33.4M",
+    "pricePerToken": "$0.0₄31866",
+    "change": "--",
+    "updatedAgo": "15h ago",
+    "transactionLink": "https://solscan.io/tx/61CLx2MaaQSm5orvwwcbEKmCvSGEus4B8vur32QLJuTVhXhXakr3dmxLsf4eFk5zcPM9kgSQuUQ5YeMLC2HkWB8B",
+    "trans_Time": "2025-01-04 03:52:38",
+    "tokens_involved": [
+      "FWun3MzzPkJFRZiig6FYcZNdd51beVxkHegNcS6spump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "SM5eaq5MrAPg2oP3uePxohXj9Y93EJxa5PFyubvNQ6oRkCjTpKUiL3dKoxZ9H6J9caYK5cV3GUEPywJwBcz3rXY",
+    "mint": "FWun3MzzPkJFRZiig6FYcZNdd51beVxkHegNcS6spump",
+    "sol_amount": 7889575297,
+    "token_amount": 20615935711004,
+    "is_buy": true,
+    "user": "niggerd597QYedtvjQDVHZTCCGyJrwHNm2i49dkm5zS",
+    "timestamp": 1735962759,
+    "tx_index": 2,
+    "username": null,
+    "profile_image": null,
+    "slot": 311746365,
+    "readable_time": "2025-01-04T03:52:39.000Z"
+  }
+}

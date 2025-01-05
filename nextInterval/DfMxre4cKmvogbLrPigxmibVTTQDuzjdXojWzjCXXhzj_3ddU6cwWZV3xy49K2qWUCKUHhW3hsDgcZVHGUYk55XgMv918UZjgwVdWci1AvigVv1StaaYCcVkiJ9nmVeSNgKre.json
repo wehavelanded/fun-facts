@@ -1,0 +1,40 @@
+{
+  "merged_trade": {
+    "signature": "3ddU6cwWZV3xy49K2qWUCKUHhW3hsDgcZVHGUYk55XgMv918UZjgwVdWci1AvigVv1StaaYCcVkiJ9nmVeSNgKre",
+    "mint": "AXVinUkUGoC9sMsCyzhXyvgnCDu5zBiFn1MKUgnupump",
+    "is_buy": true,
+    "user": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj",
+    "timestamp": 1735924230,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311653054,
+    "readable_time": "2025-01-03T17:10:30.000Z",
+    "action": "Buy",
+    "token": "BLOOD",
+    "price": "$639.34",
+    "volume": "85.2M",
+    "pricePerToken": "$0.0₅75067",
+    "change": "--",
+    "updatedAgo": "1d ago",
+    "transactionLink": "https://solscan.io/tx/3ddU6cwWZV3xy49K2qWUCKUHhW3hsDgcZVHGUYk55XgMv918UZjgwVdWci1AvigVv1StaaYCcVkiJ9nmVeSNgKre",
+    "trans_Time": "2025-01-03 17:10:30",
+    "tokens_involved": [
+      "AXVinUkUGoC9sMsCyzhXyvgnCDu5zBiFn1MKUgnupump"
+    ]
+  },
+  "closest_trade": {
+    "signature": "3vq3igrVH8FhUWhHvyC8BwPKpci77bSgVPHS7C64prMzjHaVUuFServt5KZnZoG5xkrSKCV4EzbnmZDxzCWhb1St",
+    "mint": "AXVinUkUGoC9sMsCyzhXyvgnCDu5zBiFn1MKUgnupump",
+    "sol_amount": 1008506598,
+    "token_amount": 10949176316676,
+    "is_buy": true,
+    "user": "3SUbpvn1Wi5wXeo3u9jEXEE6YUcvuY9nv9ivTtDnSXWB",
+    "timestamp": 1735924231,
+    "tx_index": 1,
+    "username": null,
+    "profile_image": null,
+    "slot": 311653056,
+    "readable_time": "2025-01-03T17:10:31.000Z"
+  }
+}
